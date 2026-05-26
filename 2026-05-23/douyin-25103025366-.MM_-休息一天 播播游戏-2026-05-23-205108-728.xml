@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<i>
+    <rec>
+        <recorder>OneLiveRec cli 0.10.0 x86_64-pc-windows-msvc | https://github.com/oneliverec/OneLiveRec</recorder>
+        <platform>douyin</platform>
+        <channel>25103025366</channel>
+        <user_id>MS4wLjABAAAAoYX8WhRtgOpXZs-Y9K-SYI3D_sxTTfC7UP_1SSeiN_vhj_7YY0yjeSMAzfGMJAl6</user_id>
+        <user_name>.MM.</user_name>
+        <title>休息一天 播播游戏</title>
+        <cover>https://p11-webcast-sign.douyinpic.com/webcast-cover/7578860460303256346~tplv-qz53dukwul-common-resize:0:0.image?biz_tag=app_6383_webcast&amp;from=webcast.room.pack&amp;l=20260523205100101F85F0BC455B53688E&amp;lk3s=39e7556e&amp;s=enter_room&amp;sc=webcast_cover&amp;x-expires=1782132660&amp;x-signature=Zz48SDDThNxHaEYGURHkAO1NYso%3D</cover>
+        <categories>竞技游戏</categories>
+        <live_id>7643068695530588974</live_id>
+        <start_time/>
+    </rec>
+    <gift ts="0" giftname="闪烁星河" giftcount="1" price="1" send-time="1779540668309" gift-id="685" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="3.995" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540672661" gift-id="685" uid="MS4wLjABAAAALQj0epvLb9j67DBBzg8OO-FpISeKb5613YFKkC6jOyJE6a0JMkuy2_d7Ouz9U3eS" user="OMO"/>
+    <d p="7.989,1,25,16777215,1779540673000,0,893498527,7643068980462900260" uid="MS4wLjABAAAAMeLQvdQckDBAs2DOyyzXeuWQkH9iMEMv9jXEG-O4raM" user="憨憨不憨">怎么上车啊</d>
+    <gift ts="11.983" giftname="星光闪耀" giftcount="1" price="9" send-time="1779540676138" gift-id="11884" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="11.983" giftname="星光闪耀" giftcount="1" price="9" send-time="1779540676138" gift-id="11884" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="13.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540677308" gift-id="6937" uid="MS4wLjABAAAAU9lbSQheRD7aTAlLGo7CmUx9YMQp8CL5XmFfLIlDFZvkp_2aXpQo8CNafU2M4Xc8" user="摆烂仔"/>
+    <gift ts="13.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540677308" gift-id="6937" uid="MS4wLjABAAAAU9lbSQheRD7aTAlLGo7CmUx9YMQp8CL5XmFfLIlDFZvkp_2aXpQo8CNafU2M4Xc8" user="摆烂仔"/>
+    <gift ts="15.414" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540679850" gift-id="685" uid="MS4wLjABAAAAU9lbSQheRD7aTAlLGo7CmUx9YMQp8CL5XmFfLIlDFZvkp_2aXpQo8CNafU2M4Xc8" user="摆烂仔"/>
+    <gift ts="15.821" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540680573" gift-id="685" uid="MS4wLjABAAAA7TNByV8oTATYgygPjerP9i47X6xYxIe_eVqEZ7rBSmXuOWb0PcOJG2uFUsEPQ8au" user="金木研"/>
+    <gift ts="15.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540680859" gift-id="685" uid="MS4wLjABAAAAV7RjGJ2XBP34oftaQTppZR_qGGphXgaRgQcdckghQbI" user="剑气长城红皮耗子"/>
+    <gift ts="15.983" giftname="星光闪耀" giftcount="1" price="9" send-time="1779540682719" gift-id="11884" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="17.997" giftname="星光闪耀" giftcount="1" price="9" send-time="1779540682719" gift-id="11884" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="19.802" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540683830" gift-id="685" uid="MS4wLjABAAAAzLRNtnArWsSILVEliKpdUsdagq7kSPKa1ZNl9jMVaRwb_yeZP9OkFx-X22Hnngxb" user="☆簞蒓&quot;"/>
+    <d p="20.078,1,25,16777215,1779540684000,0,64929525362,7643069037363487283" uid="MS4wLjABAAAA9T_LfioGPXFHRIH0KECBP-I3Y1-sJyFPFA8fY39PwrSYAOmaOS6Ehl6PDt42YZSk" user="蘸将">666</d>
+    <gift ts="21.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540685177" gift-id="685" uid="MS4wLjABAAAAGSQBhzCpeQyq_s2dwrc635nBMrRbDN_gF2Ai_klk90Eabk1-qQ_cg8olJw0tbmJw" user="馅饼骑士"/>
+    <gift ts="21.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540687211" gift-id="685" uid="MS4wLjABAAAAlWckUVNDyyC6hFmI0ViGxaa8SwnJmNWT6gwTBXtq-fzHwzN5co8s3zZR7eloq43t" user="🌿荠不得🐆"/>
+    <gift ts="22.771" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540687951" gift-id="685" uid="MS4wLjABAAAAG7bB7U_RO6TMtd21ukQVvacURakR0mRYpmcrctSLbKooS3yOE7aBUNNHCUw34fvA" user="董缘"/>
+    <d p="22.822,1,25,16777215,1779540688000,0,7758521241u,7643069055465838080" uid="MS4wLjABAAAA_DOC3E-s4yo4vxpddb3GgOxX7hlt0S3cmTO_9ea1gVVYl70ofoiQVuJ1ZgACLrla" user="风吹雾.">可爱刚</d>
+    <gift ts="23.326" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540688478" gift-id="685" uid="MS4wLjABAAAAlv8HO2Qkl9xRGTulXKdK-Y_W6oPnNkQ9AypYpaFiJik" user="二货的青春"/>
+    <d p="25.985,1,25,16777215,1779540691000,0,959148369,7643069070879224616" uid="MS4wLjABAAAA1Yg8M29YleD2RlZ_rfxrJltfBhOZhOLSve3QgPd2nIo" user="Z....">这是？</d>
+    <d p="25.985,1,25,16777215,1779540692000,0,yyy87319,7643069075774754058" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="26.511" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540692187" gift-id="685" uid="MS4wLjABAAAAqwZ3WvehGMHrTAeFJmUUc8Qja_5q2kJKcQYBtRVdQudmMxYffQGHlj0E6DQCHSsc" user="苍山负雪"/>
+    <gift ts="29.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540693421" gift-id="685" uid="MS4wLjABAAAAccWiHQGWW6DK4VF_ZSJHykPESeUpZck6ywU6ZpNHE1E" user="二十三年蝉   ⃒⃒⃘⃤"/>
+    <d p="31.999,1,25,16777215,1779540697000,0,hgtgkgtj,7643069096562939699" uid="MS4wLjABAAAAirQDtOHCRr0Mo1eS1dsu1HB-Pce07KUeaSTmK499hAOTg7xJx7-mI4ARZPHIEX2R" user="我也不知道叫什么">主播这是cos的什么[看]</d>
+    <gift ts="33.661" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540698804" gift-id="6937" uid="MS4wLjABAAAAbeeZ-6IeN0Ul8J90A1n2hEXtIKTS7MA9taayBJzC5wA" user="蓝色玛格丽特"/>
+    <gift ts="35.992" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540701333" gift-id="685" uid="MS4wLjABAAAAvsvmAgDi3mfSYFKVj-MELQkROUZzepQFbq4v4fABjo8" user="长庚十九"/>
+    <gift ts="35.992" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540698804" gift-id="6937" uid="MS4wLjABAAAAbeeZ-6IeN0Ul8J90A1n2hEXtIKTS7MA9taayBJzC5wA" user="蓝色玛格丽特"/>
+    <d p="39.986,1,25,16777215,1779540703000,0,41014412396,7643069121047076123" uid="MS4wLjABAAAAl_RBySFmRBFH7n-tGGgJ-JbXmThr7Sv1l9TbBTBeJaGZU09s6xbwpyPdFdrsIK21" user="巴音布鲁克之王">这是</d>
+    <d p="39.986,1,25,16777215,1779540706000,0,yyy87319,7643069137245248814" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="41.011" giftname="星光闪耀" giftcount="1" price="9" create-time="1779540706566" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="41.97" giftname="星光闪耀" giftcount="4" price="9" create-time="1779540707095" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="42.714" giftname="星光闪耀" giftcount="8" price="9" create-time="1779540707506" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="43.983" giftname="星光闪耀" giftcount="10" price="9" create-time="1779540708206" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="43.983" giftname="小心心" giftcount="1" price="1" send-time="1779540709308" gift-id="463" uid="MS4wLjABAAAA5gnV2G749Or7WCJz8OeB_L5BYW9FaxX9ehpgS2-J6QlZhxDJLirGVDTdD_yxOWGM" user="重逢便是最好"/>
+    <gift ts="45.136" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540710490" gift-id="685" uid="MS4wLjABAAAALkG6X5xH4Jo2pIogYviTJk-fXdNfXqeHUfuzlHfc8V7haB_m6KTsDwKoxb-YBJGo" user="青颜"/>
+    <gift ts="45.634" giftname="星光闪耀" giftcount="10" price="9" create-time="1779540711" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="45.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540711357" gift-id="685" uid="MS4wLjABAAAA4z1tRyNKfPr1Vy2jIGhBCPESG5evqi6ZWjPwbW4mCWj-pt9Fss_RcpR6dGMFKeZU" user="知卿"/>
+    <gift ts="45.983" giftname="小心心" giftcount="1" price="1" send-time="1779540709308" gift-id="463" uid="MS4wLjABAAAA5gnV2G749Or7WCJz8OeB_L5BYW9FaxX9ehpgS2-J6QlZhxDJLirGVDTdD_yxOWGM" user="重逢便是最好"/>
+    <gift ts="47.997" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540712387" gift-id="685" uid="MS4wLjABAAAA0OBHmrPRM_Q5vRT-1KAI9pKGi36gK7sCTi4tzjOAmFg" user="一缺抱憾"/>
+    <d p="47.997,1,25,16777215,1779540713000,0,ranliuli2638,7643069165633738542" uid="MS4wLjABAAAAJDiCIbDGpUXT42OCJ9f7hRIhN6NzSnpUhJ5YrZ8UWwjKpufEC8Q_kSxeQJLGPg0K" user="蒅琉璃">这大耳朵</d>
+    <d p="50.125,1,25,16777215,1779540715000,0,1263653976,7643069174935311872" uid="MS4wLjABAAAA7EhbYzQaJeFAH6JTscHVLflTFqbK2_jdgVToVVSutEE" user="释怀ಡ">炸毛了</d>
+    <gift ts="51.217" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540716026" gift-id="685" uid="MS4wLjABAAAA2W2ww6iouPf1ehuvAUOqtdYa7pmnEU8fVHLHwr7uxZI" user="Aerith"/>
+    <gift ts="51.991" giftname="闪烁星河" giftcount="1" price="1" create-time="1779540716753" gift-id="685" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="51.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540717624" gift-id="685" uid="MS4wLjABAAAAp212UugQC39i0J1dALjkfMyi-fE_WOhHD3t6DMUohatnjew2IbONTqvAFFOqVFTm" user="花解语"/>
+    <d p="52.623,1,25,16777215,1779540718000,0,142030709,7643069186764383798" uid="MS4wLjABAAAA-gET-1CYBqMEbNDa_yDlecG4mAloaDMKrzrhIQKE8eE" user="去时光里。">我说怎么有点眼熟？[捂脸]</d>
+    <gift ts="53.564" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540718560" gift-id="685" uid="MS4wLjABAAAAKlPIXbhEHAWgI0WNzplyVsI39lZAW1QN_URoLBAha9RjD3wXwvL11NiqXiLGTO94" user="城"/>
+    <gift ts="55.633" giftname="星光闪耀" giftcount="11" price="9" create-time="1779540719791" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <d p="55.985,1,25,16777215,1779540720000,0,32785571419,7643069194963832329" uid="MS4wLjABAAAACgEtSCePvT2KEt03GVer0xnC2CzN1fyQQbYCmBxMSBwWnUTOXG9LQImJhrUwsnfd" user="lzcn">今天打游戏？</d>
+    <d p="55.985,1,25,16777215,1779540720000,0,wufaxianshiy87,7643069196516150811" uid="MS4wLjABAAAAaO82gVfouUvH6k-KKVrkrdcx_lwDlhGLCsWVgr2_U3jPtj5vo89-qaE3flHsPN4a" user="我思故我在">好看[爱心][爱心][爱心]</d>
+    <d p="55.985,1,25,16777215,1779540721000,0,y316497852,7643069201196305947" uid="MS4wLjABAAAALkG6X5xH4Jo2pIogYviTJk-fXdNfXqeHUfuzlHfc8V7haB_m6KTsDwKoxb-YBJGo" user="青颜">这是啥</d>
+    <gift ts="58.987" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540721751" gift-id="685" uid="MS4wLjABAAAAVuHV22J9H0Iyb7QvB6QtT-qWhVkTHEl-_XIjwKjBTs_Md0tYBIENGUPuDoaznxrT" user="雁吹笙"/>
+    <gift ts="59.983" giftname="星光闪耀" giftcount="11" price="9" create-time="1779540722" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <d p="59.983,1,25,16777215,1779540725000,0,Violet52034,7643069215377079092" uid="MS4wLjABAAAAsBoWwIvXOjbiC3QaXccPJbDGQXt5d3fUEbpd1zbKmucgdvBaFmDN5kHapUqu2yub" user="笑脸/">原来刚子叫李白</d>
+    <d p="59.983,1,25,16777215,1779540725000,0,yyy87319,7643069217868348175" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">加油捏[比心]</d>
+    <d p="61.999,1,25,16777215,1779540729000,0,72535309933,7643069231542854939" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️">今天这造型独特呀！</d>
+    <gift ts="65.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540730195" gift-id="685" uid="MS4wLjABAAAApqYMpavOCG4479k1gPHPZBs3xsxf2ct-sfCNV-y3Y7E" user="清衫"/>
+    <gift ts="65.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540731808" gift-id="685" uid="MS4wLjABAAAAByldEZb1GAaVx62pyI5uivca-3qY3zrOIviblDglrv0" user="11_"/>
+    <d p="66.449,1,25,16777215,1779540732000,0,wufaxianshiy87,7643069247166297892" uid="MS4wLjABAAAAaO82gVfouUvH6k-KKVrkrdcx_lwDlhGLCsWVgr2_U3jPtj5vo89-qaE3flHsPN4a" user="我思故我在">好看[爱心][爱心][爱心]</d>
+    <gift ts="69.986" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540733489" gift-id="6937" uid="MS4wLjABAAAAeyG7M1CpgJuwa9hlffrspxV-R-ztZHDHOqG-SLvD-GQ" user="dou8798195"/>
+    <gift ts="69.986" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540733489" gift-id="6937" uid="MS4wLjABAAAAeyG7M1CpgJuwa9hlffrspxV-R-ztZHDHOqG-SLvD-GQ" user="dou8798195"/>
+    <gift ts="72.326" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540735615" gift-id="685" uid="MS4wLjABAAAAeyG7M1CpgJuwa9hlffrspxV-R-ztZHDHOqG-SLvD-GQ" user="dou8798195"/>
+    <d p="73.851,1,25,16777215,1779540737000,0,22072020342,7643069270004504870" uid="MS4wLjABAAAAXfLFiCPPnxQf_sXnmpLLWCi0QEqKpOoBBa4cZx7GbA4" user="逆">牛逼</d>
+    <gift ts="73.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540737119" gift-id="685" uid="MS4wLjABAAAA-exIOMhqbxhBeCGzHL7l77qQEVbWbdtPjUesgIX1PtE" user="败落."/>
+    <d p="73.983,1,25,16777215,1779540739000,0,yyy87319,7643069276434422062" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">好看呢[比心]</d>
+    <d p="73.983,1,25,16777215,1779540739000,0,82434180768,7643069279033678106" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白">今天咋王者了</d>
+    <gift ts="74.435" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540739455" gift-id="685" uid="MS4wLjABAAAA4JtwoMD-q5t483lFV8FqNIzCFhwd3fCogvucA8xc4qTQZZlx1xahFLXyHX5vXid5" user="曼市小子"/>
+    <gift ts="75.045" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540740069" gift-id="685" uid="MS4wLjABAAAAIEuVmytu_kAn7-p07KQWYKiiVcUcdUMbvUremmVQ4eo" user="离殇"/>
+    <gift ts="75.183" giftname="鲜花" giftcount="1" price="10" send-time="1779540740208" gift-id="2006" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️"/>
+    <gift ts="75.813" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540740841" gift-id="685" uid="MS4wLjABAAAAQGz2Bkq9FAZ6QyCBc-8ZkYDHIziTogIV_9mnFBzZcPODnwRH9iZIlTa6pP__RhFY" user="白呆子"/>
+    <gift ts="75.983" giftname="鲜花" giftcount="2" price="10" send-time="1779540741012" gift-id="2006" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️"/>
+    <d p="75.983,1,25,16777215,1779540741000,0,86585942499,7643069285881309238" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">王者回归</d>
+    <gift ts="76.589" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540741301" gift-id="685" uid="MS4wLjABAAAAwQdLhgnqvIIG49a_DVJ1EUAnQnCY0esEQarqSrxi27g" user="张一西"/>
+    <d p="77.997,1,25,16777215,1779540742000,0,lian6646249,7643069288131880966" uid="MS4wLjABAAAAxfamq8UrY-TL5JbmWBql6lumPHx85bl66wm2cD-xWcMhJsJnHLqA-A9rsIeOzsq2" user="古月方源">我去</d>
+    <gift ts="77.997" giftname="鲜花" giftcount="2" price="10" send-time="1779540741012" gift-id="2006" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️"/>
+    <d p="79.322,1,25,16777215,1779540743000,0,58610753950,7643069292116408105" uid="MS4wLjABAAAA1b99yRrHWuIV4UqroHUexo4Zv-ZoLstA7RPtbZ5g4yHJFv-T7_UuTtrjveN1sAiS" user="方法一个月后">白毛[捂脸]</d>
+    <d p="79.989,1,25,16777215,1779540744000,0,Violet52034,7643069299200054784" uid="MS4wLjABAAAAsBoWwIvXOjbiC3QaXccPJbDGQXt5d3fUEbpd1zbKmucgdvBaFmDN5kHapUqu2yub" user="笑脸/">这是[捂脸]</d>
+    <gift ts="80.262" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540744409" gift-id="685" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白"/>
+    <gift ts="80.284" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540744441" gift-id="685" uid="MS4wLjABAAAA3WlnQWOdy6k_r4-6s0kFKYVVmOLP5xPWU3UFlbV5Mds" user="三口一只猪"/>
+    <gift ts="80.658" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540745002" gift-id="685" uid="MS4wLjABAAAA5NEWoEdWfSo6FyvOUoYTBIUJYC2-zBKDD2mbZn7LkQTQBeWGvfMqBNZvv7FyxyF9" user="土豆PPX"/>
+    <gift ts="81.197" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540745811" gift-id="685" uid="MS4wLjABAAAA6OIeCD3rt6M98Pbki8OE8eEmfz6-LRGvqbZu38RXtNY" user="小胡最帅"/>
+    <gift ts="81.991" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540747000" gift-id="6937" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️"/>
+    <d p="81.991,1,25,16777215,1779540747000,0,39283313960,7643069309543772724" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽">还以为走错了呢[捂脸]</d>
+    <gift ts="81.991" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540747000" gift-id="6937" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️"/>
+    <gift ts="82.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540747865" gift-id="685" uid="MS4wLjABAAAAYJKxdsMZSrz07spAF9OxjMTNk-sU-ZOGU201CBQsE1U" user="念江"/>
+    <gift ts="85.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540750454" gift-id="685" uid="MS4wLjABAAAA7f6E6uvgjCcOA22bEOk8oJ3ZLD_nWHLH-U3TfMXjnnok-BPNTl4C2C3vhnu5lYyb" user="栀雪☘️"/>
+    <d p="85.985,1,25,16777215,1779540751000,0,21775493645,7643069329399920438" uid="MS4wLjABAAAAQQb2uOc-XLyx5ygiJKHCsf-hD6US4Ti_EVAiwxs3q71uOrSBnvXg_rywVG9f9jlB" user="掂过碌蔗">欧呦，刚子[看]</d>
+    <gift ts="86.774" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540751395" gift-id="685" uid="MS4wLjABAAAA0ySoI1zrjprMEMTHeQQP5i-XSuQ7JDi-zaqFRxJSQnR4sEXkBB1QvrnJmWxWk5bL" user="詩無"/>
+    <gift ts="87.122" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540751569" gift-id="685" uid="MS4wLjABAAAADRkGrl8_oPSqBNihvsMtcjTWgeOj5DShp-8BTlIwx9sKtDcOkjFpgGnUUEGwv7a3" user="风雨同空"/>
+    <d p="89.983,1,25,16777215,1779540753000,0,YovL222,7643069335053827840" uid="MS4wLjABAAAASQYEo4ATrNW33f9wS6vydJQV6gwT9PCxY6ut6tlPacF0zqgxxMNLPTsTkgVIkfJ-" user="*">还以为是季雨</d>
+    <d p="89.983,1,25,16777215,1779540755000,0,86037255425,7643069347037188392" uid="MS4wLjABAAAAaJP-5Y1noD6rr7lJmbftvbWIfubo73HF8oH0tqDawrJ9tCguzopur6ftjmPy_reB" user="打烊">这只鸡是什么鬼</d>
+    <gift ts="91.122" giftname="为你闪耀" giftcount="1" price="9" send-time="1779540755593" gift-id="860" uid="MS4wLjABAAAAxfamq8UrY-TL5JbmWBql6lumPHx85bl66wm2cD-xWcMhJsJnHLqA-A9rsIeOzsq2" user="古月方源"/>
+    <gift ts="91.998" giftname="为你闪耀" giftcount="2" price="9" send-time="1779540756049" gift-id="860" uid="MS4wLjABAAAAxfamq8UrY-TL5JbmWBql6lumPHx85bl66wm2cD-xWcMhJsJnHLqA-A9rsIeOzsq2" user="古月方源"/>
+    <d p="91.999,1,25,16777215,1779540756000,0,82434180768,7643069349872619828" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白">这是刚子直播间吗？</d>
+    <gift ts="92.194" giftname="为你闪耀" giftcount="2" price="9" send-time="1779540756049" gift-id="860" uid="MS4wLjABAAAAxfamq8UrY-TL5JbmWBql6lumPHx85bl66wm2cD-xWcMhJsJnHLqA-A9rsIeOzsq2" user="古月方源"/>
+    <d p="95.993,1,25,16777215,1779540757000,0,86585942499,7643069352292602127" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">一开始以为走错片场了</d>
+    <d p="95.993,1,25,16777215,1779540757000,0,91746697814,7643069354352218420" uid="MS4wLjABAAAAZQH4EA60yAqg0DFIn2Xcu6L1n3UQ2P7oV0HIDordh-e_s51oBLAaFHj0GWTkkFRl" user="漱石">好看捏</d>
+    <d p="95.993,1,25,16777215,1779540761000,0,dyzfpztqfeof,7643069367836472582" uid="MS4wLjABAAAAZj_Ww4rObA8yA-62o-hbaKXknZgAaluJjzTjmlKvgQn2Z3ijlQLb9-PZ2JGHFQul" user="思念的回忆">？</d>
+    <d p="95.993,1,25,16777215,1779540761000,0,98067808571,7643069373901002274" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">刚子？</d>
+    <gift ts="99.09" giftname="点点星光" giftcount="1" price="1" create-time="1779540762551" gift-id="685" uid="MS4wLjABAAAAUDqLONc5ZDZbdyIhljvIWml3l4eBBm6j0lDl_2XUGtixI5v1tW9fn2EJ-fRdZlmR" user="雁鸣"/>
+    <gift ts="99.154" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540762583" gift-id="6937" uid="MS4wLjABAAAALdUZdHc76bba-NVZJRKsqr1u8VPw5SrJoIGCVZsgASxatkMmnZLtW4AojWNyaGk1" user="黑白小蛋卷"/>
+    <gift ts="99.286" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540762649" gift-id="685" uid="MS4wLjABAAAAgzMfbKrjjGJYY1u0eNxO37T83L2VgHkqMQ8FFh8BMMI" user="失心疯."/>
+    <gift ts="99.829" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540762921" gift-id="685" uid="MS4wLjABAAAAmdErKaYv0BpZvWoswcl69NWKcmnzaMO0gCTF2JMsWBI" user="66岁在草丛当老六"/>
+    <d p="99.987,1,25,16777215,1779540763000,0,69065860555,7643069380813088027" uid="MS4wLjABAAAAb4XGZA-VU2-wa0z6W-Ygahe7yLAGN5bBczNcG9s8X5U" user="是冰墩墩啊">[看][看][看]</d>
+    <gift ts="99.987" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540762583" gift-id="6937" uid="MS4wLjABAAAALdUZdHc76bba-NVZJRKsqr1u8VPw5SrJoIGCVZsgASxatkMmnZLtW4AojWNyaGk1" user="黑白小蛋卷"/>
+    <d p="102.113,1,25,16777215,1779540766000,0,dyzfpztqfeof,7643069393292053567" uid="MS4wLjABAAAAZj_Ww4rObA8yA-62o-hbaKXknZgAaluJjzTjmlKvgQn2Z3ijlQLb9-PZ2JGHFQul" user="思念的回忆">这谁</d>
+    <gift ts="102.53" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540766671" gift-id="685" uid="MS4wLjABAAAAb4XGZA-VU2-wa0z6W-Ygahe7yLAGN5bBczNcG9s8X5U" user="是冰墩墩啊"/>
+    <d p="102.735,1,25,16777215,1779540767000,0,xca233333,7643069395456494611" uid="MS4wLjABAAAA3Geqbf6ZNM4Gj8MI1W4MVYxFBmXhMboE6wynHpOjYmw" user="随心一听.">什么劣质音响</d>
+    <gift ts="103.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540769005" gift-id="685" uid="MS4wLjABAAAALdUZdHc76bba-NVZJRKsqr1u8VPw5SrJoIGCVZsgASxatkMmnZLtW4AojWNyaGk1" user="黑白小蛋卷"/>
+    <d p="105.983,1,25,16777215,1779540770000,0,dyzfpztqfeof,7643069419191183167" uid="MS4wLjABAAAAZj_Ww4rObA8yA-62o-hbaKXknZgAaluJjzTjmlKvgQn2Z3ijlQLb9-PZ2JGHFQul" user="思念的回忆">刚子</d>
+    <d p="106.990,1,25,16777215,1779540771000,0,dyi0nzkzgkjq,7643069412429394451" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">这谁啊</d>
+    <gift ts="107.095" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540771105" gift-id="685" uid="MS4wLjABAAAAzNI6mCIdtAw-gdiKoUUS76RgOdn8ZwO_kusbPn91Nx0" user="苦涩的柠檬香"/>
+    <d p="107.997,1,25,16777215,1779540772000,0,sy20020928,7643069417081202495" uid="MS4wLjABAAAAS8L8ApGKBNc5eiNKnfqKhyc2XfdfKgy-P33SZOOU2LI" user="钟汉卿">刚子队友让你开麦</d>
+    <d p="107.997,1,25,16777215,1779540774000,0,21775493645,7643069427260351251" uid="MS4wLjABAAAAQQb2uOc-XLyx5ygiJKHCsf-hD6US4Ti_EVAiwxs3q71uOrSBnvXg_rywVG9f9jlB" user="掂过碌蔗">不看名字，没认出来[捂脸]</d>
+    <d p="109.542,1,25,16777215,1779540775000,0,98067808571,7643069432665554728" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">这是什么造型啊[看]</d>
+    <gift ts="111.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540776585" gift-id="685" uid="MS4wLjABAAAA0ZAeWCup5uTcvu1ZlPxlyh3j8C3Ut0w0UmmX9ACisC8" user="萍"/>
+    <gift ts="111.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540776975" gift-id="685" uid="MS4wLjABAAAArGD7F4ZLwPOvzGiVYgO2cw846MlqK_Z0OI8AtvYvZHmWEL0LsdQWHnhFF8Kss2Wr" user="据说把名字改长会有人跟着念"/>
+    <d p="112.017,1,25,16777215,1779540777000,0,yyy87319,7643069442574669363" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">好看捏[比心]</d>
+    <gift ts="114.483" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540779333" gift-id="685" uid="MS4wLjABAAAAIEJgo8sKa2fL8tu1Ds72ytsQzWI2doLhbM8syMrDUpE" user="zzzz"/>
+    <gift ts="115.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540780753" gift-id="685" uid="MS4wLjABAAAAp3dKRQrmdR6EAC8Yu5ioNpq4A-a0OVdQaEkRuceEgAvtodeUsfTaz0459cx2pWME" user="李玉婠"/>
+    <gift ts="115.985" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540782589" gift-id="6937" uid="MS4wLjABAAAAJiqXwbZ5UNy367_kUICTAB59kc5gp12ib7GW4o1gLZ8" user="乐悠游"/>
+    <d p="116.587,1,25,16777215,1779540783000,0,86585942499,7643069463085477183" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">刚子今晚要秀技术吗</d>
+    <gift ts="119.543" giftname="鲜花" giftcount="1" price="10" send-time="1779540785018" gift-id="2006" uid="MS4wLjABAAAAan6_CJsmvXg_z98FzfCHWn2sxHLMj3nDEHTrlRC3wLJowARWJUpAosxau7RZ6_wz" user="明啼"/>
+    <gift ts="119.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540785318" gift-id="685" uid="MS4wLjABAAAAJiqXwbZ5UNy367_kUICTAB59kc5gp12ib7GW4o1gLZ8" user="乐悠游"/>
+    <gift ts="119.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540782589" gift-id="6937" uid="MS4wLjABAAAAJiqXwbZ5UNy367_kUICTAB59kc5gp12ib7GW4o1gLZ8" user="乐悠游"/>
+    <d p="121.407,1,25,16777215,1779540785000,0,82434180768,7643069474635119412" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白">这不会是小乔吧</d>
+    <gift ts="121.864" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540785772" gift-id="685" uid="MS4wLjABAAAAQrt59b-OGxjLlv4prUJXzoAz1DxFXgkfxbBahrV9cQ4" user="🌈🌈但行好事，莫问前程"/>
+    <d p="121.998,1,25,4294967295,1779540786000,0,yyy87319,7643069479022746650" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">[发呆][捂脸]</d>
+    <d p="121.998,1,25,16777215,1779540786000,0,32785571419,7643069480558615602" uid="MS4wLjABAAAACgEtSCePvT2KEt03GVer0xnC2CzN1fyQQbYCmBxMSBwWnUTOXG9LQImJhrUwsnfd" user="lzcn">来看刚子的下饭操作了</d>
+    <gift ts="121.999" giftname="鲜花" giftcount="1" price="10" send-time="1779540785018" gift-id="2006" uid="MS4wLjABAAAAan6_CJsmvXg_z98FzfCHWn2sxHLMj3nDEHTrlRC3wLJowARWJUpAosxau7RZ6_wz" user="明啼"/>
+    <d p="123.236,1,25,16777215,1779540787000,0,893498527,7643069482668546596" uid="MS4wLjABAAAAMeLQvdQckDBAs2DOyyzXeuWQkH9iMEMv9jXEG-O4raM" user="憨憨不憨">这是天鹅之梦吗？</d>
+    <gift ts="124.465" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540788969" gift-id="685" uid="MS4wLjABAAAAAKtVnXcQtkKjtqtk9EXXeKy5nv2KXZtIdZsVaCXy_Vw" user="绪於"/>
+    <gift ts="124.714" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540789368" gift-id="685" uid="MS4wLjABAAAAmkDvDQgNAsgb949tAo--3nRRAHFU6DMsTzUij-E2KWI" user="啊星星星"/>
+    <d p="125.108,1,25,4294967295,1779540790000,0,yyy87319,7643069494290833714" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">[耶][做鬼脸]</d>
+    <d p="125.108,1,25,16777215,1779540790000,0,266997308,7643069497540174130" uid="MS4wLjABAAAA4TaW-0Uivjo8uwBojte7n6cIhPijEKnSyOQ35wjLA70" user="🌈zcq🍀">cos的什么</d>
+    <gift ts="125.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540791417" gift-id="685" uid="MS4wLjABAAAAwAIAMXUDFblkgUA1QUuXmOQ24XfSh0rvHbugg5KNO50" user="雨眠"/>
+    <d p="125.993,1,25,16777215,1779540791000,0,41228274575,7643069499609280803" uid="MS4wLjABAAAAJOwjYV-5QBLl3Sz-UUA3aAvQkU5gTrye6nyz0qEhwF197R37zchdRCq_WDSrDtg6" user="王牌">亲亲</d>
+    <gift ts="127.802" giftname="鲜花" giftcount="1" price="10" send-time="1779540792782" gift-id="2006" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白"/>
+    <gift ts="128.501" giftname="鲜花" giftcount="1" price="10" send-time="1779540793470" gift-id="2006" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="128.511" giftname="鲜花" giftcount="1" price="10" send-time="1779540793480" gift-id="2006" uid="MS4wLjABAAAAY9-AwWukaOI_IxSJUQFag05g1xsaz-KcJE6sN74hCyw" user="秦川"/>
+    <gift ts="129.987" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540794933" gift-id="685" uid="MS4wLjABAAAAgMZyCiaNmurL-AZXccRFbJkB0hwCX4Vp7NB_bmsQuUM" user="优奈就是娘"/>
+    <gift ts="129.987" giftname="鲜花" giftcount="1" price="10" send-time="1779540792782" gift-id="2006" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白"/>
+    <gift ts="130.473" giftname="鲜花" giftcount="1" price="10" send-time="1779540793470" gift-id="2006" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy"/>
+    <gift ts="130.481" giftname="鲜花" giftcount="1" price="10" send-time="1779540793480" gift-id="2006" uid="MS4wLjABAAAAY9-AwWukaOI_IxSJUQFag05g1xsaz-KcJE6sN74hCyw" user="秦川"/>
+    <d p="132.264,1,25,16777215,1779540796000,0,266997308,7643069521905187107" uid="MS4wLjABAAAA4TaW-0Uivjo8uwBojte7n6cIhPijEKnSyOQ35wjLA70" user="🌈zcq🍀">小乔？</d>
+    <d p="132.264,1,25,16777215,1779540796000,0,yunqingfeng815,7643069524023343394" uid="MS4wLjABAAAA3MPURG6-bey0AlBQXFskD2mWGjSAcDbpqk64VwRu1rKf4_IGdv-dysIjMa6UC5je" user="云清风">鸡毛装</d>
+    <gift ts="132.701" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540796617" gift-id="685" uid="MS4wLjABAAAAicvoqVWuUIHsQNmiNRXhSODDmwgTv9BJwpBQrQewlETZccpLk-Pfy-ZDDHn-oIDy" user="鹿宛秋"/>
+    <gift ts="132.713" giftname="鲜花" giftcount="1" price="10" send-time="1779540796635" gift-id="2006" uid="MS4wLjABAAAAfz2EKKG8W6SCAxwO4-OjZIpJBAu2chclUOyFMKUqIscjs-PtLaDcY8lrfELoTp4q" user="或许"/>
+    <gift ts="132.952" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540796972" gift-id="685" uid="MS4wLjABAAAAOEYAB4bvHdE5AcaBl5GMNbiS51CaRZM4Eb3aPrzR-1BlUm9sNx1D9NBXjGbvWc7G" user="墨友"/>
+    <gift ts="133.983" giftname="鲜花" giftcount="1" price="10" send-time="1779540798428" gift-id="2006" uid="MS4wLjABAAAA2NOkbMspge0VrRnjpigHdSiLFPD7vtlqZAv2zT3rJy8" user="城北"/>
+    <gift ts="133.983" giftname="鲜花" giftcount="1" price="10" send-time="1779540796635" gift-id="2006" uid="MS4wLjABAAAAfz2EKKG8W6SCAxwO4-OjZIpJBAu2chclUOyFMKUqIscjs-PtLaDcY8lrfELoTp4q" user="或许"/>
+    <gift ts="135.333" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540799567" gift-id="685" uid="MS4wLjABAAAAJOwjYV-5QBLl3Sz-UUA3aAvQkU5gTrye6nyz0qEhwF197R37zchdRCq_WDSrDtg6" user="王牌"/>
+    <d p="135.532,1,25,16777215,1779540800000,0,Violet52034,7643069537616982819" uid="MS4wLjABAAAAsBoWwIvXOjbiC3QaXccPJbDGQXt5d3fUEbpd1zbKmucgdvBaFmDN5kHapUqu2yub" user="笑脸/">刚子发现自己越来越有姿色了</d>
+    <d p="135.532,1,25,16777215,1779540800000,0,172315417,7643069539898602255" uid="MS4wLjABAAAA7bvfy-6S4LORNWCtr4H-ypj4doiTq31XAMZP6OIBaTM" user="烬雪@one love🐢">这是谁？[懵]</d>
+    <gift ts="135.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540800977" gift-id="685" uid="MS4wLjABAAAA6s-fvyfwFNJLQgBfc4TTO3rDVYpBImyZ3-264ekbT_V8cclJaw6F1tlTqblWDc76" user="摩尔福斯"/>
+    <gift ts="135.983" giftname="鲜花" giftcount="1" price="10" send-time="1779540798428" gift-id="2006" uid="MS4wLjABAAAA2NOkbMspge0VrRnjpigHdSiLFPD7vtlqZAv2zT3rJy8" user="城北"/>
+    <d p="137.998,1,25,16777215,1779540801000,0,8208820qq,7643069542373225256" uid="MS4wLjABAAAAOM12LJofo-IzjFm7KO8I2licc50uVBBGdGaTnfe6qL8" user="谎话张口就来">是肉装小乔吗？</d>
+    <d p="137.998,1,25,16777215,1779540801000,0,889812021,7643069544545841972" uid="MS4wLjABAAAAQrt59b-OGxjLlv4prUJXzoAz1DxFXgkfxbBahrV9cQ4" user="🌈🌈但行好事，莫问前程">坏了。。。这个真好看</d>
+    <d p="137.998,1,25,16777215,1779540804000,0,368557454,7643069555338500402" uid="MS4wLjABAAAAZO5jGRM61yqF3uaAHBOG4GEonX20yCzRYtBrUdyqgm8" user="Return">小乔天鹅之梦？</d>
+    <d p="137.998,1,25,16777215,1779540804000,0,34293963143,7643069558677412122" uid="MS4wLjABAAAABKS9gkeu0pv1qnYZxmi21wpUdiHBMoS2vrAs50tIIE-9-pYP3-edlT1WwRzcoY9u" user="极巨化虎牙">小丑🤡神 快点拉 边拉边笑是你们的特色吗</d>
+    <d p="141.991,1,25,16777215,1779540809000,0,86585942499,7643069577291795718" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">先去买个饭，今晚不买菜了</d>
+    <gift ts="145.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540809553" gift-id="685" uid="MS4wLjABAAAA6rkmN9icx6HHC4rWEt4oQV6ccJn2cMDgmW-68Ag1aEMpOx_BDSAYK9JE-zLlcNIh" user="＠_＠"/>
+    <d p="145.985,1,25,16777215,1779540811000,0,41137455714,7643069584187348778" uid="MS4wLjABAAAAdEyGjddv1KglCl1k3pODMleKV5tZep1bpvs2Ylht-b4ACM3XDbNd4JNk9ytvSVir" user="一顿吃只大碗米饭">男的女的？</d>
+    <d p="149.983,1,25,16777215,1779540812000,0,169704379,7643069592361307426" uid="MS4wLjABAAAAEwiD87An3aVS68sKFDyCfUesqix6fqBjYG3APPDMlE0" user="一克拉梦">差点没认出来</d>
+    <gift ts="149.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540816234" gift-id="685" uid="MS4wLjABAAAAXcymqJ5q-WsNq_xVhDsMvJx-nEex0UkwrxHT8iANW8kryDmpUSE6jVG2sGIFQW5M" user="念我名字的是gay"/>
+    <d p="151.999,1,25,16777215,1779540818000,0,32357753715,7643069616789385243" uid="MS4wLjABAAAAb1NU2J32Xt4-DCxCN_w6ISzW_TfPiwHHjw7bqPcTUJg" user="亿路绿灯">所以是男的女的[看]</d>
+    <gift ts="153.996" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540819000" gift-id="685" uid="MS4wLjABAAAAZO5jGRM61yqF3uaAHBOG4GEonX20yCzRYtBrUdyqgm8" user="Return"/>
+    <d p="155.993,1,25,16777215,1779540820000,0,80925494,7643069624481354259" uid="MS4wLjABAAAAhngkLuvPbhJbMKgDdYNJoNVR3OVyz_PRWSk2xjuDT7U" user="渐进线">今天好可爱</d>
+    <gift ts="155.993" giftname="鲜花" giftcount="1" price="10" send-time="1779540823106" gift-id="2006" uid="MS4wLjABAAAA4TaW-0Uivjo8uwBojte7n6cIhPijEKnSyOQ35wjLA70" user="🌈zcq🍀"/>
+    <gift ts="156.596" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540823385" gift-id="685" uid="MS4wLjABAAAAuZ2mWD1PIphB4vMHv3RrFERTxW9IRdAUdGgeUsWHyqTX2atwu8GUcgwKmAp0ja8_" user="叹东归"/>
+    <d p="157.928,1,25,16777215,1779540824000,0,dyi0nzkzgkjq,7643069640382619923" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">这小哥有点可爱捏[看]</d>
+    <gift ts="159.987" giftname="鲜花" giftcount="1" price="10" send-time="1779540824951" gift-id="2006" uid="MS4wLjABAAAAaO82gVfouUvH6k-KKVrkrdcx_lwDlhGLCsWVgr2_U3jPtj5vo89-qaE3flHsPN4a" user="我思故我在"/>
+    <gift ts="159.987" giftname="鲜花" giftcount="1" price="10" send-time="1779540823106" gift-id="2006" uid="MS4wLjABAAAA4TaW-0Uivjo8uwBojte7n6cIhPijEKnSyOQ35wjLA70" user="🌈zcq🍀"/>
+    <gift ts="161.944" giftname="鲜花" giftcount="1" price="10" send-time="1779540824951" gift-id="2006" uid="MS4wLjABAAAAaO82gVfouUvH6k-KKVrkrdcx_lwDlhGLCsWVgr2_U3jPtj5vo89-qaE3flHsPN4a" user="我思故我在"/>
+    <d p="161.996,1,25,16777215,1779540825000,0,dydrueq3cno5,7643069647009227530" uid="MS4wLjABAAAATMuNGMNuPX0ugmlLx-hrMElRvVTbugJ4nx7B4QUzl_9i2BCRtCTiAR3uDhTA4Vip" user="爱喵的肉垫君">刚子今天还是这么好看</d>
+    <gift ts="162.408" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540825389" gift-id="685" uid="MS4wLjABAAAA77JIyUiYynt8js3okoUisaLUhXgWINbnfPCHoYxsR3APf5mGnV961LY__OsEaxhs" user="駱駝"/>
+    <gift ts="162.715" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540825678" gift-id="685" uid="MS4wLjABAAAA8MOe5zaVMozrBNXnWPZtaSSfxG7s7SE-32hRrVvSnGle1UPcADGmi0rpzx6smXwM" user="上杉绘梨衣"/>
+    <gift ts="163.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540826873" gift-id="685" uid="MS4wLjABAAAAGTF176IqYtodkz9IY0YD-9x0cpQGQ7n5nZrJZAWQQmdQrJK6cKqAnBl3lOK3MRcY" user="隔岸"/>
+    <d p="163.983,1,25,16777215,1779540829000,0,97948090071,7643069662754493998" uid="MS4wLjABAAAAHLXl3ImRpwiwUFVkrlJy1NlyTJaWBvvsGxhR9pDYHkLKOy9Qp-IVkmLKS7AS53S9" user="！！">？差点没认出</d>
+    <d p="163.983,1,25,16777215,1779540829000,0,57900817166,7643069664361240074" uid="MS4wLjABAAAA7jp7A8VJ80yj95oFFNS9FmWuVvvsoaaLesm39GavTQ3M_Gh1z20D_dcstXmYIwoA" user="暖男排狗后面（刚满18岁版）">所以主包是男的女的</d>
+    <d p="163.983,1,25,16777215,1779540829000,0,8208820qq,7643069665858852403" uid="MS4wLjABAAAAOM12LJofo-IzjFm7KO8I2licc50uVBBGdGaTnfe6qL8" user="谎话张口就来">刚子这把是肉装</d>
+    <d p="164.862,1,25,16777215,1779540830000,0,25082811833,7643069665859049011" uid="MS4wLjABAAAA_-nyeoNe6MeopuTTT-s6h8x3xRQok6KutcWQkms3Xfw5wApO6jf1mAz4AOuVPyOq" user="不许嵩手">老婆开播了啊</d>
+    <d p="164.862,1,25,16777215,1779540830000,0,yyy87319,7643069669385131570" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="165.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540831274" gift-id="685" uid="MS4wLjABAAAA2TDrJYv4yIZPKZQyK-ofIUX61CareA92uV35wZpngj0" user="风逝～无迹"/>
+    <d p="165.983,1,25,16777215,1779540831000,0,yhz20041119,7643069672825181705" uid="MS4wLjABAAAAB-Gbpo6soU_93qZQt7j94PWCbhPhFkNteqd09irZPaE" user="专一的螺蛳粉">我勒个惊艳[捂脸]</d>
+    <gift ts="167.979" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540831991" gift-id="685" uid="MS4wLjABAAAA63fpRbgIz2xKhWlCOpB0LZKcmfWvyGsesp3w2huxVHs94N1MUJj3FGQCzV16g1JU" user="随风"/>
+    <d p="167.998,1,25,4294967295,1779540832000,0,388330456,7643069674566276618" uid="MS4wLjABAAAA6QigklfjaUkwEYAqww4GtbyRJ1zvtDe5zpZw-9tXO9w" user="Rex">@亿路绿灯 男的</d>
+    <d p="167.998,1,25,16777215,1779540834000,0,lhylhylhyJuly07,7643069683411836723" uid="MS4wLjABAAAAX1gGb0lc7Yb8W84gcAspkT69R6ksgAQ5jN5eHxtEb9Q" user="A小葵花课堂补课刘老师">[捂脸]</d>
+    <d p="167.998,1,25,16777215,1779540834000,0,80925494,7643069687128219443" uid="MS4wLjABAAAAhngkLuvPbhJbMKgDdYNJoNVR3OVyz_PRWSk2xjuDT7U" user="渐进线">哈哈哈哈，真好看呢</d>
+    <d p="171.992,1,25,16777215,1779540835000,0,98067808571,7643069690948280073" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">小乔皮肤啊</d>
+    <gift ts="171.992" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540837309" gift-id="685" uid="MS4wLjABAAAAgRyGfh_inhYoXRhy0x9HtFaQ3TcZw9QiwRZjD9xrza8" user="枫    ."/>
+    <d p="175.985,1,25,16777215,1779540839000,0,169704379,7643069704864746767" uid="MS4wLjABAAAAEwiD87An3aVS68sKFDyCfUesqix6fqBjYG3APPDMlE0" user="一克拉梦">差点没认出来</d>
+    <d p="175.985,1,25,16777215,1779540839000,0,21031305242,7643069706928622848" uid="MS4wLjABAAAAMgWLnt9mQQXfsIcIZbqGKY0Jk3edR9julL6tKbXMPz3XqwE31T3Pm6wMbZhXjOeL" user="风">肯定不是好看</d>
+    <d p="175.985,1,25,16777215,1779540840000,0,86585942499,7643069712151242303" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">这小哥有点可爱捏</d>
+    <gift ts="177.313" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540841329" gift-id="685" uid="MS4wLjABAAAAB-Gbpo6soU_93qZQt7j94PWCbhPhFkNteqd09irZPaE" user="专一的螺蛳粉"/>
+    <gift ts="178.914" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540842931" gift-id="6937" uid="MS4wLjABAAAAzqlFv4Xp2S1mgPIbawNZLPpjVoy1fy1NUJihkCaALdKyJmccggqy3zgx88-oM-Ni" user="忆相思"/>
+    <d p="179.983,1,25,16777215,1779540844000,0,890097854,7643069724901880104" uid="MS4wLjABAAAAv-T3D4LlJ9sd1BtHXGzsNuO16rs927UOSXHITpuOrNg" user="✨🌈是阿杨啊">刚子今天有亿点可爱</d>
+    <d p="179.983,1,25,16777215,1779540844000,0,67766013003,7643069726952845603" uid="MS4wLjABAAAAy2MIbV46Gu-jqsqFGE5RP2NFtxHIzgwTGZENKRARDKJL3dOGxuX4Lpf-PYz53MM7" user="韶卋">？</d>
+    <d p="179.983,1,25,16777215,1779540844000,0,Violet52034,7643069726953042211" uid="MS4wLjABAAAAsBoWwIvXOjbiC3QaXccPJbDGQXt5d3fUEbpd1zbKmucgdvBaFmDN5kHapUqu2yub" user="笑脸/">man[捂脸]</d>
+    <d p="179.983,1,25,16777215,1779540846000,0,41137455714,7643069733844257834" uid="MS4wLjABAAAAdEyGjddv1KglCl1k3pODMleKV5tZep1bpvs2Ylht-b4ACM3XDbNd4JNk9ytvSVir" user="一顿吃只大碗米饭">不说话，男的。</d>
+    <d p="179.983,1,25,16777215,1779540846000,0,yyy87319,7643069735735806995" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">很好看呢[比心]</d>
+    <gift ts="181.999" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540842931" gift-id="6937" uid="MS4wLjABAAAAzqlFv4Xp2S1mgPIbawNZLPpjVoy1fy1NUJihkCaALdKyJmccggqy3zgx88-oM-Ni" user="忆相思"/>
+    <d p="184.297,1,25,16777215,1779540847000,0,dyc5i4bjme20,7643069741473158948" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">小锅锅，带我飞</d>
+    <d p="184.297,1,25,16777215,1779540847000,0,73577622105,7643069741473257252" uid="MS4wLjABAAAAzQ5jXe_j_asxbI-LuFPTrK4E5QC197hnrvKa_qba9Z0GWMzF6vB3EIkBbexJxGe0" user="WIEE">？</d>
+    <d p="184.862,1,25,16777215,1779540848000,0,w1905912226,7643069743478825279" uid="MS4wLjABAAAAm0ttuS_rlUmvIDY3TZQTGNuH4TYFJOAPzcGb2lXjpyo" user="✨风雨过后">大角牛[看]</d>
+    <gift ts="184.943" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540848142" gift-id="685" uid="MS4wLjABAAAAzqlFv4Xp2S1mgPIbawNZLPpjVoy1fy1NUJihkCaALdKyJmccggqy3zgx88-oM-Ni" user="忆相思"/>
+    <d p="185.427,1,25,16777215,1779540849000,0,80925494,7643069746975643690" uid="MS4wLjABAAAAhngkLuvPbhJbMKgDdYNJoNVR3OVyz_PRWSk2xjuDT7U" user="渐进线">哈哈哈哈</d>
+    <d p="185.993,1,25,16777215,1779540850000,0,vesit36712,7643069753523256073" uid="MS4wLjABAAAAvWg1YuOHIi3k6YKd3CTPKxE_1xxItW0Y0JomHS7OzU8" user="七分冷">刚子是不是上错号了</d>
+    <d p="185.993,1,25,16777215,1779540850000,0,32785571419,7643069755113274121" uid="MS4wLjABAAAACgEtSCePvT2KEt03GVer0xnC2CzN1fyQQbYCmBxMSBwWnUTOXG9LQImJhrUwsnfd" user="lzcn">肉装小乔</d>
+    <gift ts="185.993" giftname="鲜花" giftcount="1" price="10" send-time="1779540852009" gift-id="2006" uid="MS4wLjABAAAAUDqLONc5ZDZbdyIhljvIWml3l4eBBm6j0lDl_2XUGtixI5v1tW9fn2EJ-fRdZlmR" user="雁鸣"/>
+    <gift ts="185.993" giftname="鲜花" giftcount="1" price="10" send-time="1779540852009" gift-id="2006" uid="MS4wLjABAAAAUDqLONc5ZDZbdyIhljvIWml3l4eBBm6j0lDl_2XUGtixI5v1tW9fn2EJ-fRdZlmR" user="雁鸣"/>
+    <gift ts="189.777" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540852948" gift-id="685" uid="MS4wLjABAAAAUQPcq-MSjuhX-3NYLAdXkQKykbTkd2xW0rCQAluOKs_yYWYQxoJPrk3iQars0xka" user="草莓酱板ya"/>
+    <d p="189.987,1,25,16777215,1779540853000,0,dyalgb8bxaj6,7643069764612895010" uid="MS4wLjABAAAAeXLvEw0ctOjr9m-T_a9-ZDM5AMe0GGU_ozZwCjVUkhroKvd4qMtfdNr31U_sVnO7" user="星月狐">这cosplay是什么角色啊？[思考]</d>
+    <d p="189.987,1,25,16777215,1779540853000,0,44993612049,7643069768673974272" uid="MS4wLjABAAAAbhBIF3U_qVMeG4gN5AMZtjQ3p-69KuFoqSWPfFtMZ4cPXppKYvGdECdkbai4IUru" user="用户2574298316495">我去</d>
+    <gift ts="189.987" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540856304" gift-id="685" uid="MS4wLjABAAAAuZghgPDBgUvIPmYzdMj4aliCfpP8JMG7b49-BIl33z4" user="晋"/>
+    <d p="192.359,1,25,16777215,1779540858000,0,86585942499,7643069785899066687" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">man</d>
+    <gift ts="193.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540859161" gift-id="685" uid="MS4wLjABAAAAwnBUQFBQMl458jFtK7qkMrxzSVZGhITWJpdUBv5kPWw" user="人物"/>
+    <d p="193.983,1,25,16777215,1779540859000,0,1052564285,7643069793252522546" uid="MS4wLjABAAAAfYhnWHZW8t7EcxdB7PlZIqamEPz9rHz-hmhy_4khE1w" user="抑🌧🐵大王">你的兰陵王霸霸来了</d>
+    <gift ts="195.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540861549" gift-id="685" uid="MS4wLjABAAAA-JWqyW2othoHMJ_YnZX67LntQi6nk6h-FMu_DBlB5cDnOtTIC361JvfHy5jGB37N" user="云边有个小卖部贩卖日落与哀愁"/>
+    <gift ts="197.998" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540862716" gift-id="685" uid="MS4wLjABAAAA_kCINd26WwK9fzAc-tcs4FvD6HtFZjUCVi8aexcGgfc" user="双日易"/>
+    <d p="197.998,1,25,16777215,1779540863000,0,626103963,7643069808809375251" uid="MS4wLjABAAAA6olJTm-aObUSmMGSrDz_E67KRP4k7uE3pKMAMbS7uDU" user="子夜">刚子水游戏了</d>
+    <d p="200.660,1,25,16777215,1779540865000,0,yyy87319,7643069816950209574" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="201.992,1,25,16777215,1779540866000,0,191221285,7643069820641286691" uid="MS4wLjABAAAApoJPayum6WcjK9JSfmsKzV-G3Djb4rnPUYGe7zlsSBM" user="九万里">这什么角色</d>
+    <d p="201.992,1,25,16777215,1779540866000,0,98067808571,7643069822608562728" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">还真是惊艳到我来[打call][打call][打call][打call]</d>
+    <d p="201.992,1,25,16777215,1779540866000,0,LoveSasakiSaint,7643069824760125986" uid="MS4wLjABAAAAtKzKX8errYPevkvXdQcl29tRvs0IJbCCqL3jlvlwCSM" user="贪睡">抖你雷霆呢笑我一跳</d>
+    <d p="202.914,1,25,16777215,1779540867000,0,58092919784,7643069824760076834" uid="MS4wLjABAAAAXJvW77hcsWm2A19v1R_9kdHv2msXQbspwfuJiIgT873H78d8wHAjauphEGSNrfPJ" user="方包東尼">可愛[比心]</d>
+    <d p="202.914,1,25,16777215,1779540867000,0,23535115286,7643069827155139087" uid="MS4wLjABAAAAD2NBe3zp-YLt3RLYxb4ZpGaIqKc3uLmV7-oBDTChHfhtSUI-NhsQDgnG1WrRUfFD" user="🍀🌈我要喝宣橙多🌈🍀">腋下没毛了</d>
+    <d p="202.914,1,25,16777215,1779540867000,0,QoQOvOQAQ,7643069833323600418" uid="MS4wLjABAAAAHs9_1YI_uHN4U0VEwklECnaRyckW4IR3wX_LY2nhAIM" user="洛希极限">刚子胖了[比心]</d>
+    <gift ts="202.984" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540867076" gift-id="685" uid="MS4wLjABAAAA1KRA38L3ZrKFQXWWWa4o7PcRAFeHZxipl7tGdbtYm-k" user="zmyycc"/>
+    <d p="205.681,1,25,16777215,1779540870000,0,1606262791,7643069839225315625" uid="MS4wLjABAAAApW2vzvFrObbDJeZ641xl5Xpw6j1RW_kMJt-EiTVDbdg" user="萌狗啊（永恒之塔2）">女的 之前打比赛说过话[比心]</d>
+    <gift ts="205.986" giftname="鲜花" giftcount="1" price="10" send-time="1779540870330" gift-id="2006" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="205.986" giftname="鲜花" giftcount="1" price="10" send-time="1779540870330" gift-id="2006" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <d p="206.648,1,25,16777215,1779540871000,0,54766359950,7643069844111254826" uid="MS4wLjABAAAAdqMYJ8x0AVEkRll1v4f17C7fNxS5YMxHbVQNDt_cyWo" user="糟糕">[飞吻]爱了，爱了</d>
+    <d p="209.612,1,25,16777215,1779540874000,0,86585942499,7643069856879523371" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">肉装小乔启动</d>
+    <gift ts="209.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540874375" gift-id="685" uid="MS4wLjABAAAADyPD6dNVRC24qHpEprJ7n3SEIgX07NMb-VeCkoNe7FM2lzgXKiQfz_2IS45ogTRD" user="呦呦鸣-"/>
+    <gift ts="209.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540875266" gift-id="685" uid="MS4wLjABAAAAh4aVY2uGJaM8K2BX-XCOZ0xrPfpToQ73_vy8EQ3RdBd9UzpvM35qEtGbr1EMNNOD" user="东榆已逝乎"/>
+    <gift ts="212" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540876412" gift-id="685" uid="MS4wLjABAAAA4w3jom6WNcvoqmhOM84obX5AOM-jlkuyPa6Xi_-fvRMJzrmo-s1DyYxuEnzSzwjW" user="念安"/>
+    <d p="212.000,1,25,16777215,1779540878000,0,suifengxiang69,7643069874352548874" uid="MS4wLjABAAAA6YjeyDxsWvbpiqDHFvcHviCifDw3HiWLL0_Qw5c6yaLd1ItCRisSNPxF5XeOE4Og" user="拾风">这……</d>
+    <d p="215.993,1,25,16777215,1779540882000,0,dyt1qd7cx38s,7643069888370289715" uid="MS4wLjABAAAAh4aVY2uGJaM8K2BX-XCOZ0xrPfpToQ73_vy8EQ3RdBd9UzpvM35qEtGbr1EMNNOD" user="东榆已逝乎">今天这个</d>
+    <gift ts="216.354" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540882223" gift-id="685" uid="MS4wLjABAAAAV-fIdc-kcqYGCKJbZBit0XY2uGuYaRTasUfxcybcWYI" user="繁盛的人间灵"/>
+    <d p="217.611,1,25,16777215,1779540883000,0,vesit36712,7643069896380883210" uid="MS4wLjABAAAAvWg1YuOHIi3k6YKd3CTPKxE_1xxItW0Y0JomHS7OzU8" user="七分冷">刚子是不是用错账号开播了[比心][比心][比心]</d>
+    <gift ts="219.987" giftname="点点星光" giftcount="1" price="1" send-time="1779540884467" gift-id="685" uid="MS4wLjABAAAA_asGnXKU1yqqs6OvlgUSZlQK5M_HuAuR4BDC0_dueo_ALZ2FM1il72V9PP-APIwG" user="绣虎"/>
+    <d p="219.987,1,25,16777215,1779540885000,0,dyt1qd7cx38s,7643069908636930356" uid="MS4wLjABAAAAh4aVY2uGJaM8K2BX-XCOZ0xrPfpToQ73_vy8EQ3RdBd9UzpvM35qEtGbr1EMNNOD" user="东榆已逝乎">……</d>
+    <gift ts="221.408" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540885607" gift-id="685" uid="MS4wLjABAAAAL5uxQGHwv0m6sRGW9fND8Qe9yi9vZnKY2GfBRl71QlPqxD1sn3XsRr2Fd3ZxsGJo" user="信宽"/>
+    <gift ts="223.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540886706" gift-id="685" uid="MS4wLjABAAAAWJPURpOHbDrLTr6ckh9qkPZbk9NmFDFLoKXnNDIXTy05AZqkrb48ETVWZUC4LX30" user="宇y."/>
+    <d p="223.983,1,25,16777215,1779540888000,0,85771596661,7643069916900611620" uid="MS4wLjABAAAAReXkJkbCY5mvgcGaOhkVbAHirOgCiQLAjOmm0eLXb2qdriLHTdhdQMZ_Bk3j7E-s" user="蜡笔不小心🖍">这是什么？</d>
+    <gift ts="225.866" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540889923" gift-id="685" uid="MS4wLjABAAAA9m-qGTgHd-IWLd4DbkGZZyc3vZG7ddargjb_KoDClpA" user="呆呆"/>
+    <d p="225.941,1,25,16777215,1779540890000,0,58634378323,7643069922109677864" uid="MS4wLjABAAAAAwjyM6dt9QBjmS1zU5pU2Ss2oBWuDGFP_WfNum4cTYs" user="广成子">我最喜欢玩李信偷家了不参团</d>
+    <d p="225.941,1,25,16777215,1779540890000,0,yyy87319,7643069924143538466" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="225.983" giftname="点点星光" giftcount="1" price="1" send-time="1779540890042" gift-id="685" uid="MS4wLjABAAAAaO82gVfouUvH6k-KKVrkrdcx_lwDlhGLCsWVgr2_U3jPtj5vo89-qaE3flHsPN4a" user="我思故我在"/>
+    <d p="225.983,1,25,16777215,1779540892000,0,kongzhi4,7643069933342454307" uid="MS4wLjABAAAAKnWi4WMuryEJA08aEhjy5oFc7r8ueB9y23Rcf1RAxF8" user="祈">这啥模式，怎么这样选这样ban的</d>
+    <gift ts="227.998" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540892063" gift-id="685" uid="MS4wLjABAAAATCuX0rkor64r_Ea2p8mc9ni6dF8QzNtAzpL5cEspEMg" user="珈雯 🐒"/>
+    <d p="227.998,1,25,16777215,1779540892000,0,22072020342,7643069936939758132" uid="MS4wLjABAAAAXfLFiCPPnxQf_sXnmpLLWCi0QEqKpOoBBa4cZx7GbA4" user="逆">是啥模式？</d>
+    <d p="228.813,1,25,16777215,1779540893000,0,vesit36712,7643069936939921972" uid="MS4wLjABAAAAvWg1YuOHIi3k6YKd3CTPKxE_1xxItW0Y0JomHS7OzU8" user="七分冷">刚子是不是用错账号开播了[比心][比心][比心]</d>
+    <d p="229.629,1,25,16777215,1779540894000,0,29442237829,7643069941717840424" uid="MS4wLjABAAAANjzoENKoVEa0LiGiyAMbJwxAzpMASUNsCBdc_Y9f41I" user="扫不完的落叶">刚子今天没有雄性激素了[看]</d>
+    <gift ts="230.691" giftname="鲜花" giftcount="1" price="10" send-time="1779540895303" gift-id="2006" uid="MS4wLjABAAAAjrT-zvSIMO8MmZWTqd94fpUSDhLKkBpfpRm7gAbcHcxNysxngREQcbBhueKK1p63" user="年可惜"/>
+    <gift ts="231.956" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540896853" gift-id="685" uid="MS4wLjABAAAAeXLvEw0ctOjr9m-T_a9-ZDM5AMe0GGU_ozZwCjVUkhroKvd4qMtfdNr31U_sVnO7" user="星月狐"/>
+    <gift ts="231.992" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540896897" gift-id="685" uid="MS4wLjABAAAAVk9qJyYThA7e2u2snamsIzpBUCxu61Y4JPG5B_Nmk34DKNVEwkvwshxdM18qkW8p" user="眼花老头"/>
+    <gift ts="231.992" giftname="鲜花" giftcount="1" price="10" send-time="1779540895303" gift-id="2006" uid="MS4wLjABAAAAjrT-zvSIMO8MmZWTqd94fpUSDhLKkBpfpRm7gAbcHcxNysxngREQcbBhueKK1p63" user="年可惜"/>
+    <gift ts="234.805" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540898612" gift-id="685" uid="MS4wLjABAAAAD82JIhq9D7ZsNMbnAb8wRZM612nUxxkhVIX6WzZCFnU" user="自信汤姆"/>
+    <gift ts="235.514" giftname="跑车" giftcount="1" price="1200" send-time="1779540899445" gift-id="4353" uid="MS4wLjABAAAAhngkLuvPbhJbMKgDdYNJoNVR3OVyz_PRWSk2xjuDT7U" user="渐进线"/>
+    <d p="235.986,1,25,16777215,1779540900000,0,75384537798,7643069968942771210" uid="MS4wLjABAAAA9MBqqBkNblS417B59kKFNn0HgYgFAdIyYtpvIfsP1A6rhukxQg_I5fgAhJMdjOwg" user="✨有此山✨">刚子别坑队友了</d>
+    <gift ts="235.986" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540901886" gift-id="685" uid="MS4wLjABAAAAIpsNCkdyTOUNutwAQQb6zx2aNx4XOyI8Q_imd_9n5L8" user="颜祎Carp🌱"/>
+    <gift ts="239.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540903819" gift-id="685" uid="MS4wLjABAAAA0DzHpM2bZJJiOIHGkHHTGA3ywAARepX4C_MBIXgMHvw" user="又想张润了"/>
+    <d p="239.983,1,25,16777215,1779540904000,0,97948090071,7643069989155462170" uid="MS4wLjABAAAAHLXl3ImRpwiwUFVkrlJy1NlyTJaWBvvsGxhR9pDYHkLKOy9Qp-IVkmLKS7AS53S9" user="！！">主播可以带我打王者吗，我很菜</d>
+    <d p="242.000,1,25,16777215,1779540905000,0,143323597,7643069990581967918" uid="MS4wLjABAAAAhK02r7akkF4SgOSbILzLqWlFcZLXynrdJY85_7LxxxU" user="君有云Zzz">摄像头有点模糊</d>
+    <d p="242.000,1,25,16777215,1779540906000,0,90186486287,7643069995183307571" uid="MS4wLjABAAAAa4FCT12zZOCyUhG8ZsZ07pWpsL9Q91FvEH_cToUIxCQ1xkq-njnWq-PTWonQ0V1X" user="水滴鱼">坏了，这是真好看</d>
+    <gift ts="244.222" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540908681" gift-id="685" uid="MS4wLjABAAAATcKvUar0gO409JRCKrGaiJ5LTdO-_SJDq1UOoczcvc6idKP1PbN6baKfRENkLS7x" user="（W）"/>
+    <gift ts="245.994" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540910818" gift-id="685" uid="MS4wLjABAAAAjrT-zvSIMO8MmZWTqd94fpUSDhLKkBpfpRm7gAbcHcxNysxngREQcbBhueKK1p63" user="年可惜"/>
+    <d p="245.994,1,25,16777215,1779540910000,0,86585942499,7643070014040188459" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">门主开杀</d>
+    <d p="245.994,1,25,16777215,1779540910000,0,57246416270,7643070016460465718" uid="MS4wLjABAAAAY9-AwWukaOI_IxSJUQFag05g1xsaz-KcJE6sN74hCyw" user="秦川">主播不说话感觉好无聊啊，是特殊人群吗？[看][看][看]</d>
+    <d p="247.082,1,25,16777215,1779540911000,0,96339316244,7643070016460367414" uid="MS4wLjABAAAAg2nWzUq8byDkpMxuRFiCGNctUC1j5OXR7ybml97FnLE" user="州">你是谁？</d>
+    <d p="248.171,1,25,16777215,1779540912000,0,1371732502,7643070020305866536" uid="MS4wLjABAAAAj8t_lWrszBKkjAngz4niqBhMl4TQ91cXDqWRuC39Tok" user="栗子糕好吃">刚子真的颜艺双全，还会玩王者[看]</d>
+    <d p="248.171,1,25,16777215,1779540912000,0,dy1prbofnd4v0,7643070022185176884" uid="MS4wLjABAAAAETDlnpWLKN0Xz_WiTwf1GJ3O20F79KRPUs4q4G9w0kIEFHva4zEvhEt4EaQ3lO8y" user="再见易再见难">刚子又换新衣服了</d>
+    <gift ts="248.218" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540912043" gift-id="685" uid="MS4wLjABAAAAIDpPegYXens9clK0_4IuQvbZM92TFNGlzzkq0UkqyKE" user="七喜君不是雪碧"/>
+    <d p="249.259,1,25,16777215,1779540913000,0,30900175480,7643070024525532928" uid="MS4wLjABAAAAq29fKpZwekxV1BL-TfFiorWygzfkVFN377xXzyz1q3WUbJ81I-ki1fAarBf6KPZw" user="山栖远">？</d>
+    <d p="249.259,1,25,16777215,1779540913000,0,80925494,7643070026207563554" uid="MS4wLjABAAAAhngkLuvPbhJbMKgDdYNJoNVR3OVyz_PRWSk2xjuDT7U" user="渐进线">可爱[比心]</d>
+    <gift ts="249.987" giftname="星光闪耀" giftcount="1" price="9" send-time="1779540913668" gift-id="11884" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="249.987" giftname="星光闪耀" giftcount="1" price="9" send-time="1779540913668" gift-id="11884" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <d p="253.565,1,25,16777215,1779540916000,0,1653504005,7643070038874134312" uid="MS4wLjABAAAAqWWlr1JI_hz2vESFy7p5RXvZnNy4-xtF7i6QG9kE6jE" user="✝">不是哥们你谁啊？我刚子呢[微笑]</d>
+    <gift ts="253.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540916272" gift-id="685" uid="MS4wLjABAAAACIPPxFEnGOZzX0mipp8vx3Kotmx4-snePkLyoNoSxjzwVwJWEspVwVA37S_zneVd" user="方."/>
+    <d p="253.983,1,25,16777215,1779540919000,0,91374627040,7643070050837260330" uid="MS4wLjABAAAAQezh6mqZbAhYBA-8fDjPbEPtSFXsPciPzvsvz-R4a_w" user="此生必开布加迪">什么段我去狙击你</d>
+    <d p="253.983,1,25,16777215,1779540919000,0,201385185,7643070054346565668" uid="MS4wLjABAAAAmwJZAkYMH2cEzTmr4FXSmG2nWoSlkReBlSI25IM2jaY" user="想你的清悠">今天好漂亮</d>
+    <d p="255.983,1,25,16777215,1779540920000,0,98067808571,7643070054346696740" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">刚子买风扇了？</d>
+    <gift ts="255.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540921925" gift-id="685" uid="MS4wLjABAAAAhngkLuvPbhJbMKgDdYNJoNVR3OVyz_PRWSk2xjuDT7U" user="渐进线"/>
+    <gift ts="256.465" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540922067" gift-id="6937" uid="MS4wLjABAAAA3nzttdal_uz65w97kGd4T17LsCs-1ylVdkd4MjOEr9Y" user="橙可涵"/>
+    <gift ts="257.998" giftname="粉丝团灯牌" giftcount="1" price="1" create-time="1779540922518" gift-id="685" uid="MS4wLjABAAAACy5ITwX-gi4ohwyZ350e0lSehqgkqcrRsHbGFqFicVE" user="魂轩然"/>
+    <gift ts="257.998" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779540922067" gift-id="6937" uid="MS4wLjABAAAA3nzttdal_uz65w97kGd4T17LsCs-1ylVdkd4MjOEr9Y" user="橙可涵"/>
+    <d p="258.945,1,25,16777215,1779540923000,0,I842658674,7643070069966199859" uid="MS4wLjABAAAAlSfkmrz3Md1JZiItj_dILqL7KgiHdNVx3ylxibWoIdQ" user="Helios">刚子适合COS可爱的</d>
+    <d p="259.960,1,25,16777215,1779540924000,0,82081970493,7643070073129950246" uid="MS4wLjABAAAAFMfus152DsrUv0yINy2EhR32FqxwkXRC9ksPnPVUxOcUYneIGk2yI7WIJmXLkcOB" user="Bún Chả Ngon">gay ?</d>
+    <gift ts="260.035" giftname="鲜花" giftcount="1" price="10" send-time="1779540924073" gift-id="2006" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽"/>
+    <gift ts="260.035" giftname="鲜花" giftcount="1" price="10" send-time="1779540924073" gift-id="2006" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽"/>
+    <gift ts="261.842" giftname="鲜花" giftcount="1" price="10" send-time="1779540925853" gift-id="2006" uid="MS4wLjABAAAAlv8HO2Qkl9xRGTulXKdK-Y_W6oPnNkQ9AypYpaFiJik" user="二货的青春"/>
+    <d p="261.992,1,25,16777215,1779540926000,0,29442237829,7643070078112392232" uid="MS4wLjABAAAANjzoENKoVEa0LiGiyAMbJwxAzpMASUNsCBdc_Y9f41I" user="扫不完的落叶">刚子今天真可爱[舔屏][舔屏][舔屏]</d>
+    <d p="261.992,1,25,16777215,1779540926000,0,yyy87319,7643070080431612963" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="261.992" giftname="鲜花" giftcount="1" price="10" send-time="1779540925853" gift-id="2006" uid="MS4wLjABAAAAlv8HO2Qkl9xRGTulXKdK-Y_W6oPnNkQ9AypYpaFiJik" user="二货的青春"/>
+    <d p="264.059,1,25,16777215,1779540928000,0,86585942499,7643070089525437203" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">门主带我们飞</d>
+    <d p="265.022,1,25,16777215,1779540929000,0,98067808571,7643070091261993782" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">好看好看[比心][比心]</d>
+    <d p="265.986,1,25,16777215,1779540930000,0,581090074,7643070095250051370" uid="MS4wLjABAAAADVEpQt1uOZZYh0lwuaEjc_LGdV0_LToHgdMZ9jtCnmo" user="雾升螃蟹">可爱捏</d>
+    <d p="265.986,1,25,16777215,1779540933000,0,96339316244,7643070110051638298" uid="MS4wLjABAAAAg2nWzUq8byDkpMxuRFiCGNctUC1j5OXR7ybml97FnLE" user="州">怎么还有风扇</d>
+    <d p="269.983,1,25,16777215,1779540935000,0,67457413051,7643070115257203766" uid="MS4wLjABAAAAcyOygjExRNxfskxDYJ3L2ReWmbO4FmpfT781vhQyituuKRvycMEcE6Hg0NAAjfTm" user="李相赫">什么雷霆造型[看]</d>
+    <d p="269.983,1,25,16777215,1779540935000,0,30900175480,7643070117740477481" uid="MS4wLjABAAAAq29fKpZwekxV1BL-TfFiorWygzfkVFN377xXzyz1q3WUbJ81I-ki1fAarBf6KPZw" user="山栖远">只有我感觉很糊吗？</d>
+    <d p="269.983,1,25,16777215,1779540935000,0,y316497852,7643070120177515583" uid="MS4wLjABAAAALkG6X5xH4Jo2pIogYviTJk-fXdNfXqeHUfuzlHfc8V7haB_m6KTsDwKoxb-YBJGo" user="青颜">今天是什么角色</d>
+    <d p="269.983,1,25,16777215,1779540935000,0,57382791653,7643070122312154154" uid="MS4wLjABAAAAF_iE9uudSi7dCOgQyjR03maSgzJw79jMB7rdTCxdchoTZF3W1ttMhEui2hzO5XCC" user="辣椒，">刚子？</d>
+    <d p="271.035,1,25,16777215,1779540936000,0,dyc5i4bjme20,7643070122312219690" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">小锅锅，带带我呗</d>
+    <gift ts="271.983" giftname="星光闪耀" giftcount="11" price="9" create-time="1779540936901" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <gift ts="273.997" giftname="星光闪耀" giftcount="11" price="9" create-time="1779540939" gift-id="11884" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv"/>
+    <d p="273.997,1,25,16777215,1779540939000,0,j20051210j,7643070135414451246" uid="MS4wLjABAAAA7OHpb9BzrZC8yN2v8pz7P5Jy08Ui0kDDRaCHSPxkvgQ" user="🌈魂牵梦绕风云荡">要不要用兰陵王狙击你[看]</d>
+    <d p="273.997,1,25,16777215,1779540939000,0,dy5toaz0pd55,7643070139022683162" uid="MS4wLjABAAAAETilUq4svWLY31N4uF5A8npHLnspJ5AdBoUu_77sWGpgyJNHPHbnmkiWelMS6CXX" user="南竹🎋">晚上狙击陈伯去</d>
+    <d p="275.472,1,25,16777215,1779540940000,0,86585942499,7643070142163004426" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">今天居然不是扇子，我电扇</d>
+    <gift ts="277.991" giftname="跑车" giftcount="1" price="1200" create-time="1779540941707" gift-id="4353" uid="MS4wLjABAAAA-KdmpOgqgdVNInnz1kXuQTSy9fylwysu_J_lk5u8psU" user="dl"/>
+    <d p="277.991,1,25,16777215,1779540944000,0,shiguangchen35,7643070156843147035" uid="MS4wLjABAAAA0FHohjFuoD913Dz8EcLdgv4Di6Vy2MlqP7VpqlEPwO8" user="🌈时光城北慕南城">王刚留下，其他人出去</d>
+    <d p="281.985,1,25,16777215,1779540946000,0,75701815066,7643070163264552739" uid="MS4wLjABAAAA98wbE-OdlxVJFAdZXji9JrMOT1bf-UBPF27qMdfQaJzE4EzlTyfb8GBAggRmUDxk" user="68">星耀一刚搜完</d>
+    <d p="281.985,1,25,16777215,1779540946000,0,1732160864,7643070165324898843" uid="MS4wLjABAAAArQL8r6NkOJZl3Icbd4Wy4r5VbAzORkV7Ho7nXbtC07w" user="小深歌">说话</d>
+    <d p="281.985,1,25,16777215,1779540947000,0,xiaobai5115033,7643070167262618150" uid="MS4wLjABAAAA0cMMo8XaaPjbap1TyjWF1Sd3pV2JkDU2SMwn6sBGNICHjiON1ZUCIVL20Y4RhYEf" user="小白吃不饱">情侣吗</d>
+    <d p="287.999,1,25,16777215,1779540954000,0,x07080604141001,7643070202246229801" uid="MS4wLjABAAAAOEYAB4bvHdE5AcaBl5GMNbiS51CaRZM4Eb3aPrzR-1BlUm9sNx1D9NBXjGbvWc7G" user="墨友">这阵容够呛</d>
+    <gift ts="291.944" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540954988" gift-id="685" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽"/>
+    <d p="291.992,1,25,16777215,1779540955000,0,49612501899,7643070205920672562" uid="MS4wLjABAAAACNrtwkPqS-2cKLFmj7gLC4FVquX_nYdXntgqe43e7LVKcPRURW2hLTHPGlr1rtKu" user="我必独断万古">我也想和你打，刚子[流泪][流泪][流泪][流泪]</d>
+    <d p="291.992,1,25,16777215,1779540955000,0,yyy87319,7643070207343262473" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">加油捏刚[比心]</d>
+    <d p="295.986,1,25,16777215,1779540961000,0,86585942499,7643070227765554986" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">王刚留下，其他人出去</d>
+    <d p="299.983,1,25,16777215,1779540962000,0,98067808571,7643070232739086095" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">真好看[比心][比心][比心][比心]</d>
+    <d p="299.983,1,25,16777215,1779540962000,0,dybxfjturbel,7643070234991542068" uid="MS4wLjABAAAAWhuM_cX55gevip-0ogACsd-eZO6uBHlzVJnMa6ZY8CsdQ4VRr1XUH09t404SV2Bg" user="辰风龙溪">有没有狙击主播的算我一个[看]</d>
+    <d p="299.983,1,25,16777215,1779540962000,0,zoez218,7643070234991738676" uid="MS4wLjABAAAAL-SipTgNCq6nfmPZOFDJb25KFgexuz3LKYCxHhWVhw-2bK9Vpl9YhO9foDf9Idhb" user="图图不糊涂">点点陪伴</d>
+    <d p="301.983,1,25,16777215,1779540968000,0,35574852894,7643070261239979054" uid="MS4wLjABAAAAxeI_eJpPbxVU6xQE2qe69zAJ6PsUIbZEXWcfoDUsexk9hWs6l-THvCKxVjv74UrU" user="知别离">主播是男的女的</d>
+    <d p="303.997,1,25,16777215,1779540969000,0,1790082798,7643070262645578779" uid="MS4wLjABAAAAjHyjGZc2Amu5VUSzFfyZyaHoS7yXxOZb7MSu6wHysU8" user="真物">走错地方   出去再逛逛</d>
+    <d p="306.411,1,25,16777215,1779540970000,0,x07080604141001,7643070266402659382" uid="MS4wLjABAAAAOEYAB4bvHdE5AcaBl5GMNbiS51CaRZM4Eb3aPrzR-1BlUm9sNx1D9NBXjGbvWc7G" user="墨友">被框到感觉就完</d>
+    <gift ts="307.991" giftname="鲜花" giftcount="1" price="10" send-time="1779540970654" gift-id="2006" uid="MS4wLjABAAAAzQ5jXe_j_asxbI-LuFPTrK4E5QC197hnrvKa_qba9Z0GWMzF6vB3EIkBbexJxGe0" user="WIEE"/>
+    <gift ts="307.991" giftname="鲜花" giftcount="1" price="10" send-time="1779540970654" gift-id="2006" uid="MS4wLjABAAAAzQ5jXe_j_asxbI-LuFPTrK4E5QC197hnrvKa_qba9Z0GWMzF6vB3EIkBbexJxGe0" user="WIEE"/>
+    <d p="307.991,1,25,16777215,1779540974000,0,58092919784,7643070284749068078" uid="MS4wLjABAAAAXJvW77hcsWm2A19v1R_9kdHv2msXQbspwfuJiIgT873H78d8wHAjauphEGSNrfPJ" user="方包東尼">要一直手動放大左下角</d>
+    <d p="307.991,1,25,16777215,1779540974000,0,zoez218,7643070287923864858" uid="MS4wLjABAAAAL-SipTgNCq6nfmPZOFDJb25KFgexuz3LKYCxHhWVhw-2bK9Vpl9YhO9foDf9Idhb" user="图图不糊涂">哥哥姐姐买点点陪伴[比心][比心][比心]</d>
+    <gift ts="311.553" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540975784" gift-id="685" uid="MS4wLjABAAAACrvjWbhopaj8TsBpj5QPSa_NhDFuWzlfNMCzgmwIHab9ZSPtHqRNMXxUUBWtdrE9" user="宇文轩枫"/>
+    <d p="311.985,1,25,16777215,1779540976000,0,5143220856_6,7643070296911946534" uid="MS4wLjABAAAAU9lbSQheRD7aTAlLGo7CmUx9YMQp8CL5XmFfLIlDFZvkp_2aXpQo8CNafU2M4Xc8" user="摆烂仔">[看]</d>
+    <d p="315.983,1,25,16777215,1779540981000,0,86585942499,7643070316055619114" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">上线狙击一波</d>
+    <gift ts="317.999" giftname="人气票" giftcount="1" price="1" send-time="1779540981962" gift-id="3992" uid="MS4wLjABAAAA3RPawnWk0moPrt3bskAh0jR__lOOIML4O0zC27OUtri6K-TJYxF_O1mIQN6vttM2" user="元气¹²ˣ²阿童木"/>
+    <gift ts="317.999" giftname="人气票" giftcount="1" price="1" send-time="1779540981962" gift-id="3992" uid="MS4wLjABAAAA3RPawnWk0moPrt3bskAh0jR__lOOIML4O0zC27OUtri6K-TJYxF_O1mIQN6vttM2" user="元气¹²ˣ²阿童木"/>
+    <gift ts="318.952" giftname="小心心" giftcount="1" price="1" send-time="1779540982926" gift-id="463" uid="MS4wLjABAAAA3RPawnWk0moPrt3bskAh0jR__lOOIML4O0zC27OUtri6K-TJYxF_O1mIQN6vttM2" user="元气¹²ˣ²阿童木"/>
+    <gift ts="318.952" giftname="小心心" giftcount="1" price="1" send-time="1779540982926" gift-id="463" uid="MS4wLjABAAAA3RPawnWk0moPrt3bskAh0jR__lOOIML4O0zC27OUtri6K-TJYxF_O1mIQN6vttM2" user="元气¹²ˣ²阿童木"/>
+    <d p="319.025,1,25,16777215,1779540983000,0,40772170501,7643070328366987059" uid="MS4wLjABAAAA046xQb80U0bzYhc5ecmQ2aGmFv9xHvOrgPUvZE_BixiHC0M2TuqABYuqXpGWjRYW" user="用户6936518453336">刚子又敲屏幕了</d>
+    <gift ts="319.539" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540983519" gift-id="685" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一"/>
+    <gift ts="320.577" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540984569" gift-id="685" uid="MS4wLjABAAAARKo7lZCPCR3p6TG5OqZe5K9I2KxrT-kHCWLORFO_m84" user="矢佚"/>
+    <d p="321.003,1,25,16777215,1779540985000,0,dyd7g6jer530,7643070335256831515" uid="MS4wLjABAAAAawY-i_H4CiCMQxc_Mv40zGaQvnxdYfST6DOYpWUgLkk" user="@">[微笑]</d>
+    <gift ts="321.852" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540985858" gift-id="685" uid="MS4wLjABAAAAvnLrc32UnS13sj7wIqhP-23WdKTwcHEdsfszStEm6j7QGj5zM0ftYviYnSfIAt2K" user="风扶时"/>
+    <gift ts="321.867" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540985873" gift-id="685" uid="MS4wLjABAAAA3RPawnWk0moPrt3bskAh0jR__lOOIML4O0zC27OUtri6K-TJYxF_O1mIQN6vttM2" user="元气¹²ˣ²阿童木"/>
+    <d p="321.993,1,25,16777215,1779540986000,0,20220222.22.22,7643070336972645897" uid="MS4wLjABAAAAZljuqCYFJ6dpjZ93I5sEhMnluMCaVI76paBvDfXUX2Q" user="景昼眠QAQ">刚子怎么换皮肤了</d>
+    <d p="321.993,1,25,16777215,1779540986000,0,1994666782,7643070340306331145" uid="MS4wLjABAAAAV-fIdc-kcqYGCKJbZBit0XY2uGuYaRTasUfxcybcWYI" user="繁盛的人间灵">原神大人</d>
+    <d p="321.993,1,25,16777215,1779540986000,0,yyy87319,7643070340306429449" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="321.993,1,25,16777215,1779540989000,0,69547134148,7643070350570829065" uid="MS4wLjABAAAARgh7gAs8zucjUgMrcz8K0CUipIWxWaWUVNwvAoALGbE" user="叫爸爸">这什么东西</d>
+    <d p="324.058,1,25,16777215,1779540990000,0,yyy87319,7643070354797442331" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">好看呢[比心]</d>
+    <gift ts="325.986" giftname="为你闪耀" giftcount="1" price="9" send-time="1779540990933" gift-id="860" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫"/>
+    <gift ts="325.986" giftname="为你闪耀" giftcount="1" price="9" send-time="1779540990933" gift-id="860" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫"/>
+    <d p="326.068,1,25,16777215,1779540991000,0,liangbao8616,7643070362842606132" uid="MS4wLjABAAAAWeWLAgwIZGImT8GdZxpTX9T--mOQowYk9gdRGLp8IJ-667j8G4Xgg5kzJuFQG-I9" user="梁薄">这是刚子？，怎么胖了</d>
+    <gift ts="326.754" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540991556" gift-id="685" uid="MS4wLjABAAAAhEjqj81wSO1Dey7V_IuGIXfQZTG5OjxMqfc6960yELFQBp6f1XuY5mpNh5MzT6iu" user="🚫糖"/>
+    <gift ts="329.983" giftname="鲜花" giftcount="1" price="10" send-time="1779540994173" gift-id="2006" uid="MS4wLjABAAAAjxD8wNuM7BzCOv4I34LnhrrvRFruiA0dEzacZLWeinaO18M92leJehR1jov3LT_h" user="大理寺--菜团子"/>
+    <gift ts="329.983" giftname="鲜花" giftcount="1" price="10" send-time="1779540994173" gift-id="2006" uid="MS4wLjABAAAAjxD8wNuM7BzCOv4I34LnhrrvRFruiA0dEzacZLWeinaO18M92leJehR1jov3LT_h" user="大理寺--菜团子"/>
+    <d p="330.702,1,25,16777215,1779540995000,0,52686047128,7643070374058728704" uid="MS4wLjABAAAAzRqzoewmTeVcu-luht7s2tQ2xAqoztf9fLFPa8CJeuY" user="独往">还真是女的。[赞][赞]</d>
+    <d p="330.702,1,25,16777215,1779540995000,0,269454275,7643070378450312488" uid="MS4wLjABAAAAJrYNZ_DAeOhmQGqD9pbOWd2yX49WpwKMDNmsYKFUY8w" user="熵">？换风格了</d>
+    <d p="331.572,1,25,16777215,1779540996000,0,76843233661,7643070378450197800" uid="MS4wLjABAAAAT6c1pm4CVj6SqAJnqOnpu-iDD_mhW80Hp9b0yroGLsvNnXUzMs5R4exeje-Hv24i" user="风和日丽每一天(克秒版)">？</d>
+    <d p="331.572,1,25,16777215,1779540996000,0,49928356343,7643070378450214184" uid="MS4wLjABAAAA5EO38py-5eTBbYzIng-leTIqydQbperqaUW11_btS88Al4IT3D-8_hRApXzoLLqW" user="年少">除非这把的李白是锦儿不然看不到赢的希望</d>
+    <gift ts="331.983" giftname="粉丝团灯牌" giftcount="1" price="1" create-time="1779540996472" gift-id="685" uid="MS4wLjABAAAA3zUsCnPhSmUantRBwUUUerT70d8PqJLe7WcLMfouyQgfsw-TRZ76WhGnclZ7sDBj" user="橙焰灼天"/>
+    <gift ts="331.983" giftname="鲜花" giftcount="1" price="10" send-time="1779540997488" gift-id="2006" uid="MS4wLjABAAAA4GVKE1jQ7Z0-uBGDE_HtZUm5SGYr005-rd0W9R0hpiynH8IRh8n0Oklj8v3Fr9Uw" user="陈凭案"/>
+    <gift ts="332.322" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779540998854" gift-id="685" uid="MS4wLjABAAAAKpQbGK0ethiDKpkKjjtVU71H8I_0jTrEJjZXWKtn9vw" user="笙颜"/>
+    <gift ts="333.997" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541005602" gift-id="860" uid="MS4wLjABAAAAITAxidLhhjgy9EqopJrB4vKuwcfH98OMQj5eHT7-iN0" user="夹米生"/>
+    <gift ts="333.997" giftname="鲜花" giftcount="1" price="10" send-time="1779540997488" gift-id="2006" uid="MS4wLjABAAAA4GVKE1jQ7Z0-uBGDE_HtZUm5SGYr005-rd0W9R0hpiynH8IRh8n0Oklj8v3Fr9Uw" user="陈凭案"/>
+    <d p="335.233,1,25,16777215,1779541000000,0,76843233661,7643070396477075507" uid="MS4wLjABAAAAT6c1pm4CVj6SqAJnqOnpu-iDD_mhW80Hp9b0yroGLsvNnXUzMs5R4exeje-Hv24i" user="风和日丽每一天(克秒版)">这对吗</d>
+    <d p="335.725,1,25,16777215,1779541001000,0,57246416270,7643070404353450267" uid="MS4wLjABAAAAY9-AwWukaOI_IxSJUQFag05g1xsaz-KcJE6sN74hCyw" user="秦川">刚子今天在cosplay什么呀？不知道啊。</d>
+    <gift ts="337.991" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541005602" gift-id="860" uid="MS4wLjABAAAAITAxidLhhjgy9EqopJrB4vKuwcfH98OMQj5eHT7-iN0" user="夹米生"/>
+    <gift ts="337.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541003813" gift-id="685" uid="MS4wLjABAAAAftCM-BTIkOUCDfU0rDqLzxWQq4P0--Q3V81NVWRxBdIWawajEmE6u1iTtjHCPIO-" user="愚者"/>
+    <d p="338.620,1,25,16777215,1779541004000,0,tianyu53028,7643070422913652260" uid="MS4wLjABAAAAtrg60IO840Uv6Eg9rNTt5G6bE0dW_60uqXo2Q5kyDD6K141Ih0d1h1jeprsmJvzu" user="东华">刚子</d>
+    <gift ts="339.323" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541004209" gift-id="685" uid="MS4wLjABAAAA7Pip5j32zzU5HfCXovDjEEivl0zrL_uLV_D_zADWBxOZ6ZRqbWL6uelwIEVSpOCk" user="鸭梨骨朵"/>
+    <gift ts="341.096" giftname="跑车" giftcount="1" price="1200" send-time="1779541004736" gift-id="4353" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <d p="341.985,1,25,16777215,1779541005000,0,522636757..,7643070417771292970" uid="MS4wLjABAAAAyrLyQV-xKE0-Vw0VKcnfMPPVn7IsBM9EEtV4dCg9qsc" user="他山之石">太可爱了吧</d>
+    <d p="341.985,1,25,16777215,1779541006000,0,201385185,7643070428185261318" uid="MS4wLjABAAAAmwJZAkYMH2cEzTmr4FXSmG2nWoSlkReBlSI25IM2jaY" user="想你的清悠">预测，主播几杀</d>
+    <d p="342.788,1,25,16777215,1779541007000,0,yunzhimuxia,7643070426012611903" uid="MS4wLjABAAAAQf61mZgO1LzCHJwtzOzDzjVdsk6OnxrF-FBAYJget4CqKwA9cvZnYUWgJHaqTcTR" user="云之沐夏🥔">这是啥角色？</d>
+    <d p="342.788,1,25,16777215,1779541007000,0,7758521241u,7643070431310492712" uid="MS4wLjABAAAA_DOC3E-s4yo4vxpddb3GgOxX7hlt0S3cmTO_9ea1gVVYl70ofoiQVuJ1ZgACLrla" user="风吹雾.">小乔出肉了</d>
+    <gift ts="345.566" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541010460" gift-id="685" uid="MS4wLjABAAAANWRdEKuxwchOOi0VPpegqdWvDBOdxQvlyza4W0SCQeY" user="星理￡ζÆ༒"/>
+    <gift ts="345.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541010978" gift-id="685" uid="MS4wLjABAAAAOgUcUsB7jaBKge794me-kNFaEM74BqjPaFGPx7AYbtU" user="865"/>
+    <d p="345.983,1,25,16777215,1779541010000,0,340795523,7643070444962697226" uid="MS4wLjABAAAAv_0ySsECuAtFov86mWE7ELNmpNtAafIRwO1DiLeFcEg" user="♂落笔定风云☆">这还是刚子吗</d>
+    <gift ts="347.999" giftname="星光闪耀" giftcount="11" price="9" create-time="1779541012632" gift-id="11884" uid="MS4wLjABAAAA-KdmpOgqgdVNInnz1kXuQTSy9fylwysu_J_lk5u8psU" user="dl"/>
+    <gift ts="347.999" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541013665" gift-id="6937" uid="MS4wLjABAAAArLqCrPJFUzxIu0zstia0smlRGDbIa3zYiCHV3U0uZkY2nkd4WjbE4TO4QnDuE-4M" user="🌈砰砰"/>
+    <gift ts="347.999" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541013665" gift-id="6937" uid="MS4wLjABAAAArLqCrPJFUzxIu0zstia0smlRGDbIa3zYiCHV3U0uZkY2nkd4WjbE4TO4QnDuE-4M" user="🌈砰砰"/>
+    <gift ts="348.461" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541013997" gift-id="6937" uid="MS4wLjABAAAAU6vxCohZfxgULCRF7lDEt1-p7Vmcc_8WuXnX2iLcAmc" user="清黎"/>
+    <gift ts="348.461" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541013997" gift-id="6937" uid="MS4wLjABAAAAU6vxCohZfxgULCRF7lDEt1-p7Vmcc_8WuXnX2iLcAmc" user="清黎"/>
+    <d p="348.466,1,25,16777215,1779541014000,0,76843233661,7643070459152984841" uid="MS4wLjABAAAAT6c1pm4CVj6SqAJnqOnpu-iDD_mhW80Hp9b0yroGLsvNnXUzMs5R4exeje-Hv24i" user="风和日丽每一天(克秒版)">不PK了？</d>
+    <gift ts="348.88" giftname="鲜花" giftcount="1" price="10" send-time="1779541014297" gift-id="2006" uid="MS4wLjABAAAANWRdEKuxwchOOi0VPpegqdWvDBOdxQvlyza4W0SCQeY" user="星理￡ζÆ༒"/>
+    <gift ts="348.88" giftname="鲜花" giftcount="1" price="10" send-time="1779541014297" gift-id="2006" uid="MS4wLjABAAAANWRdEKuxwchOOi0VPpegqdWvDBOdxQvlyza4W0SCQeY" user="星理￡ζÆ༒"/>
+    <gift ts="349.762" giftname="星光闪耀" giftcount="22" price="9" create-time="1779541014930" gift-id="11884" uid="MS4wLjABAAAA-KdmpOgqgdVNInnz1kXuQTSy9fylwysu_J_lk5u8psU" user="dl"/>
+    <d p="351.254,1,25,16777215,1779541016000,0,1790082798,7643070465615197759" uid="MS4wLjABAAAAjHyjGZc2Amu5VUSzFfyZyaHoS7yXxOZb7MSu6wHysU8" user="真物">这是我刚？</d>
+    <gift ts="351.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541016530" gift-id="685" uid="MS4wLjABAAAArLqCrPJFUzxIu0zstia0smlRGDbIa3zYiCHV3U0uZkY2nkd4WjbE4TO4QnDuE-4M" user="🌈砰砰"/>
+    <d p="351.993,1,25,16777215,1779541016000,0,86585942499,7643070470124025385" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">开始破坏手机</d>
+    <gift ts="352.991" giftname="星光闪耀" giftcount="22" price="9" create-time="1779541017" gift-id="11884" uid="MS4wLjABAAAA-KdmpOgqgdVNInnz1kXuQTSy9fylwysu_J_lk5u8psU" user="dl"/>
+    <d p="352.991,1,25,16777215,1779541017000,0,dyc5i4bjme20,7643070472644759843" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">要被阿珂戳屁股了</d>
+    <gift ts="354.386" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541018397" gift-id="11884" uid="MS4wLjABAAAA2NOkbMspge0VrRnjpigHdSiLFPD7vtlqZAv2zT3rJy8" user="城北"/>
+    <d p="354.988,1,25,16777215,1779541019000,0,51756297496,7643070479394661403" uid="MS4wLjABAAAAgC1noepYXvy2CrHKY-L_9iIYYwC5p2HZFvNIMVSlH3c" user="kieee">？？？？</d>
+    <gift ts="355.159" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541019171" gift-id="11884" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="355.949" giftname="鲜花" giftcount="1" price="10" send-time="1779541019962" gift-id="2006" uid="MS4wLjABAAAAyrLyQV-xKE0-Vw0VKcnfMPPVn7IsBM9EEtV4dCg9qsc" user="他山之石"/>
+    <d p="355.987,1,25,16777215,1779541020000,0,97948090071,7643070481592262921" uid="MS4wLjABAAAAHLXl3ImRpwiwUFVkrlJy1NlyTJaWBvvsGxhR9pDYHkLKOy9Qp-IVkmLKS7AS53S9" user="！！">cos这个感觉胖了</d>
+    <gift ts="355.987" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541018397" gift-id="11884" uid="MS4wLjABAAAA2NOkbMspge0VrRnjpigHdSiLFPD7vtlqZAv2zT3rJy8" user="城北"/>
+    <gift ts="356.522" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541019171" gift-id="11884" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="357.07" giftname="鲜花" giftcount="1" price="10" send-time="1779541019962" gift-id="2006" uid="MS4wLjABAAAAyrLyQV-xKE0-Vw0VKcnfMPPVn7IsBM9EEtV4dCg9qsc" user="他山之石"/>
+    <d p="357.788,1,25,16777215,1779541021000,0,1485739923,7643070486209290515" uid="MS4wLjABAAAAwPd1tSmMuHpleOR1bIzrb7HErGJ7qZV7TORWkh1GJ-8" user="Σ(°Д°;">小乔皮肤？</d>
+    <d p="357.788,1,25,16777215,1779541021000,0,dy7obhtz215c,7643070488537129252" uid="MS4wLjABAAAAHmyZe99A4C61OmxxgdzErbc3wdx999s2vyjcn_lJsbE" user="呃">mua</d>
+    <d p="358.480,1,25,16777215,1779541022000,0,64329998646,7643070499325268031" uid="MS4wLjABAAAAbxFcvl-5dzYiO4cRA7VDy6rmAEvANx2zRcjt9yvuZLxrGhrqCTzwLOlEaUPjKSk8" user="三次元">我刚子呢</d>
+    <gift ts="359.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541024171" gift-id="685" uid="MS4wLjABAAAA1q_ejyVxFTziGOhxQhImuj-BsV1rmmdlO32nrf0OPp1Hd4N-f8YIu_84LtH-DUTi" user="奇尔希Kirsi"/>
+    <gift ts="359.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541025362" gift-id="685" uid="MS4wLjABAAAAz7SZDljXKSVz_I_ozOV7rtr1PpopTCWUASIUp7hhfHk" user="一天之计在于陈"/>
+    <gift ts="360.327" giftname="小心心" giftcount="1" price="1" send-time="1779541025472" gift-id="463" uid="MS4wLjABAAAABMxrV18ZNkMAJze6McAXceaVlNAbojPqZ34jU_6BenA" user="芥川℡"/>
+    <d p="361.983,1,25,16777215,1779541026000,0,dy7obhtz215c,7643070509731149587" uid="MS4wLjABAAAAHmyZe99A4C61OmxxgdzErbc3wdx999s2vyjcn_lJsbE" user="呃">[爱心][爱心][爱心]</d>
+    <gift ts="361.983" giftname="小心心" giftcount="1" price="1" send-time="1779541025472" gift-id="463" uid="MS4wLjABAAAABMxrV18ZNkMAJze6McAXceaVlNAbojPqZ34jU_6BenA" user="芥川℡"/>
+    <d p="363.997,1,25,16777215,1779541027000,0,51756297496,7643070514247928882" uid="MS4wLjABAAAAgC1noepYXvy2CrHKY-L_9iIYYwC5p2HZFvNIMVSlH3c" user="kieee">这是什么皮肤</d>
+    <d p="363.997,1,25,16777215,1779541028000,0,98067808571,7643070519319616052" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">今天晚上梦里的素材有了[看][看]</d>
+    <d p="367.991,1,25,16777215,1779541032000,0,dy7obhtz215c,7643070533281855295" uid="MS4wLjABAAAAHmyZe99A4C61OmxxgdzErbc3wdx999s2vyjcn_lJsbE" user="呃">[爱心][爱心][爱心]</d>
+    <d p="367.991,1,25,16777215,1779541032000,0,mhw199319,7643070536235016730" uid="MS4wLjABAAAAOFs_By10ZDa8kTKZVlx10OZ2cDOAU_QLhxopSB9i6yo" user="MHW">白毛刚</d>
+    <gift ts="369.713" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541033725" gift-id="6937" uid="MS4wLjABAAAASJj7-2N2tVF5o4L3fnuHemfHCuA1u1iWxZVfYmibZVjkY0NTG3skvw3FCjRJMCx-" user="乂氼一万年"/>
+    <gift ts="369.713" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541033725" gift-id="6937" uid="MS4wLjABAAAASJj7-2N2tVF5o4L3fnuHemfHCuA1u1iWxZVfYmibZVjkY0NTG3skvw3FCjRJMCx-" user="乂氼一万年"/>
+    <d p="371.985,1,25,16777215,1779541036000,0,dy7obhtz215c,7643070554127445311" uid="MS4wLjABAAAAHmyZe99A4C61OmxxgdzErbc3wdx999s2vyjcn_lJsbE" user="呃">[爱心][爱心][爱心]</d>
+    <d p="371.985,1,25,16777215,1779541038000,0,yyy87319,7643070561279097370" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="375.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541038745" gift-id="685" uid="MS4wLjABAAAAZw2d4gBkd12k4bSMTwSq-pe0fUYE6YYLx7hafF9GyFwzn3Z0zLqLKcn1mEcRr1ls" user="花间舞"/>
+    <d p="375.983,1,25,16777215,1779541042000,0,76843233661,7643070579423465481" uid="MS4wLjABAAAAT6c1pm4CVj6SqAJnqOnpu-iDD_mhW80Hp9b0yroGLsvNnXUzMs5R4exeje-Hv24i" user="风和日丽每一天(克秒版)">这么可爱不要命了[看]</d>
+    <d p="377.999,1,25,16777215,1779541044000,0,51756297496,7643070586453729582" uid="MS4wLjABAAAAgC1noepYXvy2CrHKY-L_9iIYYwC5p2HZFvNIMVSlH3c" user="kieee">换手机了？</d>
+    <d p="377.999,1,25,16777215,1779541044000,0,dy7obhtz215c,7643070588173836570" uid="MS4wLjABAAAAHmyZe99A4C61OmxxgdzErbc3wdx999s2vyjcn_lJsbE" user="呃">爱了爱了</d>
+    <d p="381.993,1,25,16777215,1779541046000,0,aoligeixiaob52,7643070598830401792" uid="MS4wLjABAAAAZV6U01ymlNClWoHiPCBkp9wMPotknoTiVICx_HGkPSI" user="奥利给小白">头上顶个鸡窝我就不认识你了吗，刚子[看]</d>
+    <d p="381.993,1,25,16777215,1779541047000,0,dy7obhtz215c,7643070600633837858" uid="MS4wLjABAAAAHmyZe99A4C61OmxxgdzErbc3wdx999s2vyjcn_lJsbE" user="呃">[爱心][爱心]</d>
+    <d p="381.993,1,25,16777215,1779541047000,0,dy2uuso1n8ip,7643070600633936162" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">人气票点一点，道友们[比心]</d>
+    <d p="381.993,1,25,16777215,1779541047000,0,38592309535,7643070600635148578" uid="MS4wLjABAAAAo3Qld4cyjDH5JIJqpSeQU_WJnuFd_OUkm1yi9sCzRZ10M5vha-VlEi__OgmesxR3" user="绫濑沙季">撞到粉丝了[捂脸]</d>
+    <gift ts="383.161" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541047878" gift-id="685" uid="MS4wLjABAAAAcgCQ4aEB7ML-QYgRY3JPCFMCCAirADD2ry0OuLCHYoA" user="拾玖🌿"/>
+    <d p="385.987,1,25,16777215,1779541050000,0,dyhy88wwng0k,7643070615545246506" uid="MS4wLjABAAAAAXRHRZVyp0lUbmcbCyK10CyPQ4gtH0GtUZgCagqesmY" user="华南深挖">白毛萝莉</d>
+    <gift ts="385.987" giftname="人气票" giftcount="1" price="1" send-time="1779541052054" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="386.995" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541052816" gift-id="685" uid="MS4wLjABAAAAqFZ5aDAk9HDm7OyJKrAsJ0G_SapT4MYsBwZ3hBXn4_M" user="ㅤㅤㅤ"/>
+    <gift ts="387.572" giftname="人气票" giftcount="2" price="1" send-time="1779541053252" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="389.272" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541054536" gift-id="685" uid="MS4wLjABAAAAFeXvxMNT-Nd_4uj7HFLzVC_0ImEBRDRYRvKbKujQjvwzhcK4gfe7ZWZrNlqkZclH" user="呜呜呜"/>
+    <gift ts="389.386" giftname="人气票" giftcount="3" price="1" send-time="1779541054622" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <d p="389.886,1,25,16777215,1779541055000,0,96400226545,7643070634385214514" uid="MS4wLjABAAAAA-4SWTohsq0QmJUDZXxxCQDsXl9CRmISpoJCoelosMPSGQfaM-spE--eo0Muf4W5" user="Akane">国服小乔</d>
+    <gift ts="389.983" giftname="人气票" giftcount="4" price="1" send-time="1779541055073" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="389.983" giftname="人气票" giftcount="5" price="1" send-time="1779541055638" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="390.694" giftname="人气票" giftcount="9" price="1" send-time="1779541056250" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="391.311" giftname="人气票" giftcount="10" price="1" send-time="1779541056781" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="391.917" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541057303" gift-id="685" uid="MS4wLjABAAAAOtouO7I21njKmFlMR9w8JIbVK1LFVFXIHM6M-N73I3I" user="恒渡"/>
+    <gift ts="391.983" giftname="人气票" giftcount="13" price="1" send-time="1779541057359" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="391.983" giftname="人气票" giftcount="14" price="1" send-time="1779541057889" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="393.998" giftname="入团卡" giftcount="1" price="1" create-time="1779541059253" gift-id="3242" uid="MS4wLjABAAAAcsMpipXjtF7rjVOBIClGnxxe0sVISkZvKMsgh34S5zYLSxYJEAebkXNxlGHhP5P0" user="坤同学"/>
+    <gift ts="393.998" giftname="人气票" giftcount="14" price="1" send-time="1779541057889" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="397.991" giftname="入团卡" giftcount="1" price="1" create-time="1779541062" gift-id="3242" uid="MS4wLjABAAAAcsMpipXjtF7rjVOBIClGnxxe0sVISkZvKMsgh34S5zYLSxYJEAebkXNxlGHhP5P0" user="坤同学"/>
+    <d p="401.985,1,25,16777215,1779541068000,0,cheng126129,7643070690603097902" uid="MS4wLjABAAAAwUceeLGikcte-6ItD0DfVKCEjiLRsRbQ_X4We0TiBDrwt7Y_pwcueBPcQnh5VgBR" user="可口可乐_">像那个[看]</d>
+    <d p="403.630,1,25,16777215,1779541069000,0,53528416445,7643070693424799514" uid="MS4wLjABAAAAbCIhzpESN4hfO4-0hGhP5cE--ATJHJaK4u-H0tiZIU6n9TE0aKGq6WZKkd44hPe3" user="休息令人沉沦">屏幕都要戳破[捂脸][捂脸]</d>
+    <d p="403.630,1,25,16777215,1779541069000,0,86585942499,7643070694838705946" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">换手机了，那旧手机怎么处理</d>
+    <d p="405.275,1,25,16777215,1779541070000,0,yyy87319,7643070696344936219" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">好看呢[比心]</d>
+    <gift ts="405.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541070430" gift-id="685" uid="MS4wLjABAAAABVIU6-kufjnKpni9_r56huu5m9JETwV2UF8lgoS0IyI" user="捡贝壳君"/>
+    <gift ts="405.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541072317" gift-id="685" uid="MS4wLjABAAAAn6ZXdyRnwrP8nx7vr_xBxZAdg9kmNab-2WzrjQMO2cbXxP1fdZmB8V8rhihx5wxs" user="橙汁瞄准"/>
+    <d p="407.999,1,25,16777215,1779541072000,0,352400903,7643070714011477538" uid="MS4wLjABAAAAsJHJtKsMX7su32XcTA7WEqCkEXS55Qs_xBpa-sTBhHA" user="梦开始的地方">国服炸毛吧</d>
+    <gift ts="408.281" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541072286" gift-id="685" uid="MS4wLjABAAAAFHgcvgOy_8fJna0GOrk6WYeFIPx7yJoE2J4fh7KFwLCFIOuJZWdu7neJHawu-Rqp" user="𝙌𝙔"/>
+    <d p="408.988,1,25,16777215,1779541073000,0,43277042815,7643070710714535974" uid="MS4wLjABAAAA-rjZcapSeVMWm55dY3X7e3E2qUDUk06tO7RbuzgQUXk" user="途中">师傅今天又来修手机了</d>
+    <gift ts="409.37" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541073386" gift-id="685" uid="MS4wLjABAAAA9cYVT5se7eNb2l9BcxYH55hJFKYj0lJgnQrgwPtx6cqcH6M69BMkCxtLFBCpdajM" user="超级无敌霸王龙斗腕哈基泽"/>
+    <gift ts="410.105" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541074129" gift-id="685" uid="MS4wLjABAAAAiiCJO_-Yn1r3eWgDKa6quB70dLXVjIvubEQDhMp7Eco" user="夏廿"/>
+    <d p="410.967,1,25,16777215,1779541075000,0,_Wangxiaoxiao,7643070720285170979" uid="MS4wLjABAAAA-zfOUBHxtIhqZluGN8EdUzPKxD7wvkswyupv3WlY7_8IU6ox_i3Ce3MrMs8fIYqk" user="四文娱">ohshit</d>
+    <d p="410.967,1,25,16777215,1779541075000,0,guren111,7643070722648137000" uid="MS4wLjABAAAA-Zt6kzgnQ6PTbES3vRn8i0XbZ8yXSiwANLSn1detQ4qzLCvJWDn-JwqS2ws0_A-I" user="青枫浦">刚子可爱捏[捂脸]</d>
+    <d p="411.956,1,25,16777215,1779541076000,0,31601322675,7643070724961885440" uid="MS4wLjABAAAAB1QHKa-9Ru3XQlvWSLWPpAq0t-CEmj7c4wOHgIDRUlUuhahSoUr5V9cZezImhvGZ" user="梅天尊">刚子,你这</d>
+    <gift ts="411.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541076037" gift-id="685" uid="MS4wLjABAAAAEiD0GYAnVGE8WH6ZMKq5oUxDk7105ZhpfO4HtCNCbhNAwECNRAdAnKXyjnORcP-B" user="💬"/>
+    <gift ts="415.987" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541081106" gift-id="6937" uid="MS4wLjABAAAAy06qVjOVxqiEOF6s2yJ1Fhv5A-ui3r6D9CtY7AQvwbM" user="晗沫"/>
+    <gift ts="415.987" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541081106" gift-id="6937" uid="MS4wLjABAAAAy06qVjOVxqiEOF6s2yJ1Fhv5A-ui3r6D9CtY7AQvwbM" user="晗沫"/>
+    <gift ts="418.71" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541082397" gift-id="685" uid="MS4wLjABAAAAGEzKO1sR-ovoTdIpItjBpR_G4D8qD1G4M2hcPhJMTpo" user="世上岂有神仙哉"/>
+    <d p="419.983,1,25,16777215,1779541083000,0,39283313960,7643070756200436480" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽">你的实力被对面认可了，看来麻烦了</d>
+    <d p="419.983,1,25,16777215,1779541084000,0,hongerye5484,7643070763750586175" uid="MS4wLjABAAAAsA6b4R5Z5lU9bVBAzfLtMorCR1l3O1eFk_ZzLLPt4SPJhBqxPvZ6PYH4WwS3KnQe" user="流萤女士美貌举世无双">这是个什么玩意儿</d>
+    <d p="420.983,1,25,16777215,1779541085000,0,thgame,7643070765181450027" uid="MS4wLjABAAAAj2uqZS5_YJGMZbscSfHzuNTG-_jhFGSpibNn5-pgX3fLLutuf5l-tKcUZWQ7RwQX" user="玩仙剑的天河">今天的造型太阳刚了</d>
+    <gift ts="421.815" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541085832" gift-id="685" uid="MS4wLjABAAAAVrtxqC2QarBJKTs8JDEqoshqJbLlZ0JT3-03LRyRJss" user="知叶"/>
+    <d p="421.983,1,25,16777215,1779541086000,0,856362754,7643070766939404073" uid="MS4wLjABAAAANzrq1nSKV0hhjwBqv4IfAxVERoehgiRmtIsndkenm4A" user="哼">国服啄木鸟</d>
+    <d p="421.983,1,25,16777215,1779541088000,0,gegehaoyonga,7643070773326946862" uid="MS4wLjABAAAAfnUuK_sbQRRjZ8BVUMzYtA2xX4sG_FCWWy86QrGsIEF_OX-TSszKHsKSQjVrrRPY" user="灰羽">怎么那么抽象今天这造型</d>
+    <gift ts="423.998" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541090451" gift-id="685" uid="MS4wLjABAAAAy06qVjOVxqiEOF6s2yJ1Fhv5A-ui3r6D9CtY7AQvwbM" user="晗沫"/>
+    <d p="427.992,1,25,16777215,1779541091000,0,li428480240,7643070784479982351" uid="MS4wLjABAAAAgdKlfRTvP_9inVlCvUZ1TRdPL831F-ZoisSwFrSP6AA" user="与女朋友同居却发现她有瑕疵，多了两个蛋">小鸡啄屏幕</d>
+    <d p="427.992,1,25,16777215,1779541093000,0,86585942499,7643070797888998436" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">依旧吃草回血</d>
+    <d p="429.323,1,25,16777215,1779541094000,0,81088953463,7643070805954799914" uid="MS4wLjABAAAAcDXKAGQnCvZFEM-UeiWTzFUNcY1LLm-tuvjll0Mtmi4rkF8y02JpQU1eyrpvvWqg" user="－jiang">刚子太坏了</d>
+    <d p="431.985,1,25,16777215,1779541096000,0,1790082798,7643070809603765545" uid="MS4wLjABAAAAjHyjGZc2Amu5VUSzFfyZyaHoS7yXxOZb7MSu6wHysU8" user="真物">这是我刚子直播间吗？</d>
+    <d p="431.985,1,25,16777215,1779541097000,0,40772170501,7643070811918175494" uid="MS4wLjABAAAA046xQb80U0bzYhc5ecmQ2aGmFv9xHvOrgPUvZE_BixiHC0M2TuqABYuqXpGWjRYW" user="用户6936518453336">你完蛋了，打野记住你了</d>
+    <gift ts="435.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541099599" gift-id="685" uid="MS4wLjABAAAAcBk8WHSJ7-LbkuwfH7QRhCkGyhOUk0qrhPUu_2uPUvo7nP9D-vU0Sd75vDpEKuoj" user="新世界"/>
+    <d p="435.983,1,25,16777215,1779541102000,0,citruslllliii,7643070835741891891" uid="MS4wLjABAAAAItjDSh6I-OsaCnGSLoAlu_YybDpIvliI-hveaOjKnR-SnlyAMY1atQpWNvh99Plh" user="小夜">还有点位，666</d>
+    <gift ts="437.999" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541103972" gift-id="685" uid="MS4wLjABAAAA4VUXeBTpEgZ2nZ-HryQ3NxJxCDtDEZSEfHIQl6pRBBNX3md1-BmHukzDvTybkHwF" user="ᝰꫀ泷ડ꧖ꦿ"/>
+    <gift ts="441.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541107334" gift-id="685" uid="MS4wLjABAAAAcsMpipXjtF7rjVOBIClGnxxe0sVISkZvKMsgh34S5zYLSxYJEAebkXNxlGHhP5P0" user="坤同学"/>
+    <gift ts="441.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541109111" gift-id="685" uid="MS4wLjABAAAANABkAPjCOcHz4eqh21lSwe8ivdL8aLl3Sff4hhtFkz0" user="年休"/>
+    <d p="445.987,1,25,16777215,1779541110000,0,96533241833,7643070876786743059" uid="MS4wLjABAAAAcs0S90IkBsv9_lS99isizIW4p6eOZAb2sdjNf-T7-GVY7Lq2k3CO50Tq-PAH6dHR" user="风栖愁">这是刚子？！</d>
+    <d p="447.319,1,25,16777215,1779541111000,0,81088953463,7643070874924521259" uid="MS4wLjABAAAAcDXKAGQnCvZFEM-UeiWTzFUNcY1LLm-tuvjll0Mtmi4rkF8y02JpQU1eyrpvvWqg" user="－jiang">刚子说话</d>
+    <gift ts="448.122" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541111603" gift-id="685" uid="MS4wLjABAAAAwPd1tSmMuHpleOR1bIzrb7HErGJ7qZV7TORWkh1GJ-8" user="Σ(°Д°;"/>
+    <d p="448.651,1,25,16777215,1779541112000,0,98067808571,7643070878833628934" uid="MS4wLjABAAAAYLAS3yNGteze7MPF4dqSvplPd9zbSn4R5n9kfl_dqPibtSW0PuLkjiPPqXnUHCOA" user="九月一">[打call][打call][打call]</d>
+    <d p="449.983,1,25,16777215,1779541113000,0,guren111,7643070882546669102" uid="MS4wLjABAAAA-Zt6kzgnQ6PTbES3vRn8i0XbZ8yXSiwANLSn1detQ4qzLCvJWDn-JwqS2ws0_A-I" user="青枫浦">刚子小表情一套一套的[捂脸]</d>
+    <d p="449.983,1,25,16777215,1779541113000,0,57096963639,7643070885926065702" uid="MS4wLjABAAAAYvAxb6Cs1vQZb063Rquu80F7duM56EZR-xVhFZKCuBWAi-77WRugTJKbBHGA9x7O" user="橘络">刚子，不怕挨揍啊[捂脸]</d>
+    <gift ts="449.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541116274" gift-id="685" uid="MS4wLjABAAAAoN-6_jjFdJ-cIbiYkvydK4yaMdkk5RX9GzTGSvZBjEaDwqf5Fl7Gd1wAiIr0KNWC" user="优信"/>
+    <gift ts="450.66" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541116520" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="451.983" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541117000" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="451.983" giftname="星光闪耀" giftcount="2" price="9" send-time="1779541117694" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="452.675" giftname="星光闪耀" giftcount="3" price="9" send-time="1779541118209" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="453.336" giftname="星光闪耀" giftcount="4" price="9" send-time="1779541118700" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="453.998" giftname="星光闪耀" giftcount="10" price="9" send-time="1779541119192" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="453.998" giftname="星光闪耀" giftcount="10" price="9" send-time="1779541119192" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="457.992" giftname="闪烁星河" giftcount="1" price="1" send-time="1779541121383" gift-id="685" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="457.992" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541124041" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="461.07" giftname="星光闪耀" giftcount="2" price="9" send-time="1779541125866" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="461.986" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541126409" gift-id="685" uid="MS4wLjABAAAAeZRKpweBgg-Vx1GrlzupGdZBlrPbdI6P5MsQJ-dvxbk" user="Terror"/>
+    <gift ts="461.986" giftname="星光闪耀" giftcount="2" price="9" send-time="1779541125866" gift-id="11884" uid="MS4wLjABAAAAQuCMhg3ak_-OzzYChBVB_Emahre9NojjDJW9u3Vw6fOV3jcxJ23FYcIh0Q8Tw1Ji" user="有音时"/>
+    <gift ts="464.794" giftname="鲜花" giftcount="1" price="10" send-time="1779541128625" gift-id="2006" uid="MS4wLjABAAAAqREqmk2UctLffHFScS2ATZvE552N6PBwhT_G49dUUoA" user="灰太狼大王"/>
+    <gift ts="465.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541129792" gift-id="6937" uid="MS4wLjABAAAA05VXyerpzuAL7Xk_FkT1dkKh_y1zc4aBqVhFc54nYvI" user="顾白"/>
+    <gift ts="465.983" giftname="鲜花" giftcount="1" price="10" send-time="1779541128625" gift-id="2006" uid="MS4wLjABAAAAqREqmk2UctLffHFScS2ATZvE552N6PBwhT_G49dUUoA" user="灰太狼大王"/>
+    <gift ts="466.464" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541129792" gift-id="6937" uid="MS4wLjABAAAA05VXyerpzuAL7Xk_FkT1dkKh_y1zc4aBqVhFc54nYvI" user="顾白"/>
+    <d p="466.549,1,25,16777215,1779541130000,0,dy0c9n8bmqvr,7643070963613191467" uid="MS4wLjABAAAAhGjunWh0EpWfiiZMvjNZJaznqWshfY4jSbJfqWysOyq_7qo-_93MyR6MMfrpxog-" user="天霸动霸你最大">刚子</d>
+    <gift ts="467.311" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541131848" gift-id="685" uid="MS4wLjABAAAA05VXyerpzuAL7Xk_FkT1dkKh_y1zc4aBqVhFc54nYvI" user="顾白"/>
+    <d p="467.374,1,25,16777215,1779541132000,0,40772170501,7643070965856898358" uid="MS4wLjABAAAA046xQb80U0bzYhc5ecmQ2aGmFv9xHvOrgPUvZE_BixiHC0M2TuqABYuqXpGWjRYW" user="用户6936518453336">你搁这儿发电报呢</d>
+    <d p="467.374,1,25,16777215,1779541132000,0,suhenyi79273,7643070965856963894" uid="MS4wLjABAAAA8cZgcJLKJnypqddPZuuufNcHgB9WN_xsjO1HBUPmDHmsZhI4GQJPbB7Un7IKGZQr" user="夙痕逸">看成季雨了[捂脸][捂脸][捂脸]</d>
+    <d p="467.374,1,25,16777215,1779541132000,0,dyc5i4bjme20,7643070965857127734" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">打完一局，手机屏幕大残</d>
+    <gift ts="468" giftname="粉丝团灯牌" giftcount="1" price="1" create-time="1779541133518" gift-id="685" uid="MS4wLjABAAAAC4FFu9LU0YEJoeWybowsc5cKeBXJ4M_LVs2gsPakt3Ap8fDC2QPt-AzpaaNJ3Uzh" user="初晴的寒冬"/>
+    <d p="471.993,1,25,16777215,1779541138000,0,86585942499,7643070987073086761" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">今天设备低了点，开糊了</d>
+    <gift ts="475.987" giftname="鲜花" giftcount="1" price="10" send-time="1779541139194" gift-id="2006" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="475.987" giftname="鲜花" giftcount="1" price="10" send-time="1779541139194" gift-id="2006" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <d p="479.028,1,25,16777215,1779541142000,0,47583824282,7643071008844419626" uid="MS4wLjABAAAA8EZHYLwe3V_1Rf2PQcSWhZ4WfztoDlco-Mvt-A45fPc" user="lemon 🍋">刚子</d>
+    <gift ts="479.482" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541142419" gift-id="685" uid="MS4wLjABAAAAP45VM09vAQzf7LCNeRWBkn9BUNIeyr6vfuXDVLtTCzM" user="后来OAQ"/>
+    <gift ts="479.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541142881" gift-id="685" uid="MS4wLjABAAAAVvBoxfQsR8R-NVCqY-rmCIAQbCmEvO7Iqg8MxgnG7Ik" user="抚风"/>
+    <gift ts="483.998" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541150186" gift-id="685" uid="MS4wLjABAAAAPwgoqg7Ur0LsDbtMtjbw1urPn7NuE4-lfe-gm8UKnLU" user="Biu 🫥"/>
+    <gift ts="484.837" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541150551" gift-id="11884" uid="MS4wLjABAAAAG_Xe-_M4KVcibeBPJYzt6mjIbntFsTh4qh_SeRRte94" user="清砚"/>
+    <gift ts="484.883" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541150571" gift-id="685" uid="MS4wLjABAAAA8EZHYLwe3V_1Rf2PQcSWhZ4WfztoDlco-Mvt-A45fPc" user="lemon 🍋"/>
+    <d p="485.870,1,25,16777215,1779541151000,0,86585942499,7643071043997330742" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">打完一局手机大残</d>
+    <d p="485.870,1,25,16777215,1779541151000,0,69161300508,7643071048828837129" uid="MS4wLjABAAAAUzfQ5Q0JvV8EyFPEM6cA52WgAg2maqCVzSBldsXgbTCMruO_A6smCxt97-YgEe_Q" user="十七岁一字律">一会戳烂了</d>
+    <gift ts="487.992" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541151922" gift-id="685" uid="MS4wLjABAAAAmv1jPMEgKq2Chp7g_VQWtsJX5JZO68N9KtpsTAxN4g0" user="长天夜"/>
+    <gift ts="487.992" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541150551" gift-id="11884" uid="MS4wLjABAAAAG_Xe-_M4KVcibeBPJYzt6mjIbntFsTh4qh_SeRRte94" user="清砚"/>
+    <d p="490.827,1,25,16777215,1779541153000,0,wqe33,7643071053552913946" uid="MS4wLjABAAAAcsR9zGk6QjsRsxrx94gX77XXor7_WrkKe6rRFIrHzn0" user="猫猫渔">屏幕碎了[捂脸]</d>
+    <d p="491.986,1,25,16777215,1779541154000,0,dy2uuso1n8ip,7643071058631932195" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">道友们点点关注不迷路[比心]</d>
+    <d p="491.986,1,25,16777215,1779541156000,0,804201486,7643071071030669583" uid="MS4wLjABAAAA_dsuFofmSFoy_bQwlXENFue-T9siLwbuhIvMv0xwNTk" user="三千花落。">我去？</d>
+    <d p="493.984,1,25,16777215,1779541157000,0,51194774650,7643071072997536052" uid="MS4wLjABAAAA3BkmhV9o0MPoC0WH_X2hRCrkvKTTKx4SFLYjgQq0B2xErg0SthjB8EadhtOhDtnn" user="晚风渡行舟">把屏幕按碎了吧</d>
+    <d p="495.983,1,25,16777215,1779541158000,0,804093359.,7643071074792861992" uid="MS4wLjABAAAACHQOzVWQefTozXQjYBAD4_al-24dmaE4iHaP8YEqryf_8StNerWxl9gJDqBGSS5j" user="🌈大名">刚子轻点，手机扛不住了</d>
+    <gift ts="495.983" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541161715" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="496.654" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541162208" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="497.38" giftname="星光闪耀" giftcount="2" price="9" send-time="1779541162741" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="498" giftname="星光闪耀" giftcount="3" price="9" send-time="1779541163196" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <d p="498.000,1,25,16777215,1779541163000,0,47583824282,7643071097731310634" uid="MS4wLjABAAAA8EZHYLwe3V_1Rf2PQcSWhZ4WfztoDlco-Mvt-A45fPc" user="lemon 🍋">说话啊，刚子</d>
+    <gift ts="499.273" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541163233" gift-id="685" uid="MS4wLjABAAAAWse-ht-3PpIQIo3iZtMC7936CqBGxUw7wlO6qevo-bU" user="咕咕不知明日事"/>
+    <gift ts="501.994" giftname="星光闪耀" giftcount="10" price="9" send-time="1779541163731" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="501.994" giftname="星光闪耀" giftcount="10" price="9" send-time="1779541163731" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="505.987" giftname="人气票" giftcount="1" price="1" send-time="1779541174205" gift-id="3992" uid="MS4wLjABAAAARi1T_wgdFhnBHu_jUvO5El0xNDiigyp7kH5cfWKfI742Q-baZKncfsNphtPEI4Jk" user="城上斜阳秋风寂"/>
+    <gift ts="509.983" giftname="鲜花" giftcount="1" price="10" create-time="1779541176714" gift-id="2006" uid="MS4wLjABAAAA2NOkbMspge0VrRnjpigHdSiLFPD7vtlqZAv2zT3rJy8" user="城北"/>
+    <gift ts="511.983" giftname="人气票" giftcount="1" price="1" send-time="1779541174205" gift-id="3992" uid="MS4wLjABAAAARi1T_wgdFhnBHu_jUvO5El0xNDiigyp7kH5cfWKfI742Q-baZKncfsNphtPEI4Jk" user="城上斜阳秋风寂"/>
+    <gift ts="513.998" giftname="点点星光" giftcount="1" price="1" send-time="1779541178953" gift-id="685" uid="MS4wLjABAAAARi1T_wgdFhnBHu_jUvO5El0xNDiigyp7kH5cfWKfI742Q-baZKncfsNphtPEI4Jk" user="城上斜阳秋风寂"/>
+    <gift ts="513.998" giftname="鲜花" giftcount="1" price="10" create-time="1779541179" gift-id="2006" uid="MS4wLjABAAAA2NOkbMspge0VrRnjpigHdSiLFPD7vtlqZAv2zT3rJy8" user="城北"/>
+    <d p="513.998,1,25,16777215,1779541179000,0,86585942499,7643071166127923519" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">门主杀气已经泄露</d>
+    <d p="513.998,1,25,16777215,1779541179000,0,77702475035,7643071168019456319" uid="MS4wLjABAAAAWevI0amu3LlALiUqQ5XPiff61DV7tdgf00ZMBI0mT_BW7fwRbHAHVrQWyY9GSlBH" user="啊这">哟哟哟，这谁</d>
+    <gift ts="517.991" giftname="鲜花" giftcount="1" price="10" create-time="1779541186088" gift-id="2006" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白"/>
+    <gift ts="521.986" giftname="鲜花" giftcount="1" price="10" create-time="1779541188" gift-id="2006" uid="MS4wLjABAAAAFVIRy9aLlaRHEcbJEeNM1RrXAMJlYf_QPFP9NOhmXqY" user="榆白"/>
+    <gift ts="525.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541188473" gift-id="6937" uid="MS4wLjABAAAAf96yjQPQ2_rN-eSL-asZdxkAEPPsu3klKgWSSwTqjWs" user="漆黑烈焰使"/>
+    <gift ts="525.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541188473" gift-id="6937" uid="MS4wLjABAAAAf96yjQPQ2_rN-eSL-asZdxkAEPPsu3klKgWSSwTqjWs" user="漆黑烈焰使"/>
+    <gift ts="527.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541192905" gift-id="685" uid="MS4wLjABAAAAf96yjQPQ2_rN-eSL-asZdxkAEPPsu3klKgWSSwTqjWs" user="漆黑烈焰使"/>
+    <gift ts="527.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541194117" gift-id="6937" uid="MS4wLjABAAAAajlms2TpWrNHQy-Cq4RYpuuZzEzSswYhnfsmUtO-yq8" user="裂开"/>
+    <gift ts="529.997" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541194117" gift-id="6937" uid="MS4wLjABAAAAajlms2TpWrNHQy-Cq4RYpuuZzEzSswYhnfsmUtO-yq8" user="裂开"/>
+    <d p="533.991,1,25,4294967295,1779541196000,0,51403436215,7643071239196665378" uid="MS4wLjABAAAA_p5m15vPEmXxa4KD0o1_wKqED9dsfx9YoZej4CRFd2dwTfOQfns2SFHwnK6GvdpQ" user="1234567">你是谁？你把刚子怎么了[流泪][听歌][流泪][听歌][流泪][听歌][流泪][听歌]</d>
+    <gift ts="533.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541200182" gift-id="685" uid="MS4wLjABAAAAEeAX1SjJDfU2Eq2RwiEblrR6oIQeR1agNxohJtxhwf8" user="九林"/>
+    <gift ts="537.985" giftname="人气票" giftcount="1" price="1" send-time="1779541205068" gift-id="3992" uid="MS4wLjABAAAAMgqarN-6RxsM7OIXg4H2BEwdXBhK1N8oAuAB2F1aiaM" user="龙"/>
+    <gift ts="541.983" giftname="人气票" giftcount="1" price="1" send-time="1779541205068" gift-id="3992" uid="MS4wLjABAAAAMgqarN-6RxsM7OIXg4H2BEwdXBhK1N8oAuAB2F1aiaM" user="龙"/>
+    <gift ts="543.999" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541213239" gift-id="685" uid="MS4wLjABAAAAMWfNmgt8omfj8Px7ZJvig9H21b-tNLFuQZwblDXoYPEB5mQM_gqcntdK7Y33b6kP" user="你总轻言释怀"/>
+    <gift ts="547.992" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541213426" gift-id="11884" uid="MS4wLjABAAAARi1T_wgdFhnBHu_jUvO5El0xNDiigyp7kH5cfWKfI742Q-baZKncfsNphtPEI4Jk" user="城上斜阳秋风寂"/>
+    <gift ts="547.992" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541213426" gift-id="11884" uid="MS4wLjABAAAARi1T_wgdFhnBHu_jUvO5El0xNDiigyp7kH5cfWKfI742Q-baZKncfsNphtPEI4Jk" user="城上斜阳秋风寂"/>
+    <d p="551.986,1,25,16777215,1779541215000,0,924902465,7643071322927377446" uid="MS4wLjABAAAAtTignu7KmS-RK8iNqolj9n5noQYbtNVZzcEOZmRiOpc" user="N🇨🇳">哒哒哒哒哒哒哒</d>
+    <d p="551.986,1,25,16777215,1779541215000,0,380545576,7643071326139247666" uid="MS4wLjABAAAAyoslxf1UgtOQOTM-FxMG55AsC_IxIDc3977zK3JGSj0" user="～晚风～">?</d>
+    <d p="551.986,1,25,16777215,1779541219000,0,57382791653,7643071342464997130" uid="MS4wLjABAAAAF_iE9uudSi7dCOgQyjR03maSgzJw79jMB7rdTCxdchoTZF3W1ttMhEui2hzO5XCC" user="辣椒，">刚子跑哪里去了</d>
+    <d p="555.983,1,25,16777215,1779541222000,0,24454694612,7643071349846839587" uid="MS4wLjABAAAAegSDDk15uPS3yHFmavNuNL2YD0tignaA7tynayjTJL6Qn676o-eJ_Rfcgu8ODc8y" user="有恃无恐">你这个头发笑死了[捂脸]</d>
+    <gift ts="557.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541223936" gift-id="685" uid="MS4wLjABAAAAN4WW_M8LqjqjBVNGAn5EGhApD5w1VeDxggo6SqtS4cw" user="云霄阿添"/>
+    <d p="559.997,1,25,16777215,1779541225000,0,dy066z7uja2e,7643071362199190066" uid="MS4wLjABAAAAM6WwNNNq6qOyLi9eSTUKTsT6dgYW7ivGc9d9MTm5pzJMXtL3iSNGmY-nzePgDwtJ" user="七辰.">能不能组队玩啊</d>
+    <d p="559.997,1,25,16777215,1779541225000,0,52691699111,7643071365448743475" uid="MS4wLjABAAAARxV5OT4cue-rcPHyj_5Ss1aHyZ3olslrEnDjhNzRWCnkbWuDNdwI0D42utTW-YJt" user="小悦儿">今天这穿的这么卡哇伊</d>
+    <d p="561.994,1,25,16777215,1779541226000,0,lrd050717,7643071371731618870" uid="MS4wLjABAAAAB7Z-6X6V3JnEfqIWxsteL471lKPSxSJ1LkRxw9ppQJyNaBStQUgnEapH0GRJjvds" user="调戏性感母蟑螂被其配偶打致重伤">刚子，屏幕要爆了</d>
+    <d p="563.991,1,25,16777215,1779541227000,0,86585942499,7643071371731717174" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">哒哒哒哒</d>
+    <d p="563.991,1,25,16777215,1779541229000,0,779220517,7643071380544250131" uid="MS4wLjABAAAA3-B2qDljRmsNyDSN0tpKOpQ4RztL7lXWcPtyLvAeZHo" user="驱鞑除虏">粗壮的手指就是这么有力[看]</d>
+    <gift ts="564.971" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541229491" gift-id="685" uid="MS4wLjABAAAA1UgVBsOppgnYbVNUccIXrRjdiAfDJQC6ATceZXCqr1o" user="葱花"/>
+    <gift ts="566.834" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541230424" gift-id="685" uid="MS4wLjABAAAAbbZRSYf8o5IWanFw_LPr3ACBzah6s7BMWbHBwgZLPsM" user="梅雨季"/>
+    <d p="567.985,1,25,16777215,1779541231000,0,924902465,7643071390690645513" uid="MS4wLjABAAAAtTignu7KmS-RK8iNqolj9n5noQYbtNVZzcEOZmRiOpc" user="N🇨🇳">哒哒哒哒哒哒哒哒哒</d>
+    <d p="567.985,1,25,16777215,1779541231000,0,96400226545,7643071392217847342" uid="MS4wLjABAAAAA-4SWTohsq0QmJUDZXxxCQDsXl9CRmISpoJCoelosMPSGQfaM-spE--eo0Muf4W5" user="Akane">发电报呢</d>
+    <d p="567.985,1,25,16777215,1779541234000,0,Etc694950,7643071403863867188" uid="MS4wLjABAAAAf95Ur_stODUKRafUjk-1FRKQwmgRb1PaQlv11dB0vu8" user="豆">牛逼</d>
+    <d p="567.985,1,25,16777215,1779541234000,0,850302715,7643071406243239726" uid="MS4wLjABAAAAMgJH138b4OXxLCiWMM8FHuCkcXSRa2MNOjx-vYjWQT0" user="渔樱">窝趣？</d>
+    <d p="571.982,1,25,4294967295,1779541235000,0,dy2uuso1n8ip,7643071411321429257" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">@N🇨🇳 依旧电报机[看]</d>
+    <gift ts="571.983" giftname="闪烁星河" giftcount="1" price="1" send-time="1779541237725" gift-id="685" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <d p="573.999,1,25,16777215,1779541238000,0,hakahakabaka,7643071416536032271" uid="MS4wLjABAAAA7ulolx1vEXs6eEepxaqkCSbaxe0BQglrCRACVBu5jNM" user="醉梦">666666</d>
+    <d p="573.999,1,25,16777215,1779541240000,0,citruslllliii,7643071428775237427" uid="MS4wLjABAAAAItjDSh6I-OsaCnGSLoAlu_YybDpIvliI-hveaOjKnR-SnlyAMY1atQpWNvh99Plh" user="小夜">厉害啊</d>
+    <d p="573.999,1,25,16777215,1779541240000,0,dyeqdk0bysdt,7643071432351848219" uid="MS4wLjABAAAAc8Z1CtKug4GaFSOOfxg6rAuriGYaDqo7SmC25_b4C-0" user="无敌小米辣">不是你真会啊</d>
+    <d p="577.993,1,25,16777215,1779541241000,0,dyc5i4bjme20,7643071433774493474" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">闪现抢人头</d>
+    <gift ts="577.993" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541243845" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <d p="578.210,1,25,16777215,1779541244000,0,86585942499,7643071448001427241" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">发电部呢</d>
+    <gift ts="579.052" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541244600" gift-id="685" uid="MS4wLjABAAAAfGhlOHkMHufS2BpJUfF26dgvaOq-1adtlYvwLjYP-5B2s0QJ2PSG8ZklNWdzGp0g" user="飞鸟反"/>
+    <d p="579.613,1,25,16777215,1779541245000,0,mamahahaalig,7643071452157225256" uid="MS4wLjABAAAAPTXgUzNmhennKw6SM0DJ5Ll9GcFvrIpHK9j84FxFhMo" user="玛玛哈哈阿里嘎多">刚子</d>
+    <d p="579.613,1,25,16777215,1779541245000,0,31882219743,7643071452157356328" uid="MS4wLjABAAAAgRyGfh_inhYoXRhy0x9HtFaQ3TcZw9QiwRZjD9xrza8" user="枫    .">依旧机关枪</d>
+    <d p="579.613,1,25,16777215,1779541245000,0,ssqsmys,7643071457627986186" uid="MS4wLjABAAAANt_vxeJJV8UbcaCDCPvN2mObPKeDh5u5M2eKBnTgkeo" user="十三氢三.">邪恶刚子</d>
+    <gift ts="580.425" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541245579" gift-id="685" uid="MS4wLjABAAAAJOZB0WXY0R08QBCORYmTC2Tq9LY6qssmJvQglRzEL5pWzT5CL4wnv9A9GgAr9e7H" user="听风吟"/>
+    <gift ts="581.776" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541246542" gift-id="6937" uid="MS4wLjABAAAA-1-NZlUq3E5Ui1t-YFttXP1Ij1lKEuZRH4nJD3PFglKr4FbgvoNx4uUHvuQmvKC7" user="诗寻"/>
+    <gift ts="581.985" giftname="星光闪耀" giftcount="2" price="9" send-time="1779541246691" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <gift ts="581.986" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541246542" gift-id="6937" uid="MS4wLjABAAAA-1-NZlUq3E5Ui1t-YFttXP1Ij1lKEuZRH4nJD3PFglKr4FbgvoNx4uUHvuQmvKC7" user="诗寻"/>
+    <gift ts="582.158" giftname="星光闪耀" giftcount="2" price="9" send-time="1779541246691" gift-id="11884" uid="MS4wLjABAAAA9YItooFBlrPEAeGif0J7U_nq9up0TJ1xgtmAZA_7YV4" user="段竟成"/>
+    <d p="582.515,1,25,16777215,1779541247000,0,804093359.,7643071460257798410" uid="MS4wLjABAAAACHQOzVWQefTozXQjYBAD4_al-24dmaE4iHaP8YEqryf_8StNerWxl9gJDqBGSS5j" user="🌈大名">嘴都歪了</d>
+    <d p="582.515,1,25,16777215,1779541247000,0,30148089811,7643071461371959562" uid="MS4wLjABAAAA2FOoS3X7JM4t3R-yfiocY7vznhjm0Q1NCUIrwzkgQu4" user="取">有我一半实力</d>
+    <d p="583.671,1,25,16777215,1779541248000,0,wqe33,7643071462492597258" uid="MS4wLjABAAAAcsR9zGk6QjsRsxrx94gX77XXor7_WrkKe6rRFIrHzn0" user="猫猫渔">666[捂脸]</d>
+    <d p="583.671,1,25,16777215,1779541248000,0,1647473720,7643071463910976562" uid="MS4wLjABAAAAY3-oDN_Gkugc9PRxrITJiTuQxXoVldzAQ_kNRQvZ0VI" user="我想吃刀削面">猫的</d>
+    <d p="583.671,1,25,16777215,1779541248000,0,mugu44003,7643071465591417883" uid="MS4wLjABAAAA9-abwOEjiBcktO1f1ZSkTTN4DopQmA1K8mljaBLtis4" user="暮鼓">咋不是万年妲己</d>
+    <d p="585.983,1,25,16777215,1779541250000,0,850302715,7643071470365710106" uid="MS4wLjABAAAAMgJH138b4OXxLCiWMM8FHuCkcXSRa2MNOjx-vYjWQT0" user="渔樱">你真会啊</d>
+    <d p="585.983,1,25,16777215,1779541251000,0,924902465,7643071476534761006" uid="MS4wLjABAAAAtTignu7KmS-RK8iNqolj9n5noQYbtNVZzcEOZmRiOpc" user="N🇨🇳">哒哒哒哒哒哒哒哒哒</d>
+    <d p="585.983,1,25,16777215,1779541251000,0,jiqinvshengs,7643071478003029530" uid="MS4wLjABAAAAJOZB0WXY0R08QBCORYmTC2Tq9LY6qssmJvQglRzEL5pWzT5CL4wnv9A9GgAr9e7H" user="听风吟">？？？？</d>
+    <gift ts="587.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541252521" gift-id="685" uid="MS4wLjABAAAA-1-NZlUq3E5Ui1t-YFttXP1Ij1lKEuZRH4nJD3PFglKr4FbgvoNx4uUHvuQmvKC7" user="诗寻"/>
+    <d p="587.983,1,25,16777215,1779541254000,0,yyy87319,7643071488400135987" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="587.983,1,25,16777215,1779541254000,0,86585942499,7643071490074023690" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">电报机</d>
+    <d p="589.997,1,25,16777215,1779541255000,0,924902465,7643071493409433134" uid="MS4wLjABAAAAtTignu7KmS-RK8iNqolj9n5noQYbtNVZzcEOZmRiOpc" user="N🇨🇳">哒哒哒哒哒哒哒哒哒</d>
+    <d p="593.991,1,25,16777215,1779541258000,0,68871810467,7643071513272656435" uid="MS4wLjABAAAAUUZBV0iugtOqSzSAJx89UP_AhXZ1KIfzCVEf9_J6dSpSrNPFcPp-CfkwidDIXqQs" user="揽月🌈（xxy有种媚感）">刚子嚣张的嘴脸</d>
+    <d p="597.985,1,25,16777215,1779541261000,0,924902465,7643071518495371302" uid="MS4wLjABAAAAtTignu7KmS-RK8iNqolj9n5noQYbtNVZzcEOZmRiOpc" user="N🇨🇳">哒哒哒哒哒哒哒哒哒</d>
+    <d p="597.985,1,25,16777215,1779541261000,0,jiqinvshengs,7643071521862414346" uid="MS4wLjABAAAAJOZB0WXY0R08QBCORYmTC2Tq9LY6qssmJvQglRzEL5pWzT5CL4wnv9A9GgAr9e7H" user="听风吟">哒哒哒哒哒哒哒哒哒哒哒哒哒哒哒哒哒哒</d>
+    <d p="597.985,1,25,16777215,1779541264000,0,41422497881,7643071529908214026" uid="MS4wLjABAAAAoDuUSZiOBQgOj2omE1QcsUu72gKM6PB6peOnEr-3mn0kEddMk7g0YYChXITPmrHB" user="心碎気火">换节目了？</d>
+    <d p="597.985,1,25,16777215,1779541264000,0,dy36k7puswxf,7643071533069392154" uid="MS4wLjABAAAAA095-i9xexg7imIrCK5et70aGVGpkgWDMwbfr9vE7uGT_WWS44KiuyXhlHCg0bem" user="用户37285013109526">刚子你是在玩游戏还是在发脾气</d>
+    <d p="597.985,1,25,16777215,1779541264000,0,31484043224,7643071534647056690" uid="MS4wLjABAAAAiF9ziLCwlxUCFJ3XEPzjNQB4TbfqmqsOMS8vEuwGOSXd8WIUgNjQWldBP6CtUA8r" user="qian">啥东西啊这么响[看]</d>
+    <d p="601.983,1,25,16777215,1779541266000,0,74994015693,7643071541276646144" uid="MS4wLjABAAAADAaeyD-YJ78x6x9-KaTNPKS4fLwz-gsjCjEWHXBOGcY7odcc2a7mO25t_bRLSO_g" user="Future">你歪嘴歪，你雷霆呢</d>
+    <d p="603.999,1,25,16777215,1779541267000,0,dyci0p97pu14,7643071547058237986" uid="MS4wLjABAAAAn8dNeTLsyEw_pDnUgK23dOne9rRCXiqMDNEiACFsaHFqx80RSN2vTrSWyk8Zg9mt" user="曹髦">刚子还打上王者了</d>
+    <gift ts="603.999" giftname="人气票" giftcount="1" price="1" send-time="1779541270371" gift-id="3992" uid="MS4wLjABAAAAzZqwIDyum8bNu_pF6uqrO9Iyeour5Rc017dw1DC3D06z5eSjhDcK01eSoGS6OP4N" user="轮回"/>
+    <gift ts="607.993" giftname="人气票" giftcount="1" price="1" send-time="1779541270371" gift-id="3992" uid="MS4wLjABAAAAzZqwIDyum8bNu_pF6uqrO9Iyeour5Rc017dw1DC3D06z5eSjhDcK01eSoGS6OP4N" user="轮回"/>
+    <d p="610.059,1,25,16777215,1779541274000,0,i353536,7643071575671989286" uid="MS4wLjABAAAAgwDWMW84Asx5EzUbbepsGmYuuMPqHqxcvDnPdnro2ME" user="⛈">直播间哪里的啄木鸟</d>
+    <d p="610.628,1,25,16777215,1779541275000,0,87344005730,7643071577895333161" uid="MS4wLjABAAAAfw1rUzgsJnpEs7KC3l00teCEvVHHdd_pw2qjE_0-_ozv43fpIUm3Y2wAhqkn-pEJ" user="旋律1">这是哪个角色？</d>
+    <gift ts="610.665" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541275065" gift-id="6937" uid="MS4wLjABAAAAEt9L9TTOpNxnc4bU9fxTY9SeVrFmRv-yBgTYvxjBf0w" user="长夜永恒"/>
+    <gift ts="611.986" giftname="人气票" giftcount="10" price="1" create-time="1779541277385" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <gift ts="611.987" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541275065" gift-id="6937" uid="MS4wLjABAAAAEt9L9TTOpNxnc4bU9fxTY9SeVrFmRv-yBgTYvxjBf0w" user="长夜永恒"/>
+    <d p="613.553,1,25,16777215,1779541277000,0,2666668888m,7643071589358446898" uid="MS4wLjABAAAA8cK6jdoT3WV-pX0Rg2O-DZm8RTuB1OZ9WFAqvEdSkPYTUlh1mPoCCJtfcMoo6W-5" user="宝贝                🪳">主播慢点别给手机戳烂了</d>
+    <d p="613.553,1,25,16777215,1779541277000,0,biiiiiiiiu,7643071592314038538" uid="MS4wLjABAAAAPwgoqg7Ur0LsDbtMtjbw1urPn7NuE4-lfe-gm8UKnLU" user="Biu 🫥">狙击陈伯</d>
+    <gift ts="614.79" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541278527" gift-id="685" uid="MS4wLjABAAAAEt9L9TTOpNxnc4bU9fxTY9SeVrFmRv-yBgTYvxjBf0w" user="长夜永恒"/>
+    <gift ts="615.983" giftname="人气票" giftcount="10" price="1" create-time="1779541280" gift-id="3992" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮"/>
+    <d p="615.983,1,25,16777215,1779541282000,0,97390823027,7643071607803698218" uid="MS4wLjABAAAAaYCfClkAXCeoDm4vDO6AFa3kdZ38GHSKco0C98DMD6r-p98cbQbkhslIM37bUykT" user="长风">大家快加团和送灯牌，冲粉丝团团任务</d>
+    <gift ts="617.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541283631" gift-id="685" uid="MS4wLjABAAAAPOJLy-rzRmm3TvV1vXndk_Rlg5eeXY86F1-r6fQVm4_i4BuJeDjqkQjyuWJhtC0f" user="胡桃木"/>
+    <gift ts="619.997" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541284012" gift-id="685" uid="MS4wLjABAAAAKicmASqY0PzRH1X8fezWiXlmJ-ghqrQ0Dmp4xNMSIiz0kKk7l1weVJznsdnfBuGy" user=".海"/>
+    <d p="619.997,1,25,16777215,1779541285000,0,380545576,7643071622420801833" uid="MS4wLjABAAAAyoslxf1UgtOQOTM-FxMG55AsC_IxIDc3977zK3JGSj0" user="～晚风～">差点没了[捂脸]</d>
+    <d p="619.997,1,25,16777215,1779541285000,0,39283313960,7643071624119871786" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽">又乱跑</d>
+    <d p="623.991,1,25,16777215,1779541290000,0,cengceng2826,7643071640654488098" uid="MS4wLjABAAAA30Mj2B0Y1mf9oDNYM9V16DIjiQyW5k_iAT9oRbrg-VM" user="ceng  我就蹭蹭">穿的什么玩意</d>
+    <d p="623.991,1,25,16777215,1779541290000,0,86585942499,7643071642722247168" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">极限奶</d>
+    <d p="623.991,1,25,16777215,1779541290000,0,muwu001007,7643071642722312704" uid="MS4wLjABAAAAhYXf5_aVdWcpUTaHNtndUAoLok3YXjAs1PMYf7x6Zas" user="何意味">我去这没死？</d>
+    <d p="625.386,1,25,16777215,1779541291000,0,924902465,7643071647185019407" uid="MS4wLjABAAAAtTignu7KmS-RK8iNqolj9n5noQYbtNVZzcEOZmRiOpc" user="N🇨🇳">哒哒哒哒哒哒哒哒哒哒哒</d>
+    <d p="625.386,1,25,16777215,1779541291000,0,dyc5i4bjme20,7643071649407967759" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">这都不死</d>
+    <gift ts="627.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541292863" gift-id="685" uid="MS4wLjABAAAAxScgXE-zNr51k6uqX-_s_q1VtJI3f2vdvJQLMHuNg8DNSz8qeyTVoGLLNIgn-224" user="🌈打🐢选手💢"/>
+    <gift ts="627.985" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541296089" gift-id="6937" uid="MS4wLjABAAAAQZAYyBGS6vzOfmulS7mrvd5YyqcxbXNcyVbcWFQKky-06LzALp4oYY0F3qzpyezh" user="沈青宁"/>
+    <gift ts="631.982" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541296966" gift-id="685" uid="MS4wLjABAAAAJ1LCd7HFvUZ3CN-McV-LAgG9wW6j4vLNdXTord4UMULMY1Vk61q2IrjMuFggo4jZ" user="小文"/>
+    <gift ts="633.999" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541296089" gift-id="6937" uid="MS4wLjABAAAAQZAYyBGS6vzOfmulS7mrvd5YyqcxbXNcyVbcWFQKky-06LzALp4oYY0F3qzpyezh" user="沈青宁"/>
+    <d p="635.103,1,25,16777215,1779541298000,0,citruslllliii,7643071680692446515" uid="MS4wLjABAAAAItjDSh6I-OsaCnGSLoAlu_YybDpIvliI-hveaOjKnR-SnlyAMY1atQpWNvh99Plh" user="小夜">这活下来了[发呆][发呆]</d>
+    <d p="636.258,1,25,16777215,1779541300000,0,96400226545,7643071687616946483" uid="MS4wLjABAAAAA-4SWTohsq0QmJUDZXxxCQDsXl9CRmISpoJCoelosMPSGQfaM-spE--eo0Muf4W5" user="Akane">差点蒸发</d>
+    <d p="636.258,1,25,16777215,1779541300000,0,TTTTYK76426,7643071687957843727" uid="MS4wLjABAAAAP2jx1vAB--fDkvj7nAErqJFZCgnJuqlTcpCNviJUxLY" user="TTTTYK">吓的裤裆都湿了</d>
+    <d p="636.836,1,25,16777215,1779541301000,0,Laity0520.,7643071694119007498" uid="MS4wLjABAAAADj9Vh2EqqQnrZwFpLv87ZUEAa7ThcAvDqcso8XnCzeYC1X8ycH3pVonahOmBam9q" user="物是人非.">吓死了，刚子[看]</d>
+    <d p="637.414,1,25,16777215,1779541302000,0,lengqing5085,7643071697897551150" uid="MS4wLjABAAAAa6FqO34YblY2ua2bj_Gak3F4Uwvlnvp8lHrFalnjl2Y" user="CIyde-tao">感觉这个辅助</d>
+    <gift ts="637.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541303002" gift-id="685" uid="MS4wLjABAAAAGigz66ZP3-Ag2D1fFWR8Uutr3dayNeavGV2hFdE9SlA" user="汤姆泽脱口秀"/>
+    <d p="637.993,1,25,16777215,1779541303000,0,77500340474,7643071699445675314" uid="MS4wLjABAAAAgSB_lgtwZRAKHtaqFJ9X_ViYfA7bYgnrhw7zdA_PTx0HBs8WgUGDk2GwcLKdtl3w" user="ssjskd">真是男的[捂脸][捂脸][捂脸]</d>
+    <d p="639.324,1,25,16777215,1779541304000,0,92398740120,7643071706320548352" uid="MS4wLjABAAAAhICCXIf6N3d04qNAIHZsQ-NhOTMJ-eNemWIRXGKhzBmsfXpO_VetA6-Ot4qgPqlt" user="无缘羡">超级大按键</d>
+    <gift ts="641.253" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541305449" gift-id="685" uid="MS4wLjABAAAAC8k7rbyi3dc-QDT959vb1vJv8Y8UHrgQDzrtmZvSm8NFJUPIS327r2xEPCJaED39" user="澜冉"/>
+    <d p="641.986,1,25,16777215,1779541306000,0,86585942499,7643071710795158059" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">辅助厉害</d>
+    <d p="641.987,1,25,16777215,1779541306000,0,356113472,7643071712858739206" uid="MS4wLjABAAAAliPQMYEWzFV48BJZl3ZMIx7rvPkeksg6A4D2MZNF8sc" user="回夏">这能活[捂脸]</d>
+    <d p="643.319,1,25,16777215,1779541307000,0,dyjb17nl74bv,7643071716998410027" uid="MS4wLjABAAAAnrG-sAgO-YvhyodFGRJAtR4gnsHun1MfQbQsxYu_yPkm8X-Mq57ztNK_xGdN_4Ah" user="AAA_抖音免费改名">是门主么？</d>
+    <gift ts="645.178" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541308396" gift-id="6937" uid="MS4wLjABAAAAUbXJGEyAme0gr9UnLWyqN7Ozr0UPuZfjOa7W6qfvmH4" user="夜幕刚好~遇见晴天"/>
+    <d p="645.983,1,25,16777215,1779541309000,0,86585942499,7643071727290948627" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">极限奶</d>
+    <gift ts="645.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541308396" gift-id="6937" uid="MS4wLjABAAAAUbXJGEyAme0gr9UnLWyqN7Ozr0UPuZfjOa7W6qfvmH4" user="夜幕刚好~遇见晴天"/>
+    <d p="647.983,1,25,16777215,1779541311000,0,49928356343,7643071735041891630" uid="MS4wLjABAAAA5EO38py-5eTBbYzIng-leTIqydQbperqaUW11_btS88Al4IT3D-8_hRApXzoLLqW" user="年少">这不死</d>
+    <d p="649.998,1,25,16777215,1779541317000,0,84312828269,7643071763446327848" uid="MS4wLjABAAAAc8YAdsPHuRuS-wq9lnyEsiLP8riZenjuNE-6MeEB526oGRFU3CoeL4NZCOWBeT_-" user="笑笑生">🤣</d>
+    <gift ts="650.736" giftname="人气票" giftcount="1" price="1" send-time="1779541317381" gift-id="3992" uid="MS4wLjABAAAAaYCfClkAXCeoDm4vDO6AFa3kdZ38GHSKco0C98DMD6r-p98cbQbkhslIM37bUykT" user="长风"/>
+    <gift ts="653.99" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541319061" gift-id="685" uid="MS4wLjABAAAAUbXJGEyAme0gr9UnLWyqN7Ozr0UPuZfjOa7W6qfvmH4" user="夜幕刚好~遇见晴天"/>
+    <gift ts="653.991" giftname="人气票" giftcount="1" price="1" send-time="1779541317381" gift-id="3992" uid="MS4wLjABAAAAaYCfClkAXCeoDm4vDO6AFa3kdZ38GHSKco0C98DMD6r-p98cbQbkhslIM37bUykT" user="长风"/>
+    <gift ts="657.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541319910" gift-id="685" uid="MS4wLjABAAAAWE_S75bd37ukrlK3kzby2ev3rrqA494gKqPexLb-DQw" user="夜幽主"/>
+    <d p="657.985,1,25,16777215,1779541323000,0,54439033633,7643071787609109550" uid="MS4wLjABAAAArCBWN2s3cJGEhL5aTqn-pbUuQOhsBAtQNzKAe0WACSc" user="同风起">你打王者不开麦吗</d>
+    <gift ts="659.717" giftname="入团卡" giftcount="1" price="1" create-time="1779541324733" gift-id="3242" uid="MS4wLjABAAAAuGpE4cDPHX3_eAkE15QIqR9-7dR2Eq-LPOujiAiU-ljNglox5GW0552ZY3ljU7pC" user="疾风®"/>
+    <d p="659.984,1,25,16777215,1779541325000,0,yyy87319,7643071794098988041" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="659.984,1,25,16777215,1779541325000,0,86585942499,7643071798444056886" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">门主杀气很重</d>
+    <gift ts="661.982" giftname="入团卡" giftcount="1" price="1" create-time="1779541327" gift-id="3242" uid="MS4wLjABAAAAuGpE4cDPHX3_eAkE15QIqR9-7dR2Eq-LPOujiAiU-ljNglox5GW0552ZY3ljU7pC" user="疾风®"/>
+    <d p="661.983,1,25,16777215,1779541328000,0,1756310095,7643071804323479055" uid="MS4wLjABAAAAjb6XaLJlhTU-nd6tvFmUctBIAsoYNQF2IWHRUH35bgc" user="姬尼胎梅">主播兄长哪去了</d>
+    <d p="663.999,1,25,16777215,1779541329000,0,dyci0p97pu14,7643071810939138612" uid="MS4wLjABAAAAn8dNeTLsyEw_pDnUgK23dOne9rRCXiqMDNEiACFsaHFqx80RSN2vTrSWyk8Zg9mt" user="曹髦">这屏幕戳的呱呱响</d>
+    <gift ts="666.175" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541330090" gift-id="685" uid="MS4wLjABAAAAuGpE4cDPHX3_eAkE15QIqR9-7dR2Eq-LPOujiAiU-ljNglox5GW0552ZY3ljU7pC" user="疾风®"/>
+    <gift ts="666.772" giftname="粉丝团灯牌" giftcount="1" price="1" create-time="1779541330389" gift-id="685" uid="MS4wLjABAAAAdVXrqYy0G-MsfmMhSc7dGHnQ_hpgQsQb2NqHEEcLFo9F11suut9kT_HbbyuNPCzu" user="云⁷Θ"/>
+    <d p="667.993,1,25,16777215,1779541331000,0,68841440714,7643071819403225396" uid="MS4wLjABAAAAWbCDGSIA7qCBz-bYD91Ug5YFnopEQJU7hTrc6btd-AHFVj0wBjJa8J0WXRH14HAo" user="搞薯条.">要不说人家天赋好呢</d>
+    <d p="667.993,1,25,16777215,1779541336000,0,dyi0nzkzgkjq,7643071839313207615" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">啄木鸟[看]</d>
+    <d p="671.987,1,25,16777215,1779541339000,0,86585942499,7643071854077293843" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">门主今天带我们杀人</d>
+    <d p="671.987,1,25,16777215,1779541339000,0,32785571419,7643071857637258550" uid="MS4wLjABAAAACgEtSCePvT2KEt03GVer0xnC2CzN1fyQQbYCmBxMSBwWnUTOXG9LQImJhrUwsnfd" user="lzcn">这操作，不对啊</d>
+    <d p="675.983,1,25,16777215,1779541340000,0,77500340474,7643071858946110726" uid="MS4wLjABAAAAgSB_lgtwZRAKHtaqFJ9X_ViYfA7bYgnrhw7zdA_PTx0HBs8WgUGDk2GwcLKdtl3w" user="ssjskd">男的</d>
+    <d p="679.998,1,25,16777215,1779541345000,0,yyy87319,7643071881163831091" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">好看捏[比心]</d>
+    <gift ts="682.154" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541346688" gift-id="685" uid="MS4wLjABAAAAPUQcDXgjkdXjQxHUYWIUgsSjU9jwLZrVwN7tWjD11qI" user="七月初七"/>
+    <d p="682.553,1,25,16777215,1779541347000,0,qwertyuiop416424,7643071886969245723" uid="MS4wLjABAAAAO8gL1Waio3bBnFrzmRRUtiB5TmW_Oti_Q4Y4S3SLQko" user="无怨">你们惊艳了吗？</d>
+    <d p="682.553,1,25,16777215,1779541347000,0,2083504377,7643071890319478835" uid="MS4wLjABAAAAVbqgfzxIiyMbsrhr14RuPSLgfSxYp56y3sZbOOolk1w" user="一两风">打兵线，快把屏幕点坏了[看]</d>
+    <gift ts="683.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541348126" gift-id="685" uid="MS4wLjABAAAAnmr5Xw-74Tna5tf9CLbUDZXmcnK8hFg_JFwaHkM1xcOjpHZGGEOH2f1f1dwg1V_a" user="古月方正"/>
+    <gift ts="683.992" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541349460" gift-id="685" uid="MS4wLjABAAAAUIzHP0FI6BWP5Skqe3Dik4dCVA3NKQ9piwgXC9FPpTA" user="单**"/>
+    <d p="687.985,1,25,16777215,1779541353000,0,yyy87319,7643071912600984870" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">厉害捏[比心]</d>
+    <gift ts="688.492" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541353381" gift-id="685" uid="MS4wLjABAAAAlxjvF6NhgSSim6aV7zUChX-kxiPRbReY1ZHIrarcOiTJNouL04PD7sopsRB7IW3G" user="爱吃披萨"/>
+    <d p="689.317,1,25,16777215,1779541354000,0,32627128793,7643071921056330790" uid="MS4wLjABAAAAHEqt3c_ZXOPizKv_aa3XPMzakupU6CWc0x6l03X-TCw" user="秋映宸">手机要爆了</d>
+    <d p="689.317,1,25,16777215,1779541354000,0,1756310095,7643071924272411686" uid="MS4wLjABAAAAjb6XaLJlhTU-nd6tvFmUctBIAsoYNQF2IWHRUH35bgc" user="姬尼胎梅">谁家啄木鸟</d>
+    <d p="690.650,1,25,16777215,1779541355000,0,dy2uuso1n8ip,7643071924272231462" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">哒哒哒哒哒[比心]</d>
+    <d p="691.982,1,25,16777215,1779541356000,0,wuguihuahai829,7643071926311599631" uid="MS4wLjABAAAAwOJaGlHXSoaMiaDw73ROyMkFfkeg9vDotP18qYi0l1AYJ7FxDd3uZiLVWktnQO5T" user="雾归花海">啥声音</d>
+    <d p="691.983,1,25,16777215,1779541357000,0,582279154,7643071932686055222" uid="MS4wLjABAAAAVXlvYxra3CDU1K17KBJYGEh6Yxk1EW21b5X0hPbPqPU" user="沉默">好惊人的手速啊！</d>
+    <gift ts="693.527" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541357766" gift-id="685" uid="MS4wLjABAAAAsK2k7s9zuXqG0NLxytVQAXrtVN4qGGuVd2ojnsAXDGab3eoC31GI5gV2QxTcfQ5W" user="命舛"/>
+    <d p="693.999,1,25,16777215,1779541358000,0,dyjb17nl74bv,7643071934594660115" uid="MS4wLjABAAAAnrG-sAgO-YvhyodFGRJAtR4gnsHun1MfQbQsxYu_yPkm8X-Mq57ztNK_xGdN_4Ah" user="AAA_抖音免费改名">手机膜的链接发下</d>
+    <d p="693.999,1,25,16777215,1779541359000,0,68841440714,7643071940186018082" uid="MS4wLjABAAAAWbCDGSIA7qCBz-bYD91Ug5YFnopEQJU7hTrc6btd-AHFVj0wBjJa8J0WXRH14HAo" user="搞薯条.">是的是的兄弟哦</d>
+    <d p="696.661,1,25,16777215,1779541361000,0,59315054688,7643071950931710003" uid="MS4wLjABAAAAtX3Opft0bM7tC0vz-BibM6DzrN0ilGpERs4WXdOrZctnP7ENd2NN3FpNP9N7I0gh" user="老-K">蚌埠住了[捂脸]</d>
+    <d p="697.993,1,25,16777215,1779541362000,0,73883939742,7643071952341749811" uid="MS4wLjABAAAAuZlMKYOZXXcQHF3loj3mavJ3iLZc5ZdzSilAYZFnRCdw2SEqLkm9DGE5-w0BQ2bS" user="An">不是，这个戳屏幕笑死我了[捂脸]</d>
+    <d p="697.993,1,25,16777215,1779541364000,0,KK20042026,7643071961825030939" uid="MS4wLjABAAAAmj7PaJAdqtDi6Y7su4lYmMrfxXr4tytF9pWg0-cqrwI" user="凯凯">主播打王者怎么和触电了一样</d>
+    <d p="701.987,1,25,16777215,1779541368000,0,suifengxiang69,7643071981004813614" uid="MS4wLjABAAAA6YjeyDxsWvbpiqDHFvcHviCifDw3HiWLL0_Qw5c6yaLd1ItCRisSNPxF5XeOE4Og" user="拾风">有黑粉吗？可以发力了</d>
+    <d p="705.983,1,25,16777215,1779541370000,0,kuohai25205,7643071987147201572" uid="MS4wLjABAAAAjqpD1hFLmRUyn4BUfUatuGoBenDw8NnbhPX6Zct1JGq9r714eosnm10poYnq1xyV" user="小哀">磁吸散热器对苹果手机不好</d>
+    <d p="705.983,1,25,16777215,1779541370000,0,86585942499,7643071987147267108" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">屏幕快碎了</d>
+    <gift ts="707.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541373033" gift-id="685" uid="MS4wLjABAAAAYh0fU1E7jq38-zdujCGGA_SJBFC4N9XOfu5k_t_vwgA" user="🌈彩虹番茄"/>
+    <d p="709.998,1,25,16777215,1779541378000,0,dyurw60fitei,7643072021811684627" uid="MS4wLjABAAAAZ-Wd8t4isk3p3i-VzZDMBQ1NWlu2E1U2AViX-DwMKfs" user="岚天">能不能把摄像头关闭了[看]</d>
+    <d p="713.991,1,25,16777215,1779541379000,0,yyy87319,7643072023678510342" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="713.992,1,25,16777215,1779541379000,0,dy36k7puswxf,7643072031483431974" uid="MS4wLjABAAAAA095-i9xexg7imIrCK5et70aGVGpkgWDMwbfr9vE7uGT_WWS44KiuyXhlHCg0bem" user="用户37285013109526">这手速单身20年了</d>
+    <d p="717.986,1,25,16777215,1779541383000,0,582279154,7643072040338361641" uid="MS4wLjABAAAAVXlvYxra3CDU1K17KBJYGEh6Yxk1EW21b5X0hPbPqPU" user="沉默">抽筋对不对啊？这么快</d>
+    <d p="720.650,1,25,16777215,1779541385000,0,73921708533,7643072050940237353" uid="MS4wLjABAAAAMdt61DaJs4ke1t_5Vp_IXk8N9nrDwrobEsSZivPUAKJz74dcOL1FkILsNKhb2Z42" user="𝓢𝓸𝓹 𝓤𝓹.（自在极意豪）">屏幕都要戳烂了[捂脸]</d>
+    <d p="721.983,1,25,16777215,1779541386000,0,dyjb17nl74bv,7643072054828733958" uid="MS4wLjABAAAAnrG-sAgO-YvhyodFGRJAtR4gnsHun1MfQbQsxYu_yPkm8X-Mq57ztNK_xGdN_4Ah" user="AAA_抖音免费改名">啵啵啵啵</d>
+    <d p="721.983,1,25,16777215,1779541387000,0,KK20042026,7643072060072127526" uid="MS4wLjABAAAAmj7PaJAdqtDi6Y7su4lYmMrfxXr4tytF9pWg0-cqrwI" user="凯凯">屏幕都点冒烟了</d>
+    <d p="724.000,1,25,16777215,1779541389000,0,621137132,7643072073665468467" uid="MS4wLjABAAAAmjr3CobClJd01UBe_-22Nbsn7x0QfmI6icGnfxvOPGc" user="阿边还是阿华田">你谁？刚子呢</d>
+    <d p="727.993,1,25,16777215,1779541393000,0,86585942499,7643072083388710710" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">想上线蹲点门主</d>
+    <d p="727.993,1,25,16777215,1779541393000,0,90332276189,7643072087616363555" uid="MS4wLjABAAAA7SgqZk1ofMEZaxxaTpeSu-S6llCcRBvxw7ePxq3_a7wAKvkpIVaQ7aolgrQoE199" user="🌈🍗🌈🍗🌈">对手机太暴力了[看]</d>
+    <d p="731.987,1,25,16777215,1779541399000,0,590541003,7643072112488370996" uid="MS4wLjABAAAAgHeeCVA_JOMkqOlLLDTuvm86lX2pYDwP9RpqAj--5FM" user="时光飞逝``">又在捣蒜呢[捂脸][捂脸]</d>
+    <gift ts="735.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541400495" gift-id="685" uid="MS4wLjABAAAAFCDg5dA93VrCk1FdI6ZocaBrZW0wfL3KYqcyvXk8-4A7xZAgQJ5q0AHktNIwGKbF" user="有車！！"/>
+    <d p="735.983,1,25,16777215,1779541402000,0,29593308694,7643072124374463028" uid="MS4wLjABAAAAivp9B0veK2nnJ-7PhqInzrT64CFL_x067rAIGDkKIdPUJ0n_iKqFK4edcyqp3ysY" user="love星">这[捂脸]</d>
+    <gift ts="737.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541402438" gift-id="685" uid="MS4wLjABAAAAhzPk1Vd5Vtf9fOaHelVYAXdHXIjqv3GXUQ10cRQjgR8" user="🌈L"/>
+    <gift ts="737.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541405221" gift-id="685" uid="MS4wLjABAAAAPxB99CbbX_dsMwCRvlL0iuKAmitiz-RG1AmshuIu9G8" user="分开不是尽头"/>
+    <d p="739.998,1,25,16777215,1779541406000,0,78659207764,7643072143132091944" uid="MS4wLjABAAAAAgCyvK_y0AMT5s0kupvwUPtoIm0VVh7P4JDdIf0D1CZ3XqyquZ99TRssenC98z8z" user="宅宝意难平">这cos的谁</d>
+    <gift ts="741.116" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541406687" gift-id="685" uid="MS4wLjABAAAAKw9gHdaeeZ76P9RDqA1-PYSTctHMkeGJAZosRYSgYSo" user="离线状态"/>
+    <gift ts="743.4" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541408090" gift-id="685" uid="MS4wLjABAAAAlumH1-KDzvNwV1H4anFI7yB1yy7h-AzC8oYmH-rPj45fuGHY9jsXnB84cVzDS1iQ" user="这不珂学"/>
+    <gift ts="743.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541408453" gift-id="685" uid="MS4wLjABAAAA_GObIhQd3ZU2T9aA2ClN4l8sfsl-QsAL-qtsTh0-IU0" user="罪与罚"/>
+    <d p="743.992,1,25,16777215,1779541410000,0,582279154,7643072156507891987" uid="MS4wLjABAAAAVXlvYxra3CDU1K17KBJYGEh6Yxk1EW21b5X0hPbPqPU" user="沉默">这弈星不会玩，是我的话能打出天地为局啊</d>
+    <d p="747.986,1,25,16777215,1779541413000,0,78659207764,7643072169271580212" uid="MS4wLjABAAAAAgCyvK_y0AMT5s0kupvwUPtoIm0VVh7P4JDdIf0D1CZ3XqyquZ99TRssenC98z8z" user="宅宝意难平">小乔</d>
+    <d p="751.983,1,25,16777215,1779541414000,0,42260488976,7643072173314641194" uid="MS4wLjABAAAA62IfUtQAGC8cNbwbRUJGY_ximOExyG4q25aIMe2sdV8eBCWuSheHsJrjY6g8U99K" user="此颜差矣">哒哒哒十几下，平A只一下</d>
+    <d p="751.983,1,25,16777215,1779541414000,0,wuguihuahai829,7643072175931812131" uid="MS4wLjABAAAAwOJaGlHXSoaMiaDw73ROyMkFfkeg9vDotP18qYi0l1AYJ7FxDd3uZiLVWktnQO5T" user="雾归花海">为啥有咚咚的声音</d>
+    <d p="751.983,1,25,16777215,1779541417000,0,2780703743C,7643072187537006890" uid="MS4wLjABAAAAebTo_6OiM1t_zKY82n5jMLwlj8XFKTW-W7c37hYrYdb9fnsX7_PFfp4df04Xwn08" user="此间小瓜宝（乞讨版😸）（🍉）">刚子太强了 带带我</d>
+    <gift ts="754" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541420154" gift-id="685" uid="MS4wLjABAAAAmj7PaJAdqtDi6Y7su4lYmMrfxXr4tytF9pWg0-cqrwI" user="凯凯"/>
+    <d p="757.994,1,25,16777215,1779541425000,0,dyf5rq8dt72z,7643072221267425075" uid="MS4wLjABAAAAjoedH3I6nEkplT2_HxS1vRG2tmzF-pQl2qf8b3shq5o_EIIUfYuG_h7bbUOdfQcA" user="用户1562050170260">皮肤错误</d>
+    <d p="757.994,1,25,16777215,1779541425000,0,yyy87319,7643072224827973926" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="761.987,1,25,16777215,1779541428000,0,86585942499,7643072232437490985" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">哒哒哒</d>
+    <d p="761.987,1,25,16777215,1779541428000,0,96400226545,7643072237247309119" uid="MS4wLjABAAAAA-4SWTohsq0QmJUDZXxxCQDsXl9CRmISpoJCoelosMPSGQfaM-spE--eo0Muf4W5" user="Akane">有人狙击主播吗</d>
+    <gift ts="765.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541430361" gift-id="685" uid="MS4wLjABAAAArJHkw3v8YLMtsBQU16d-89Aluy6jr_8DZG0vKn-1rX_sStoGdq1DqETwok3MmUai" user="月汐花潮"/>
+    <d p="765.983,1,25,16777215,1779541431000,0,qw54625462,7643072248211493641" uid="MS4wLjABAAAASIYfpOBgBjqvLa6Uf-yY0eu96kpA7sE4z5Wu_FG2iKBwRAVjVgdmh9sVo3ft7izW" user="迷茫">如果玩司空震屏幕迟早碎[捂脸]</d>
+    <d p="767.983,1,25,16777215,1779541434000,0,86585942499,7643072262274933540" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">电报机启动</d>
+    <d p="769.998,1,25,16777215,1779541437000,0,dyjb17nl74bv,7643072275969341226" uid="MS4wLjABAAAAnrG-sAgO-YvhyodFGRJAtR4gnsHun1MfQbQsxYu_yPkm8X-Mq57ztNK_xGdN_4Ah" user="AAA_抖音免费改名">啵啵啵啵啵啵啵</d>
+    <d p="773.992,1,25,16777215,1779541442000,0,yys_7728406,7643072295594979112" uid="MS4wLjABAAAALNpQPIL1MMtifuEy2Q7DqsQeecpmpQ-27bJ0txHcDgcB13-uinkzY7YFMfkhQ2hr" user="我jio得ok">一顿操作猛如虎，一个没打到</d>
+    <d p="777.986,1,25,16777215,1779541446000,0,47091376238,7643072314217119523" uid="MS4wLjABAAAAEdMiRD8NHhhFw2DKPXNnkn1mFq3CG2BRyx_A4mGsCFbVc4hz4KVmtJ9TntT0eoz0" user="一路看风景">心疼屏幕</d>
+    <d p="777.986,1,25,16777215,1779541446000,0,86585942499,7643072315832254223" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">有人狙击门主吗</d>
+    <d p="781.983,1,25,16777215,1779541448000,0,dyi0nzkzgkjq,7643072322010300196" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">啄木鸟[看]</d>
+    <d p="783.983,1,25,16777215,1779541449000,0,e3942517,7643072326273056554" uid="MS4wLjABAAAAfSPiwezkUIErHoEjVo2kROxfgllq4IUaBDbwqadIW8A" user="内个谁">是本人在玩吗[看]</d>
+    <d p="789.991,1,25,16777215,1779541456000,0,dy2uuso1n8ip,7643072356449472539" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">吸血书立大功</d>
+    <d p="793.985,1,25,16777215,1779541457000,0,380545576,7643072360254570303" uid="MS4wLjABAAAAyoslxf1UgtOQOTM-FxMG55AsC_IxIDc3977zK3JGSj0" user="～晚风～">命真大</d>
+    <d p="793.985,1,25,16777215,1779541462000,0,978750802,7643072384165580068" uid="MS4wLjABAAAAx06KJBJsDs2v86SI-WCzFRPWnOyt1JWTxoIMR7nP08A" user="做我自己">我去，刷过去两遍没认出来，这不我的宁瑶吗？[捂脸]</d>
+    <gift ts="797.982" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541462109" gift-id="685" uid="MS4wLjABAAAAZQEieVXLrv-4TExWrMAsXw3rrbae14oofgJwzMXHK-4" user="Jack Daniels"/>
+    <d p="797.983,1,25,16777215,1779541463000,0,yyy87319,7643072388594437426" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <d p="799.999,1,25,16777215,1779541464000,0,33036877802,7643072392763281699" uid="MS4wLjABAAAAg3M4Kw98yLHhlo_XMAigEJSnpzYMtXwGi9UU6wPovhF1Sj9j6dAHuZ_rY9MlVnZf" user="图袋云设计  阿King">什么段位我带你</d>
+    <d p="799.999,1,25,16777215,1779541466000,0,354875348,7643072401160515364" uid="MS4wLjABAAAArrZaUu8vTfbUtVFW29Bbvg0ZzulXtSxsxOsLXTKx5Nk" user="飘渺孤鸿影">命真大[捂脸]</d>
+    <gift ts="803.991" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541466768" gift-id="685" uid="MS4wLjABAAAAdHb6wQ1qiG1g0wcQUnfsUrPhucTc8iPUL3basEKLk_Y" user="Evolve"/>
+    <d p="803.992,1,25,16777215,1779541471000,0,582279154,7643072424846669098" uid="MS4wLjABAAAAVXlvYxra3CDU1K17KBJYGEh6Yxk1EW21b5X0hPbPqPU" user="沉默">杀一个给他狂</d>
+    <d p="807.986,1,25,16777215,1779541474000,0,72092970661,7643072433699755827" uid="MS4wLjABAAAAbqxfdixXFns1uGat9D_bJwq57KHEJinZnthFpiYdo8rsMWDjZcG___nj6fJLky0B" user="不搭">我的问题</d>
+    <d p="811.983,1,25,16777215,1779541477000,0,86585942499,7643072446850392873" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">哈哈哈哈</d>
+    <d p="813.983,1,25,16777215,1779541479000,0,39283313960,7643072458689380130" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽">有点看不懂</d>
+    <d p="814.998,1,25,16777215,1779541480000,0,91746697814,7643072460170559267" uid="MS4wLjABAAAAZQH4EA60yAqg0DFIn2Xcu6L1n3UQ2P7oV0HIDordh-e_s51oBLAaFHj0GWTkkFRl" user="漱石">辅助好救</d>
+    <gift ts="815.997" giftname="入团卡" giftcount="1" price="1" create-time="1779541480983" gift-id="3242" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <gift ts="815.997" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541482226" gift-id="685" uid="MS4wLjABAAAAvNzoDdH33oBGxlSXw0BXIrxNqEShuSndkjZ6ThRmB7w" user="舟不渡"/>
+    <gift ts="819.991" giftname="入团卡" giftcount="1" price="1" create-time="1779541484" gift-id="3242" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <d p="819.991,1,25,16777215,1779541484000,0,zml1,7643072477417689098" uid="MS4wLjABAAAAxdZZ1flKlm4J4EEz5HwSOmgx--q_YNe0QYURQkUzxwh9dO-Qk3P66dTrpLreeURI" user="彧然">这期神了</d>
+    <d p="819.991,1,25,16777215,1779541484000,0,86585942499,7643072478815129650" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">吸血书立大功</d>
+    <d p="821.108,1,25,16777215,1779541485000,0,wanxi80973,7643072481481871411" uid="MS4wLjABAAAAr9jMOzDDnpPW5S4L8p87OukCvw6Fae7pAxKhaDs7CzU915UgNM994Wq_y-TgDoo-" user="婉兮">卡了嘛</d>
+    <d p="821.108,1,25,16777215,1779541485000,0,dy2uuso1n8ip,7643072481481920563" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">这波是粉丝团内战哈</d>
+    <d p="822.226,1,25,16777215,1779541486000,0,86848550895,7643072485537206318" uid="MS4wLjABAAAA3zn-kk_FARaFwwon-94_F9TqxF7n_p-dJtWuYFWxOZmNXg6paltbG-V3eVcMoMlf" user="陈k">卡了吗</d>
+    <d p="823.343,1,25,16777215,1779541487000,0,78659207764,7643072488289101312" uid="MS4wLjABAAAAAgCyvK_y0AMT5s0kupvwUPtoIm0VVh7P4JDdIf0D1CZ3XqyquZ99TRssenC98z8z" user="宅宝意难平">卡了</d>
+    <gift ts="823.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541487574" gift-id="685" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <gift ts="823.985" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541491603" gift-id="860" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <gift ts="825.239" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541492020" gift-id="685" uid="MS4wLjABAAAAeEVQ4IEK00QBM8OlVtEM0XTusFgg5kh_MMmDFMUsskKuvrIN6R8H2huCYDaeH3yX" user="再见"/>
+    <gift ts="827.982" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541492932" gift-id="860" uid="MS4wLjABAAAAKw9gHdaeeZ76P9RDqA1-PYSTctHMkeGJAZosRYSgYSo" user="离线状态"/>
+    <gift ts="827.983" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541491603" gift-id="860" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <d p="829.653,1,25,16777215,1779541493000,0,dy1crme650ab8,7643072516924184878" uid="MS4wLjABAAAA9QRCUoTVdWZvE8xRdWU64WG_5WxmO-9ozG0qX8MbJwD1rX0DrRdAigYuvQzTb5uw" user="用户1384416969123">居然是打游戏吗</d>
+    <gift ts="829.999" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541493289" gift-id="685" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <gift ts="829.999" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541492932" gift-id="860" uid="MS4wLjABAAAAKw9gHdaeeZ76P9RDqA1-PYSTctHMkeGJAZosRYSgYSo" user="离线状态"/>
+    <d p="831.408,1,25,16777215,1779541495000,0,804093359.,7643072522346417408" uid="MS4wLjABAAAACHQOzVWQefTozXQjYBAD4_al-24dmaE4iHaP8YEqryf_8StNerWxl9gJDqBGSS5j" user="🌈大名">卡了吗</d>
+    <d p="831.408,1,25,16777215,1779541495000,0,yyy87319,7643072526742179112" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="832.74" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541496955" gift-id="860" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <d p="832.771,1,25,4294967295,1779541497000,0,yys_7728406,7643072535169408291" uid="MS4wLjABAAAALNpQPIL1MMtifuEy2Q7DqsQeecpmpQ-27bJ0txHcDgcB13-uinkzY7YFMfkhQ2hr" user="我jio得ok">@做我自己 因为没看到防伪标痣</d>
+    <gift ts="833.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541498792" gift-id="685" uid="MS4wLjABAAAABosJchdKWtUMnaFpJuB42QFvKZI5M6_hCKOES7EJYBOh9z6Bl_JiJukffaAABptF" user="沧海月明"/>
+    <gift ts="833.993" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541496955" gift-id="860" uid="MS4wLjABAAAAaeG8UaT0MW0r9nOz8UcvDioAgVh_PlQ_MQQyOYEWn0I" user="种花家的小兔"/>
+    <d p="835.334,1,25,16777215,1779541499000,0,20256022322,7643072540676790042" uid="MS4wLjABAAAA1fwadeM2wvQFKoFo-gEm0a0Q4yN0jXUhYft11UJOQpzuqhr5erbdY6W6iTHoIokK" user="圣">这是放了个图片，在这里吗？</d>
+    <d p="835.334,1,25,16777215,1779541499000,0,1670368462,7643072542140847898" uid="MS4wLjABAAAADsLVkDpC8kdGRGwvyuXS74D_V3c0B2Aj-2yBp0yNfUA" user="所有人">卡了？</d>
+    <d p="835.990,1,25,16777215,1779541500000,0,380545576,7643072543461781267" uid="MS4wLjABAAAAyoslxf1UgtOQOTM-FxMG55AsC_IxIDc3977zK3JGSj0" user="～晚风～">?</d>
+    <d p="835.990,1,25,16777215,1779541500000,0,G1946308469,7643072546200842003" uid="MS4wLjABAAAAK2rKGAPwrloInT1YhxAJXonyNPrD0Fd_r21Ad7UM42KjhhxmXUgwuwfIRMTyL_JV" user="hao">？</d>
+    <gift ts="836.041" giftname="为你闪耀" giftcount="1" price="9" send-time="1779541500077" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <d p="836.646,1,25,16777215,1779541501000,0,y316497852,7643072546200694547" uid="MS4wLjABAAAALkG6X5xH4Jo2pIogYviTJk-fXdNfXqeHUfuzlHfc8V7haB_m6KTsDwKoxb-YBJGo" user="青颜">?</d>
+    <gift ts="836.677" giftname="为你闪耀" giftcount="2" price="9" send-time="1779541501047" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <gift ts="837.322" giftname="为你闪耀" giftcount="3" price="9" send-time="1779541502030" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <gift ts="837.985" giftname="为你闪耀" giftcount="4" price="9" send-time="1779541503041" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <d p="837.986,1,25,16777215,1779541503000,0,41422497881,7643072556593517850" uid="MS4wLjABAAAAoDuUSZiOBQgOj2omE1QcsUu72gKM6PB6peOnEr-3mn0kEddMk7g0YYChXITPmrHB" user="心碎気火">卡了</d>
+    <gift ts="839.367" giftname="为你闪耀" giftcount="5" price="9" send-time="1779541504037" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <d p="840.650,1,25,16777215,1779541505000,0,MessiandRona,7643072568156973321" uid="MS4wLjABAAAAJiW8GGi3cXX12F3Dh1XhjBkwEe2c-Y5XqsHIKSQLuRaalY-Pl6RRtmWO2biXW8G-" user="天道总司">卡了</d>
+    <d p="840.650,1,25,16777215,1779541505000,0,1994666782,7643072569591851273" uid="MS4wLjABAAAAV-fIdc-kcqYGCKJbZBit0XY2uGuYaRTasUfxcybcWYI" user="繁盛的人间灵">卡了</d>
+    <gift ts="840.695" giftname="为你闪耀" giftcount="6" price="9" send-time="1779541505034" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <d p="841.983,1,25,16777215,1779541506000,0,68981798815,7643072571433192502" uid="MS4wLjABAAAA9nYWhOxksEeZPWeA3GRCAUryxJ0-Ur7Ne3kgHZRroVBMTdngZ1m_WaMzt25G-bq3" user="意中人">？</d>
+    <gift ts="841.983" giftname="为你闪耀" giftcount="6" price="9" send-time="1779541505034" gift-id="860" uid="MS4wLjABAAAAiAn7KMqC7czP0yvYKMIUrj0grIi-pa3Tp87o05qUx54" user="郑章行"/>
+    <d p="843.983,1,25,16777215,1779541508000,0,86585942499,7643072577804654598" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">防伪标签</d>
+    <gift ts="843.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541511006" gift-id="685" uid="MS4wLjABAAAAAc-sILDQzn3bKSf1uxq6d2kEoJe1oax7MrEqZJryzaB24QZqbA1inwdgIJ-2uzIt" user="shiro"/>
+    <d p="845.997,1,25,16777215,1779541511000,0,dyfqre3w2fyd,7643072592718741282" uid="MS4wLjABAAAAsI4lp-N-eT05KmZh-4uPHISgv3yCA8TP4vQCh2HmUNg" user="木目心">可爱</d>
+    <d p="847.328,1,25,16777215,1779541512000,0,dyi0nzkzgkjq,7643072595303026195" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">刚子成人机了</d>
+    <d p="847.328,1,25,16777215,1779541512000,0,QoQOvOQAQ,7643072597379010089" uid="MS4wLjABAAAAHs9_1YI_uHN4U0VEwklECnaRyckW4IR3wX_LY2nhAIM" user="洛希极限">石化了[比心]</d>
+    <d p="849.991,1,25,16777215,1779541514000,0,26944072969,7643072608661247278" uid="MS4wLjABAAAAKm4EGdi-x8FjXidutBYskSZSmuWbU4Qf_tZCp_X18Jo" user="小新">哈哈哈</d>
+    <d p="849.991,1,25,16777215,1779541515000,0,y316497852,7643072609945802034" uid="MS4wLjABAAAALkG6X5xH4Jo2pIogYviTJk-fXdNfXqeHUfuzlHfc8V7haB_m6KTsDwKoxb-YBJGo" user="青颜">卡了[捂脸]</d>
+    <d p="850.989,1,25,16777215,1779541516000,0,57499414160,7643072612478969098" uid="MS4wLjABAAAA7BqoEjiOww2HGscDylLllIy0JCqipJcYD0MSsonq1S8" user="兴韵">？</d>
+    <d p="850.989,1,25,16777215,1779541516000,0,zml1,7643072614894955826" uid="MS4wLjABAAAAxdZZ1flKlm4J4EEz5HwSOmgx--q_YNe0QYURQkUzxwh9dO-Qk3P66dTrpLreeURI" user="彧然">飘了吗，放个照片就来直播</d>
+    <d p="850.989,1,25,16777215,1779541516000,0,72092970661,7643072614895119666" uid="MS4wLjABAAAAbqxfdixXFns1uGat9D_bJwq57KHEJinZnthFpiYdo8rsMWDjZcG___nj6fJLky0B" user="不搭">干嘛呢</d>
+    <d p="850.989,1,25,16777215,1779541516000,0,32785571419,7643072620053196059" uid="MS4wLjABAAAACgEtSCePvT2KEt03GVer0xnC2CzN1fyQQbYCmBxMSBwWnUTOXG9LQImJhrUwsnfd" user="lzcn">主播卡住了</d>
+    <d p="851.988,1,25,16777215,1779541517000,0,dylumledvxvu,7643072616782671130" uid="MS4wLjABAAAACzt-t2rPh0uLr6EB7NzNgquX4fi_McwuxLl13WOJfTSeghecRGgAyZ-PIoZ3Wxeq" user="用户7897294321936">是真人么，眼睛不会动</d>
+    <d p="853.985,1,25,16777215,1779541519000,0,yujiewudu283,7643072626114330378" uid="MS4wLjABAAAADzFEcABZe4KPXCy23heZSyW0mt6c4X0VOh7fys8gfjsDeavsz9LKCI7YkuSwik6M" user="欲劫无渡">怎么播起王者了？</d>
+    <d p="853.985,1,25,16777215,1779541519000,0,32627128793,7643072628630060851" uid="MS4wLjABAAAAHEqt3c_ZXOPizKv_aa3XPMzakupU6CWc0x6l03X-TCw" user="秋映宸">懂你意思</d>
+    <d p="857.983,1,25,16777215,1779541523000,0,39283313960,7643072646468624936" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽">静止了</d>
+    <d p="859.999,1,25,16777215,1779541524000,0,86585942499,7643072649028624896" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">装人机</d>
+    <d p="859.999,1,25,16777215,1779541524000,0,nidemingzi8014,7643072649028723200" uid="MS4wLjABAAAAB7Hscgr3Nl7N8GRMnG9uhtyZ7e9pQHlNJYTMdeMhsMdS_Fjjwg6ZhUs6QSrmsSdU" user="不吃香菜喵！">刚子为啥不动了</d>
+    <d p="859.999,1,25,16777215,1779541524000,0,dyc5i4bjme20,7643072654615013675" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">卡了，手机被凿坏了</d>
+    <d p="863.993,1,25,16777215,1779541525000,0,chongQbideqi,7643072653297576235" uid="MS4wLjABAAAAbpcUwPOPgf5SAHl7EXH9qJ03P76WZWDLFbwe9mR14FTNUA0VUk1w8BdlmXTO25y2" user="冲Q币的企盖">原来是刚子[看][看][看]</d>
+    <d p="863.993,1,25,16777215,1779541530000,0,96750703216,7643072674424224306" uid="MS4wLjABAAAAekahoVwGPgRWjvnpqA8yjQ90YMuf2zxhz3GZHnYr5eSQk0TdCGFgblZ9UwJxC1xA" user="小奇">这还是刚子吗</d>
+    <d p="863.993,1,25,16777215,1779541530000,0,dyz87tfgvh79,7643072676211227187" uid="MS4wLjABAAAAmPJPSXDDOoRbEqHdghNrLacTRneXtN0jXUXIbdJHh8zC0dATUmunmDDg_OhAIYwI" user="齊谶">刚子咋卡了[看]</d>
+    <d p="863.993,1,25,16777215,1779541530000,0,582279154,7643072676211472947" uid="MS4wLjABAAAAVXlvYxra3CDU1K17KBJYGEh6Yxk1EW21b5X0hPbPqPU" user="沉默">我去，厉害呀，还有瞬移</d>
+    <d p="867.986,1,25,16777215,1779541531000,0,Railgun95629,7643072683710134543" uid="MS4wLjABAAAABosJchdKWtUMnaFpJuB42QFvKZI5M6_hCKOES7EJYBOh9z6Bl_JiJukffaAABptF" user="沧海月明">被钟无艳控制了</d>
+    <d p="867.987,1,25,16777215,1779541533000,0,zml1,7643072687404964873" uid="MS4wLjABAAAAxdZZ1flKlm4J4EEz5HwSOmgx--q_YNe0QYURQkUzxwh9dO-Qk3P66dTrpLreeURI" user="彧然">放个照片就来直播了[捂脸][捂脸][捂脸]</d>
+    <d p="867.987,1,25,16777215,1779541533000,0,96400226545,7643072688932117554" uid="MS4wLjABAAAAA-4SWTohsq0QmJUDZXxxCQDsXl9CRmISpoJCoelosMPSGQfaM-spE--eo0Muf4W5" user="Akane">怎么了</d>
+    <d p="869.319,1,25,16777215,1779541534000,0,86585942499,7643072690593668122" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">装人机</d>
+    <d p="869.319,1,25,16777215,1779541534000,0,22072020342,7643072693805259827" uid="MS4wLjABAAAAXfLFiCPPnxQf_sXnmpLLWCi0QEqKpOoBBa4cZx7GbA4" user="逆">别挂机呀</d>
+    <d p="869.319,1,25,16777215,1779541534000,0,96291856534,7643072695362083878" uid="MS4wLjABAAAAOHH27lL1mlc-96NZws-yylAcaPdghoCYGVXmTO1a6hqM7T3m6v-FmT0AfxufX8ng" user="书辙">ok，我把她定住了，兄弟们快行动[看][看][看]</d>
+    <d p="870.651,1,25,16777215,1779541535000,0,58942707371,7643072697120087090" uid="MS4wLjABAAAAVxAcmb4n3blpQhvZcVmSYLRGXLEgQVCKH2uXLxnr4Gb-uXdk53B-6azRst_B_Nbn" user="北风">这是什么？不要动挑战吗？</d>
+    <d p="871.983,1,25,16777215,1779541536000,0,78659207764,7643072700130352174" uid="MS4wLjABAAAAAgCyvK_y0AMT5s0kupvwUPtoIm0VVh7P4JDdIf0D1CZ3XqyquZ99TRssenC98z8z" user="宅宝意难平">完了</d>
+    <d p="871.983,1,25,16777215,1779541536000,0,7758521241u,7643072701645200394" uid="MS4wLjABAAAA_DOC3E-s4yo4vxpddb3GgOxX7hlt0S3cmTO_9ea1gVVYl70ofoiQVuJ1ZgACLrla" user="风吹雾.">？</d>
+    <d p="871.983,1,25,16777215,1779541537000,0,chongQbideqi,7643072703428189235" uid="MS4wLjABAAAAbpcUwPOPgf5SAHl7EXH9qJ03P76WZWDLFbwe9mR14FTNUA0VUk1w8BdlmXTO25y2" user="冲Q币的企盖">刚子你在干什么</d>
+    <d p="871.983,1,25,16777215,1779541537000,0,66105245173,7643072706540462345" uid="MS4wLjABAAAANzjoLATtZrAXZcEQqUsCtNlXJV76HcWnDr2RhyBYnpWw_7ZFr_p3s3qLDK8fkn2u" user="Despair">刚子</d>
+    <d p="873.983,1,25,16777215,1779541539000,0,dy36k7puswxf,7643072714651529243" uid="MS4wLjABAAAAA095-i9xexg7imIrCK5et70aGVGpkgWDMwbfr9vE7uGT_WWS44KiuyXhlHCg0bem" user="用户37285013109526">小乔不是技能伤害吗，你点那么快干嘛</d>
+    <d p="875.997,1,25,16777215,1779541540000,0,dyalgb8bxaj6,7643072716317241353" uid="MS4wLjABAAAAeXLvEw0ctOjr9m-T_a9-ZDM5AMe0GGU_ozZwCjVUkhroKvd4qMtfdNr31U_sVnO7" user="星月狐">原来是卡了</d>
+    <gift ts="875.997" giftname="点点星光" giftcount="1" price="1" send-time="1779541541995" gift-id="685" uid="MS4wLjABAAAAp8R8x5UZtmG2EfJ11oCjDfi90-xVZ5W_qpc8tlxCasg" user="Mr.."/>
+    <d p="879.991,1,25,16777215,1779541542000,0,dyc5i4bjme20,7643072728865961506" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">手机被凿坏了</d>
+    <d p="879.991,1,25,16777215,1779541545000,0,chongQbideqi,7643072739398055209" uid="MS4wLjABAAAAbpcUwPOPgf5SAHl7EXH9qJ03P76WZWDLFbwe9mR14FTNUA0VUk1w8BdlmXTO25y2" user="冲Q币的企盖">刚子怎么不动了</d>
+    <d p="881.128,1,25,16777215,1779541546000,0,dyi0nzkzgkjq,7643072742867570950" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">刚子是AI无疑了，现在没电了[看]</d>
+    <d p="882.266,1,25,16777215,1779541547000,0,dydgftl704ht,7643072744927039798" uid="MS4wLjABAAAAv7qqyGuhi6kdGr4cGGKpzwtniQias0fZ3C8GAqrmZu5wmCGyv7sUuVH9kkV5TH50" user="卡不拉叽">怎么不动了？</d>
+    <gift ts="883.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541548511" gift-id="685" uid="MS4wLjABAAAAt_1EIbDHpYpAsEfcyzvDmFpQVEBo54ibI-nZ305CPLE" user="无可奈何"/>
+    <d p="883.985,1,25,4294967295,1779541548000,0,74528198152,7643072752719474468" uid="MS4wLjABAAAATRvg9P-n0uSGcgxPK2LA9jTM_8l64bbKLuOQzq_v7yyAiGNApTMHlFivOE_Z30A8" user="步履不停">刚子可爱捏[得意][飞吻]</d>
+    <d p="885.037,1,25,16777215,1779541549000,0,7758521241u,7643072754510802694" uid="MS4wLjABAAAA_DOC3E-s4yo4vxpddb3GgOxX7hlt0S3cmTO_9ea1gVVYl70ofoiQVuJ1ZgACLrla" user="风吹雾.">一张照片[捂脸]</d>
+    <d p="886.089,1,25,16777215,1779541550000,0,1159678881,7643072761061275938" uid="MS4wLjABAAAAXtPRslPWID3ydD9paywoH06bybIvTsJGM7DY7uNJXq0" user="陌ら默">怎么是图片</d>
+    <d p="887.141,1,25,16777215,1779541551000,0,Zero_8090,7643072765441047603" uid="MS4wLjABAAAA0s6ZLOsgiw8dao5HjjxntYOz7Bt_l_d5HKDep9aaEnw" user="你与春风皆过客">666</d>
+    <gift ts="887.741" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541551570" gift-id="685" uid="MS4wLjABAAAAtXp-cEPGCl0uEKJSDUKbk45lN46XsUctMp8quKGdJHHOtKVFFl7zg-_x1v76Z7EN" user="观星雨"/>
+    <gift ts="887.982" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541551800" gift-id="6937" uid="MS4wLjABAAAAxEGBTHJZgzYl7zIODrw8vjeoWTMVZMnZbZiGPSNAoXn0mIs4pw0v9f450cAGJf7e" user="无忧🇨🇳"/>
+    <gift ts="887.983" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541551800" gift-id="6937" uid="MS4wLjABAAAAxEGBTHJZgzYl7zIODrw8vjeoWTMVZMnZbZiGPSNAoXn0mIs4pw0v9f450cAGJf7e" user="无忧🇨🇳"/>
+    <d p="889.999,1,25,16777215,1779541557000,0,y316497852,7643072789830263342" uid="MS4wLjABAAAALkG6X5xH4Jo2pIogYviTJk-fXdNfXqeHUfuzlHfc8V7haB_m6KTsDwKoxb-YBJGo" user="青颜">放个照片就来直播了[捂脸][捂脸][捂脸]</d>
+    <d p="893.993,1,25,16777215,1779541559000,0,dymlfd5o2l5z,7643072800080565026" uid="MS4wLjABAAAAmpRhFX3-0VzsKV5r23J6bsrG4EZlJw14FpmZTUuLsX81qZDis8zJPbl31-Gs125P" user="清禾">哈哈哈哈哈</d>
+    <d p="893.993,1,25,16777215,1779541559000,0,57382791653,7643072801703990050" uid="MS4wLjABAAAAF_iE9uudSi7dCOgQyjR03maSgzJw79jMB7rdTCxdchoTZF3W1ttMhEui2hzO5XCC" user="辣椒，">他故意不动的</d>
+    <d p="895.324,1,25,16777215,1779541560000,0,dyfqre3w2fyd,7643072803381859087" uid="MS4wLjABAAAAsI4lp-N-eT05KmZh-4uPHISgv3yCA8TP4vQCh2HmUNg" user="木目心">不</d>
+    <d p="896.655,1,25,16777215,1779541561000,0,yyy87319,7643072807203721984" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱捏[比心]</d>
+    <gift ts="896.96" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541561229" gift-id="685" uid="MS4wLjABAAAAxEGBTHJZgzYl7zIODrw8vjeoWTMVZMnZbZiGPSNAoXn0mIs4pw0v9f450cAGJf7e" user="无忧🇨🇳"/>
+    <d p="897.986,1,25,16777215,1779541562000,0,354875348,7643072810928108841" uid="MS4wLjABAAAArrZaUu8vTfbUtVFW29Bbvg0ZzulXtSxsxOsLXTKx5Nk" user="飘渺孤鸿影">哈哈，都这么狠心啊</d>
+    <d p="897.987,1,25,16777215,1779541562000,0,96750703216,7643072812819690793" uid="MS4wLjABAAAAekahoVwGPgRWjvnpqA8yjQ90YMuf2zxhz3GZHnYr5eSQk0TdCGFgblZ9UwJxC1xA" user="小奇">不认识了</d>
+    <d p="899.985,1,25,16777215,1779541563000,0,74468856757,7643072814803694891" uid="MS4wLjABAAAAAc-sILDQzn3bKSf1uxq6d2kEoJe1oax7MrEqZJryzaB24QZqbA1inwdgIJ-2uzIt" user="shiro">不是这是真的卡了吗</d>
+    <d p="899.985,1,25,16777215,1779541563000,0,2180789240,7643072819010218282" uid="MS4wLjABAAAABP-INyxC6mJNwC7c7UOQload1ZK3T5NpscxS2HAOA8VGLa9SrO0C2aMQWuQNWcwN" user="旅途">这是雕像刚子？</d>
+    <d p="901.983,1,25,16777215,1779541564000,0,38824764316,7643072821870506274" uid="MS4wLjABAAAA6GYdpxQTlP5808ecgMOLhJ_RcMNg3GZ_C7F0RFdwWh8" user="情雨🐾">狙击主播</d>
+    <d p="901.983,1,25,16777215,1779541567000,0,361698138,7643072831705625380" uid="MS4wLjABAAAA9d121YtB71RmUDccn7FvwsoCcO9O6DRg4mdOUWHbSk0" user="vv">？</d>
+    <d p="901.983,1,25,16777215,1779541567000,0,65675899895,7643072834076599561" uid="MS4wLjABAAAAC9CuERWyF76g94xhKOvXvDAvMfydvq6dn2qj_J2zeED_p9E8Fdb7Rf6fEKnh00NF" user="e">怎么是个照片</d>
+    <gift ts="903.801" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541567909" gift-id="685" uid="MS4wLjABAAAAE4HQpnSmvR8UDUUUY-BwfXeMGssMqIFLlciUByPrtINDugEneRrVKndMPWPIZ_7-" user="沐兮"/>
+    <d p="903.983,1,25,16777215,1779541568000,0,nidemingzi8014,7643072835356200211" uid="MS4wLjABAAAAB7Hscgr3Nl7N8GRMnG9uhtyZ7e9pQHlNJYTMdeMhsMdS_Fjjwg6ZhUs6QSrmsSdU" user="不吃香菜喵！">刚子怎么一出去就卡了</d>
+    <d p="905.998,1,25,16777215,1779541572000,0,42127818469,7643072855009141011" uid="MS4wLjABAAAAMh8-pSTHtBzxiwzgG3xVL8bK37gwaO0y_hh3OyArito" user="偏爱">我还以为是季雨</d>
+    <d p="909.990,1,25,16777215,1779541573000,0,78659207764,7643072862052153635" uid="MS4wLjABAAAAAgCyvK_y0AMT5s0kupvwUPtoIm0VVh7P4JDdIf0D1CZ3XqyquZ99TRssenC98z8z" user="宅宝意难平">哈哈哈</d>
+    <d p="909.991,1,25,16777215,1779541576000,0,46749455119,7643072870935848474" uid="MS4wLjABAAAAkL0GiRVyxMGyK9FfqAFR8qIxk62cA77UlGh2kGxPAuNOlpUe1bY4W0_Y26_U81d2" user="顾">录像卡了</d>
+    <d p="913.985,1,25,16777215,1779541578000,0,dyi0nzkzgkjq,7643072876451724586" uid="MS4wLjABAAAA6KdPvNkulB42ITdjHnycI8WVW_f498bF5wWJflxSb2xJnXVoMBSP74gY7oqpl038" user="小小不笑猫">被夺舍了[看]</d>
+    <d p="913.985,1,25,16777215,1779541582000,0,65675899895,7643072898575644681" uid="MS4wLjABAAAAC9CuERWyF76g94xhKOvXvDAvMfydvq6dn2qj_J2zeED_p9E8Fdb7Rf6fEKnh00NF" user="e">你在忽悠谁</d>
+    <d p="917.983,1,25,16777215,1779541582000,0,yyy87319,7643072899926816819" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">可爱滴捏[比心]</d>
+    <d p="919.999,1,25,16777215,1779541586000,0,2180440951,7643072916851570482" uid="MS4wLjABAAAA3RPawnWk0moPrt3bskAh0jR__lOOIML4O0zC27OUtri6K-TJYxF_O1mIQN6vttM2" user="元气¹²ˣ²阿童木">不是故意。毛毛没动。</d>
+    <d p="923.993,1,25,16777215,1779541587000,0,54766359950,7643072919962859314" uid="MS4wLjABAAAAdqMYJ8x0AVEkRll1v4f17C7fNxS5YMxHbVQNDt_cyWo" user="糟糕">没关系[捂脸]</d>
+    <d p="923.993,1,25,16777215,1779541591000,0,yyy87319,7643072936206792458" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">嘿嘿[比心]</d>
+    <d p="927.987,1,25,16777215,1779541593000,0,39283313960,7643072942515572515" uid="MS4wLjABAAAAZspkjCT0lviH5jgwm1Chpzeqxl4GicvRn1E2pnopuSVOZVrVECsZXF6ldMm0gWEc" user="邃烽">新才艺吗[捂脸]</d>
+    <d p="927.987,1,25,16777215,1779541593000,0,nohanoll,7643072944830533376" uid="MS4wLjABAAAAkJ30qJfV_1LWkC0nr-0jTMEzPfOB8Es3T0bZ5kIrstQ" user="夕 朝">[石化]</d>
+    <d p="929.985,1,25,16777215,1779541594000,0,7758521241u,7643072947246173987" uid="MS4wLjABAAAA_DOC3E-s4yo4vxpddb3GgOxX7hlt0S3cmTO_9ea1gVVYl70ofoiQVuJ1ZgACLrla" user="风吹雾.">什么雷霆直播卡成照片了</d>
+    <d p="931.983,1,25,16777215,1779541595000,0,1159678881,7643072953753591040" uid="MS4wLjABAAAAXtPRslPWID3ydD9paywoH06bybIvTsJGM7DY7uNJXq0" user="陌ら默">这是代打上线了吗</d>
+    <d p="931.983,1,25,16777215,1779541599000,0,86585942499,7643072966981899817" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">被夺舍了</d>
+    <d p="933.983,1,25,16777215,1779541600000,0,tthkk999,7643072977060484361" uid="MS4wLjABAAAAJhqbtdUwsulmJJlSmUmiOriAg5mjfgfMFkNxzQa-GpUAxmGPIEh94NmfS9lUvLvf" user="我不是神仙">我喜欢你，刚子！</d>
+    <d p="935.998,1,25,16777215,1779541601000,0,354875348,7643072980167546150" uid="MS4wLjABAAAArrZaUu8vTfbUtVFW29Bbvg0ZzulXtSxsxOsLXTKx5Nk" user="飘渺孤鸿影">你有操作么[捂脸][捂脸][捂脸]</d>
+    <d p="939.992,1,25,16777215,1779541606000,0,67166580649,7643073000488967982" uid="MS4wLjABAAAA7XrelTQwSWd1oZ6UT4h2uvvTU2cgeXCsYMlzelUdDDC_8NSBmv0TGZZT3MWA31WB" user="阳">卡了</d>
+    <d p="942.507,1,25,16777215,1779541608000,0,nidemingzi8014,7643073007712756031" uid="MS4wLjABAAAAB7Hscgr3Nl7N8GRMnG9uhtyZ7e9pQHlNJYTMdeMhsMdS_Fjjwg6ZhUs6QSrmsSdU" user="不吃香菜喵！">刚子今天怎么不开摄像头了</d>
+    <gift ts="943.985" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541609175" gift-id="685" uid="MS4wLjABAAAA7qCRt1fI95XfPUQXXsC2-eNor8qn1Xy4sjduyu2N9qembMjwfywzK5SKM-2BXY6m" user="舟溯"/>
+    <d p="943.985,1,25,16777215,1779541611000,0,38824764316,7643073019981003316" uid="MS4wLjABAAAA6GYdpxQTlP5808ecgMOLhJ_RcMNg3GZ_C7F0RFdwWh8" user="情雨🐾">不是不是，你人咋不动呢？</d>
+    <d p="947.982,1,25,16777215,1779541612000,0,41453710075,7643073026700112168" uid="MS4wLjABAAAApW9r-UbNIAYc4YZ0iQ-kM6KwyB31Oz78_uxFso7G4IyZcaAk7deSIPcPuy6tzhdt" user="大夏龙雀">怎么放图片</d>
+    <d p="947.983,1,25,16777215,1779541614000,0,yyy87319,7643073035461995803" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">真卡了[比心]</d>
+    <d p="949.999,1,25,16777215,1779541618000,0,dy2uuso1n8ip,7643073050225432104" uid="MS4wLjABAAAAUWwkMX9BeLJlVhs6xgb_XJ4LKnm0WDpRiYX_1NAXA7s" user="挣钱买猫粮">设备卡了，道友们看操作[比心]</d>
+    <gift ts="953.993" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541622825" gift-id="685" uid="MS4wLjABAAAA0puGqAT00KzHHORLslnm21aebdTaHhYURp0TSFdLcYk" user="你是欧阳缺了偏旁吗"/>
+    <d p="957.987,1,25,16777215,1779541623000,0,yyy87319,7643073072443185434" uid="MS4wLjABAAAA6W108n8V_ekq5o8GUWq0lajHBaA2HO90EqcOdjiGufQgBzaAyw2AcjgnAmPT4yWZ" user="yyy">不过也可爱捏[比心]</d>
+    <d p="957.987,1,25,16777215,1779541623000,0,86585942499,7643073074175580454" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">放图片</d>
+    <d p="959.319,1,25,16777215,1779541624000,0,QoQOvOQAQ,7643073080907396891" uid="MS4wLjABAAAAHs9_1YI_uHN4U0VEwklECnaRyckW4IR3wX_LY2nhAIM" user="洛希极限">摄像头还卡着呢[比心]</d>
+    <d p="960.651,1,25,16777215,1779541625000,0,dylmzqljuile,7643073082010058530" uid="MS4wLjABAAAA4wiTTifqQ0mKSSWEbKe0i38IdzGbxsel3vBqpHbpPVs" user="mmj">有点诡异[捂脸]</d>
+    <gift ts="961.023" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541625280" gift-id="685" uid="MS4wLjABAAAAL6tNwrREU_1d6t-xwmCC6AbkuNIDSpiJdJYrfUlo4YU" user="苏格兰场"/>
+    <d p="961.983,1,25,16777215,1779541626000,0,2804643628zz,7643073084165799732" uid="MS4wLjABAAAA1x7Pnsd-hT7yzcyYUZouCFxfMG6FikC-wp-Okw43UXKKlbSWt50_BlBSKAToR4mw" user="小f🐟-">这是图片还是卡了[捂脸]</d>
+    <d p="961.983,1,25,16777215,1779541626000,0,26662524943,7643073086543838991" uid="MS4wLjABAAAAv7AWpuhqI9bFtUJgakdaiz5c2eW6Vio94KHdas8II9_-zXZk4W4XriGFDURHGKQj" user="向风">主播卡了吗这是</d>
+    <d p="961.983,1,25,16777215,1779541626000,0,dyjb17nl74bv,7643073086543953679" uid="MS4wLjABAAAAnrG-sAgO-YvhyodFGRJAtR4gnsHun1MfQbQsxYu_yPkm8X-Mq57ztNK_xGdN_4Ah" user="AAA_抖音免费改名">厉害厉害</d>
+    <d p="961.983,1,25,16777215,1779541628000,0,wjr1040484067,7643073095657639430" uid="MS4wLjABAAAAMB8-LWH3AFZ1pan7Nya6ulhVLJSigKAgqkSgcSuUlwMQOQ1Dajjs49m-7H8zkMvy" user="顶坤选手">？？？？？</d>
+    <d p="963.983,1,25,16777215,1779541630000,0,dyalgb8bxaj6,7643073100703651362" uid="MS4wLjABAAAAeXLvEw0ctOjr9m-T_a9-ZDM5AMe0GGU_ozZwCjVUkhroKvd4qMtfdNr31U_sVnO7" user="星月狐">看不太懂</d>
+    <d p="963.983,1,25,16777215,1779541630000,0,1964467827,7643073103387858466" uid="MS4wLjABAAAAfSd43Ap0OWAyKGCct0DFMyQoy83VVyuYjpYoiL8jy2Q" user="黎明">刚子怎么不敲屏幕了[捂脸][捂脸][捂脸]</d>
+    <d p="965.998,1,25,16777215,1779541631000,0,42252042790,7643073110031905819" uid="MS4wLjABAAAAHyrAHGWS66LkJ8m9dl-N4pdX6zxc0B80LXofsOFuTpIK9TyRI2HRaEXwytXImyYm" user="用户3660873166531">怎么没玩妲己</d>
+    <d p="965.998,1,25,16777215,1779541631000,0,dyc5i4bjme20,7643073112657130506" uid="MS4wLjABAAAAkyplCxIa1zFh9gGBi5smTd0YCNqhHxoONvKClkr4Wi5TTnYy5p5jLY5ndOe8DGfb" user="用户8191742010848">完了，打不过了</d>
+    <d p="965.998,1,25,16777215,1779541631000,0,QoQOvOQAQ,7643073112657228810" uid="MS4wLjABAAAAHs9_1YI_uHN4U0VEwklECnaRyckW4IR3wX_LY2nhAIM" user="洛希极限">摄像头还卡着呢[比心]</d>
+    <d p="969.992,1,25,16777215,1779541635000,0,QoQOvOQAQ,7643073126994204186" uid="MS4wLjABAAAAHs9_1YI_uHN4U0VEwklECnaRyckW4IR3wX_LY2nhAIM" user="洛希极限">摄像头还卡着呢[比心]</d>
+    <d p="971.263,1,25,16777215,1779541636000,0,86585942499,7643073131645376010" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">看操作就好</d>
+    <d p="972.534,1,25,16777215,1779541637000,0,32282792119,7643073133327410728" uid="MS4wLjABAAAAfw4k3q5SiMnGgF6_xDDD0uvdynot5TxgaLZXhOL7SrU" user="池鱼思海">？</d>
+    <gift ts="973.986" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541638142" gift-id="6937" uid="MS4wLjABAAAAKz9Nn8txjqEA9zKAC-4oZWPOfCdMWRYhD3muKfZkTjk" user="吃个傻瓜"/>
+    <gift ts="973.986" giftname="点亮粉丝团" giftcount="1" price="1" send-time="1779541638142" gift-id="6937" uid="MS4wLjABAAAAKz9Nn8txjqEA9zKAC-4oZWPOfCdMWRYhD3muKfZkTjk" user="吃个傻瓜"/>
+    <d p="977.112,1,25,16777215,1779541640000,0,fengtinglinz,7643073147680215598" uid="MS4wLjABAAAAqS-xBOfwMjupq3xY8TiClfXXZYpG9C2t4EqxVzS_eZg" user="枫亭林中">kale</d>
+    <d p="977.112,1,25,16777215,1779541640000,0,39245122910,7643073149144486451" uid="MS4wLjABAAAAozTO34OnscMPFsVrZT9-0gjJioq6T3RzgP9CM9XGzgdliKF5LBFEaJwvGLl_exU7" user="春归诗">点点陪伴[比心]</d>
+    <gift ts="977.499" giftname="粉丝团灯牌" giftcount="1" price="1" create-time="1779541640230" gift-id="685" uid="MS4wLjABAAAApRo0VR6CwFDjhP02DLLoBYD9D6oeqsx5e4m-CopmQ14" user="白羊⁴⁸⁶"/>
+    <gift ts="977.983" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541640517" gift-id="685" uid="MS4wLjABAAAAKz9Nn8txjqEA9zKAC-4oZWPOfCdMWRYhD3muKfZkTjk" user="吃个傻瓜"/>
+    <d p="977.983,1,25,16777215,1779541642000,0,QoQOvOQAQ,7643073156799100681" uid="MS4wLjABAAAAHs9_1YI_uHN4U0VEwklECnaRyckW4IR3wX_LY2nhAIM" user="洛希极限">摄像头还卡着呢[比心]</d>
+    <gift ts="979.855" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541643857" gift-id="685" uid="MS4wLjABAAAAWAkaobieeE8toinIBflXNK-asQ0l8xFopPnXqkMsfKQ" user="吃个小派蒙"/>
+    <d p="980.000,1,25,16777215,1779541644000,0,xiangmingziz98,7643073161681196800" uid="MS4wLjABAAAAmVZbsOWrQbboPrr03rWqgNN1jcgrt9f_fLfdVJldI1zurqR_Ms65PYxsuz_B30Pp" user="想名字真难啊">啥呀</d>
+    <d p="980.000,1,25,16777215,1779541644000,0,nohanoll,7643073163686090548" uid="MS4wLjABAAAAkJ30qJfV_1LWkC0nr-0jTMEzPfOB8Es3T0bZ5kIrstQ" user="夕 朝">[送心]</d>
+    <gift ts="982.418" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541646423" gift-id="11884" uid="MS4wLjABAAAAozTO34OnscMPFsVrZT9-0gjJioq6T3RzgP9CM9XGzgdliKF5LBFEaJwvGLl_exU7" user="春归诗"/>
+    <d p="983.993,1,25,16777215,1779541648000,0,38235498231,7643073182002280998" uid="MS4wLjABAAAAsMwi7uWeOR1x46-3mC3ZueA5mCTampJiiHgOUH321JR6E6y7wfa7UjRPcJMki3m7" user="北远">刚子破防了[看]</d>
+    <gift ts="983.993" giftname="星光闪耀" giftcount="1" price="9" send-time="1779541646423" gift-id="11884" uid="MS4wLjABAAAAozTO34OnscMPFsVrZT9-0gjJioq6T3RzgP9CM9XGzgdliKF5LBFEaJwvGLl_exU7" user="春归诗"/>
+    <d p="985.557,1,25,16777215,1779541649000,0,96750703216,7643073186363564314" uid="MS4wLjABAAAAekahoVwGPgRWjvnpqA8yjQ90YMuf2zxhz3GZHnYr5eSQk0TdCGFgblZ9UwJxC1xA" user="小奇">该换手机了</d>
+    <d p="986.165,1,25,16777215,1779541650000,0,citruslllliii,7643073191430822170" uid="MS4wLjABAAAAItjDSh6I-OsaCnGSLoAlu_YybDpIvliI-hveaOjKnR-SnlyAMY1atQpWNvh99Plh" user="小夜">卡了卡了，打完这把看看</d>
+    <d p="986.772,1,25,16777215,1779541651000,0,86585942499,7643073196106946843" uid="MS4wLjABAAAA3qF_KNy0QIf33xnrhN7JYQylqHwKPMpFFR1be-iwaIzFSgJIi7yMhb7BaPGcEwp_" user="咕咕">屏幕被按坏了</d>
+    <gift ts="987.402" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541652038" gift-id="685" uid="MS4wLjABAAAA2-dQnny9OFLLMRlkHF097P18VGJes83bzSl5zXZmnb_0NpmWbBicsluS4LL2hBM9" user="神圣凯莎"/>
+    <d p="987.986,1,25,16777215,1779541653000,0,73875948836,7643073199807226667" uid="MS4wLjABAAAA7WV2-gK4LRqVk6tbHHM77dZLRDKvgbVptFNIo8YQkgloYFfmEg0ogFPG-LSOm3GX" user="大魏忠臣司马师">这次是谁</d>
+    <gift ts="987.987" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541655082" gift-id="685" uid="MS4wLjABAAAAmVZbsOWrQbboPrr03rWqgNN1jcgrt9f_fLfdVJldI1zurqR_Ms65PYxsuz_B30Pp" user="想名字真难啊"/>
+    <d p="995.998,1,25,16777215,1779541664000,0,74528198152,7643073253212321067" uid="MS4wLjABAAAATRvg9P-n0uSGcgxPK2LA9jTM_8l64bbKLuOQzq_v7yyAiGNApTMHlFivOE_Z30A8" user="步履不停">刚子，你摄像头是昏死了吗，赶紧刷新一下</d>
+    <d p="999.992,1,25,16777215,1779541667000,0,46851273379,7643073261933620490" uid="MS4wLjABAAAAK02J9SHmzhnSG-wNbcFqJUIvovxWe_LAUSYbxTwbzmo" user="达·不芬奇">这个表情好呆呀，像人机。</d>
+    <d p="1003.492,1,25,16777215,1779541668000,0,32282792119,7643073267356167475" uid="MS4wLjABAAAAfw4k3q5SiMnGgF6_xDDD0uvdynot5TxgaLZXhOL7SrU" user="池鱼思海">太诡异了[捂脸]</d>
+    <gift ts="1003.986" giftname="粉丝团灯牌" giftcount="1" price="1" send-time="1779541668141" gift-id="685" uid="MS4wLjABAAAApW_Z25__f1_NzEZL6mn6syr9H4L7m5JDkCPXzJ659vU" user="江火"/>
+</i>
